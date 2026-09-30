@@ -34,16 +34,18 @@ export default function PrivacyPage() {
         </p>
         <h2>Advertising</h2>
         <p>
-          We display ads served by third-party advertising partners, including
-          Google AdSense. These partners may use cookies to serve ads based on your
-          visits to this and other sites. You can opt out of personalized advertising
-          in your Google ad settings. Learn more at Google's advertising privacy
-          policy.
+          We display advertisements and sponsored links served by the third-party
+          partner stature nonsense (staturenonsense.com). The partner and its
+          advertising providers may use cookies, device information, and similar
+          technologies to deliver, measure, and personalize ads. Their collection
+          and use of information is governed by their own privacy terms. You can
+          manage cookies through your browser settings; blocking them may affect
+          advertising features.
         </p>
         <h2>Cookies</h2>
         <p>
-          We use a minimal set of cookies: those required for advertising partners
-          and, on the admin area only, an authentication cookie. You can disable
+          We use cookies that may be set by advertising partners and, on the admin
+          area only, an authentication cookie. You can disable
           cookies in your browser settings, though some features may not work.
         </p>
         <h2>Children</h2>

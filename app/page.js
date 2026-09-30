@@ -3,6 +3,7 @@ import { TOOLS } from '@/lib/tools';
 import { getAllPosts } from '@/lib/blog';
 import JsonLd from '@/components/JsonLd';
 import { absUrl, SITE_NAME } from '@/lib/seo';
+import { BannerAd, NativeAd } from '@/components/AdSlot';
 
 const HOME_FAQS = [
   {
@@ -54,6 +55,8 @@ export default function HomePage() {
         </div>
       </section>
 
+      <div className="container"><BannerAd size="728x90" /></div>
+
       <section className="section" id="tools">
         <div className="container">
           <h2>All calculators</h2>
@@ -73,6 +76,8 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <div className="container"><NativeAd /></div>
 
       <section className="section" style={{ background: '#fff', borderTop: '1px solid #e2e8f0', borderBottom: '1px solid #e2e8f0' }}>
         <div className="container prose">

@@ -2,6 +2,7 @@ import './globals.css';
 import SiteHeader from '@/components/SiteHeader';
 import SiteFooter from '@/components/SiteFooter';
 import JsonLd from '@/components/JsonLd';
+import AdNetworkScripts from '@/components/AdNetworkScripts';
 import { defaultMetadata, websiteJsonLd } from '@/lib/seo';
 
 export const metadata = defaultMetadata();
@@ -11,6 +12,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <JsonLd data={websiteJsonLd()} />
+        <AdNetworkScripts />
         <SiteHeader />
         <main>{children}</main>
         <SiteFooter />

@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getPost, getAllPostSlugs } from '@/lib/blog';
 import JsonLd from '@/components/JsonLd';
 import { absUrl, SITE_NAME } from '@/lib/seo';
+import { BannerAd } from '@/components/AdSlot';
 
 export function generateStaticParams() {
   return getAllPostSlugs().map((slug) => ({ slug }));
@@ -55,6 +56,7 @@ export default async function BlogPost({ params }) {
         </div>
         <div className="article-body" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>
+      <BannerAd size="300x250" />
       <div className="disclaimer" style={{ maxWidth: 760 }}>
         <strong>Disclaimer:</strong> This article is for educational purposes only and is
         not financial advice. Consult a qualified professional before making financial decisions.

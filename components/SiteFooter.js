@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { TOOLS } from '@/lib/tools';
+import { SmartlinkAd } from '@/components/AdSlot';
 
 export default function SiteFooter() {
   const featured = TOOLS.slice(0, 6);
@@ -34,6 +35,7 @@ export default function SiteFooter() {
           purposes and are not financial advice. Consult a qualified professional
           before making financial decisions.
         </div>
+        <SmartlinkAd />
       </div>
     </footer>
   );

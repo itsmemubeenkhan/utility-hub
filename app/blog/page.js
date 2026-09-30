@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getAllPosts } from '@/lib/blog';
 import JsonLd from '@/components/JsonLd';
 import { absUrl } from '@/lib/seo';
+import { BannerAd } from '@/components/AdSlot';
 
 export const metadata = {
   title: 'Money Guides & Explainers',
@@ -42,6 +43,7 @@ export default function BlogIndex() {
           written to pair with our calculators.
         </p>
       </div>
+      <BannerAd size="468x60" />
       <div className="post-grid">
         {posts.map((p) => (
           <Link key={p.slug} href={'/blog/' + p.slug} className="post-card">

@@ -4,6 +4,7 @@ import { getTool, getAllToolSlugs } from '@/lib/tools';
 import ToolRunner from '@/components/ToolRunner';
 import JsonLd from '@/components/JsonLd';
 import { absUrl } from '@/lib/seo';
+import { BannerAd } from '@/components/AdSlot';
 
 export function generateStaticParams() {
   return getAllToolSlugs().map((slug) => ({ slug }));
@@ -55,6 +56,8 @@ export default function ToolPage({ params }) {
       </div>
 
       <ToolRunner slug={tool.slug} inputs={tool.inputs} />
+
+      <BannerAd size="300x250" />
 
       <div className="prose" style={{ marginTop: 40 }}>
         <h2>How this calculator works</h2>
