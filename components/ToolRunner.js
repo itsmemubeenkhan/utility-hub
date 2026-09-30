@@ -84,7 +84,7 @@ export default function ToolRunner({ slug, inputs }) {
       </div>
       <div>
         {!result && <div className="warn-box">Could not compute results with these inputs.</div>}
-        {result && result.warn && <div className="warn-box">Heads up — check the payoff note below; this payment may never clear the balance.</div>}
+        {result && result.warn && <div className="warn-box">Heads up: check the payoff note below; this payment may never clear the balance.</div>}
         {result && (
           <div className="results" aria-live="polite">
             {result.outputs.map((o, i) => (

@@ -1,4 +1,4 @@
-# UtilityHub — US Finance Calculators + SEO Blog
+# UtilityHub: US Finance Calculators + SEO Blog
 
 A dynamic Next.js (App Router) web app: 12 interactive US finance calculators,
 an SEO blog backed by Markdown files, and a password-protected admin UI to
@@ -37,13 +37,13 @@ npm run test:calc
 
 ## Site structure
 
-- `/` — hero, tool grid (from registry), SEO intro copy, latest posts, FAQ
-- `/tools/[slug]` — the 12 calculators (dynamic from registry)
-- `/blog` — article listing; `/blog/[slug]` — full article from Markdown
-- `/about`, `/contact`, `/privacy-policy`, `/terms` — AdSense-ready pages
-- `/sitemap.xml` — dynamic (all tools + posts, uses `NEXT_PUBLIC_SITE_URL`)
-- `/robots.txt` — allows all, disallows `/admin` and `/api/`, points at sitemap
-- `/admin` — password-protected blog CMS (login → list → create/edit/delete)
+- `/`: hero, tool grid (from registry), SEO intro copy, latest posts, FAQ
+- `/tools/[slug]`: the 12 calculators (dynamic from registry)
+- `/blog`: article listing; `/blog/[slug]`: full article from Markdown
+- `/about`, `/contact`, `/privacy-policy`, `/terms`: AdSense-ready pages
+- `/sitemap.xml`: dynamic (all tools + posts, uses `NEXT_PUBLIC_SITE_URL`)
+- `/robots.txt`: allows all, disallows `/admin` and `/api/`, points at sitemap
+- `/admin`: password-protected blog CMS (login → list → create/edit/delete)
 
 ## How to add a new tool
 
@@ -63,7 +63,7 @@ npm run test:calc
    category, badge, `inputs` schema (`number` | `select` | `checkbox` with
    defaults), `calculate`, `metaTitle`, `metaDescription`, `keywords`,
    `explainer` (~250 words, `\n\n`-separated paragraphs), and 4 `faqs`.
-4. Rebuild — the page, sitemap entry, metadata and FAQ schema generate automatically.
+4. Rebuild. The page, sitemap entry, metadata and FAQ schema generate automatically.
 
 Test the math first: add a case to `tests/benchmarks.mjs` and run `npm run test:calc`.
 
@@ -95,9 +95,9 @@ and Open Graph tags automatically.
 
 - **Recommended: Vercel (free tier).** Connect the repo, set the two env vars,
   deploy. The `/admin` CMS writes to `content/blog/` on the server's
-  filesystem — on Vercel this works per-instance but is **ephemeral across
+  filesystem. On Vercel this works per-instance but is **ephemeral across
   deploys**; for a durable CMS, commit posts via git or attach persistent
-  storage. (Static export is intentionally NOT used — the admin needs a server.)
+  storage. (Static export is intentionally NOT used because the admin needs a server.)
 - **Any Node host** (VPS, Railway, Render, Fly.io): `npm run build && npm start`,
   set env vars, and put a reverse proxy (Caddy/Nginx) in front for HTTPS.
 - Set `NEXT_PUBLIC_SITE_URL` to the real domain **before** `npm run build` so
@@ -112,5 +112,5 @@ and Open Graph tags automatically.
 - JSON-LD: `WebSite` (global), `FAQPage` (every tool page), `Article`
   (every blog post), `ItemList` (home + blog listing).
 - Semantic HTML, breadcrumbs, mobile-responsive, system fonts (zero webfont
-  requests), no heavy JS dependencies — first-load JS ~103–111 kB.
+  requests), no heavy JS dependencies, and first-load JS ~103–111 kB.
 - `/admin` and `/api/*` are `noindex` and disallowed in robots.txt.

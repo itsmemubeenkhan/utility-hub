@@ -79,7 +79,7 @@ export default function ToolPage({ params }) {
       <div className="disclaimer">
         <strong>Disclaimer:</strong> Results are estimates for planning purposes only
         and are not financial advice. Actual loan terms, taxes and investment returns
-        vary — consult a qualified professional before making financial decisions.
+        vary. Consult a qualified professional before making financial decisions.
       </div>
     </div>
   );

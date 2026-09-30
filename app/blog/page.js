@@ -7,7 +7,7 @@ import { BannerAd } from '@/components/AdSlot';
 export const metadata = {
   title: 'Money Guides & Explainers',
   description:
-    'Plain-English guides to mortgages, loans, investing, taxes and debt payoff — written to pair with our free finance calculators.',
+    'Plain-English guides to mortgages, loans, investing, taxes and debt payoff, written to pair with our free finance calculators.',
   alternates: { canonical: absUrl('/blog') },
   openGraph: {
     title: 'Money Guides & Explainers | UtilityHub',
@@ -39,7 +39,7 @@ export default function BlogIndex() {
       <div className="page-head" style={{ marginBottom: 28 }}>
         <h1>Money guides</h1>
         <p className="lede">
-          In-depth, jargon-free explainers on mortgages, loans, investing and debt —
+          In-depth, jargon-free explainers on mortgages, loans, investing and debt,
           written to pair with our calculators.
         </p>
       </div>
@@ -53,7 +53,7 @@ export default function BlogIndex() {
           </Link>
         ))}
       </div>
-      {posts.length === 0 && <p>No articles yet — check back soon.</p>}
+      {posts.length === 0 && <p>No articles yet, check back soon.</p>}
     </div>
   );
 }

@@ -1,4 +1,4 @@
-/* Benchmark tests for lib/calculations.js — run with: npm run test:calc */
+/* Benchmark tests for lib/calculations.js: run with npm run test:calc */
 import assert from 'node:assert/strict';
 import {
   mortgage, loanpayment, compound, savingsgoal, debtpayoff,

@@ -8,11 +8,11 @@ import { BannerAd, NativeAd } from '@/components/AdSlot';
 const HOME_FAQS = [
   {
     q: 'Are these calculators really free?',
-    a: 'Yes — every calculator on UtilityHub is free to use with no sign-up. We show ads to keep the tools free for everyone.',
+    a: 'Yes, every calculator on UtilityHub is free to use with no sign-up. We show ads to keep the tools free for everyone.',
   },
   {
     q: 'How accurate are the results?',
-    a: 'Our calculators use standard financial formulas (amortization, compound growth, US tax brackets) and are tested against known benchmarks. They are estimates for planning — always confirm with your lender, tax professional or advisor before acting.',
+    a: 'Our calculators use standard financial formulas (amortization, compound growth, US tax brackets) and are tested against known benchmarks. They are estimates for planning. Always confirm with your lender, tax professional or advisor before acting.',
   },
   {
     q: 'Do you store the numbers I enter?',
@@ -45,7 +45,7 @@ export default function HomePage() {
         <div className="container">
           <h1>Free finance calculators, explained in plain English</h1>
           <p>
-            Mortgages, loans, investing, taxes and debt payoff — run the numbers
+            Mortgages, loans, investing, taxes and debt payoff. Run the numbers
             instantly and actually understand what they mean.
           </p>
           <div className="hero-cta">
@@ -61,7 +61,7 @@ export default function HomePage() {
         <div className="container">
           <h2>All calculators</h2>
           <p className="sub">
-            Twelve precision tools for the biggest money decisions Americans make —
+            Twelve precision tools for the biggest money decisions Americans make:
             buying a home, borrowing, investing and getting out of debt.
           </p>
           <div className="tool-grid">
@@ -85,8 +85,8 @@ export default function HomePage() {
           <p>
             Most expensive financial mistakes share one trait: nobody did the math first.
             A mortgage signed without comparing total interest, a car bought on monthly
-            payment alone, a retirement plan built on hope instead of contributions —
-            each one costs tens of thousands of dollars. UtilityHub exists to make that
+            payment alone, or a retirement plan built on hope instead of contributions.
+            Each one can cost tens of thousands of dollars. UtilityHub exists to make that
             math effortless.
           </p>
           <p>
@@ -95,13 +95,13 @@ export default function HomePage() {
             amortization front-loads mortgage interest, why the 28/36 rule caps your
             home price, how compound growth bends upward over decades, and when
             refinancing actually pays for itself. You get charts, payoff timelines and
-            breakeven points — not just a single number.
+            breakeven points, not just a single number.
           </p>
           <p>
             The tools are built for the US market: federal tax brackets for the
             paycheck calculator, standard mortgage conventions, and dollar-based
             examples throughout. Results are estimates for planning purposes, verified
-            against known benchmarks, and computed entirely in your browser — your
+            against known benchmarks and are computed entirely in your browser. Your
             numbers never leave your device.
           </p>
         </div>

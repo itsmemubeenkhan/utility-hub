@@ -15,9 +15,9 @@ export default function AboutPage() {
       <div className="card prose">
         <p>
           UtilityHub is a free resource for anyone who wants to understand their money
-          better. We build precision finance calculators — for mortgages, loans,
-          investing, taxes and debt payoff — and pair each one with a plain-English
-          explanation of how the underlying math works.
+          better. We build precision finance calculators for mortgages, loans,
+          investing, taxes and debt payoff. Each comes with a plain-English explanation
+          of how the underlying math works.
         </p>
         <h2>What we do</h2>
         <p>
@@ -31,13 +31,13 @@ export default function AboutPage() {
         <p>
           UtilityHub is an educational tool, not a lender, broker, tax preparer or
           investment advisor. Nothing on this site is financial advice. Figures are
-          estimates for planning purposes — always confirm important decisions with a
+          estimates for planning purposes. Always confirm important decisions with a
           qualified professional.
         </p>
         <h2>How we stay free</h2>
         <p>
           The calculators are free to use with no account required. We keep the lights
-          on with advertising. We never sell your data — in fact, we never collect the
+          on with advertising. We never sell your data, and we never collect the
           numbers you enter; calculations happen locally on your device.
         </p>
       </div>

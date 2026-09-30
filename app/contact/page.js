@@ -13,7 +13,7 @@ export default function ContactPage() {
         <h1>Contact us</h1>
         <p className="lede">
           Questions about a calculator, a correction for an article, or feedback on
-          the site — we would like to hear from you.
+          the site. We would like to hear from you.
         </p>
       </div>
       <div className="card prose">
@@ -25,7 +25,7 @@ export default function ContactPage() {
         <h2>What to include</h2>
         <p>
           For calculator issues, tell us which tool you used, the numbers you entered
-          and what looked wrong — it helps us reproduce and fix the problem quickly.
+          and what looked wrong. That helps us reproduce and fix the problem quickly.
           For article corrections, include the article title and the passage in
           question.
         </p>

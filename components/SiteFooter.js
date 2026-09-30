@@ -12,7 +12,7 @@ export default function SiteFooter() {
             <h4>UtilityHub</h4>
             <p style={{ maxWidth: 340 }}>
               Free US finance calculators and plain-English money guides.
-              Mortgage, loans, investing, taxes and debt — explained and computed.
+              Mortgage, loans, investing, taxes and debt, explained and computed.
             </p>
           </div>
           <div>

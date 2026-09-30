@@ -43,7 +43,7 @@ export default function AdminClient() {
     });
     const data = await res.json();
     if (data.ok) {
-      setMsg({ type: 'ok', text: (editing ? 'Updated' : 'Created') + ' — /blog/' + data.slug });
+      setMsg({ type: 'ok', text: (editing ? 'Updated' : 'Created') + ', /blog/' + data.slug });
       setForm(EMPTY);
       setEditing(null);
       load();
@@ -80,7 +80,7 @@ export default function AdminClient() {
             </div>
             {!editing && (
               <div className="field">
-                <label>Slug (optional — auto-generated from title)</label>
+                <label>Slug (optional, auto-generated from title)</label>
                 <input type="text" value={form.slug} onChange={(e) => set('slug', e.target.value)}
                   style={{ width: '100%', padding: '10px 12px', border: '1.5px solid #e2e8f0', borderRadius: 8 }} />
               </div>

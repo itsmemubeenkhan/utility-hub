@@ -19,7 +19,7 @@ export default function TermsPage() {
           By accessing {SITE_NAME} you agree to these terms. If you do not agree,
           please do not use the site.
         </p>
-        <h2>Educational purpose only — not financial advice</h2>
+        <h2>Educational purpose only: not financial advice</h2>
         <p>
           All calculators, articles and figures on this site are provided for
           general educational and planning purposes only. They are estimates, not
