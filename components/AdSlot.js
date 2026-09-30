@@ -20,15 +20,27 @@ export function BannerAd({ size = '300x250' }) {
 
     const host = hostRef.current;
     const options = document.createElement('script');
-    options.text = `atOptions = { key: '${banner.key}', format: 'iframe', height: ${banner.height}, width: ${banner.width}, params: {} };`;
+    options.textContent = `window.atOptions = { key: '${banner.key}', format: 'iframe', height: ${banner.height}, width: ${banner.width}, params: {} };`;
     host.appendChild(options);
 
     const invoke = document.createElement('script');
     invoke.src = `https://staturenonsense.com/${banner.key}/invoke.js`;
-    invoke.async = true;
+    // Preserve the config-before-invoke order used by the provider's original snippet.
+    invoke.async = false;
+    const hideIfUnfilled = () => {
+      host.closest('.ad-slot')?.classList.add('ad-slot-empty');
+    };
+    invoke.onerror = hideIfUnfilled;
     host.appendChild(invoke);
 
-    return () => host.replaceChildren();
+    const emptySlotTimer = window.setTimeout(() => {
+      if (!host.querySelector('iframe, a, img')) hideIfUnfilled();
+    }, 12000);
+
+    return () => {
+      window.clearTimeout(emptySlotTimer);
+      host.replaceChildren();
+    };
   }, [size]);
 
   return (
@@ -53,8 +65,18 @@ export function NativeAd() {
     script.src = 'https://staturenonsense.com/3e883b67886030963b48211b97d11608/invoke.js';
     script.async = true;
     script.dataset.cfasync = 'false';
+    const hideIfUnfilled = () => {
+      host.closest('.ad-slot')?.classList.add('ad-slot-empty');
+    };
+    script.onerror = hideIfUnfilled;
     host.appendChild(script);
-    return () => host.replaceChildren();
+    const emptySlotTimer = window.setTimeout(() => {
+      if (!host.querySelector('iframe, a, img')) hideIfUnfilled();
+    }, 12000);
+    return () => {
+      window.clearTimeout(emptySlotTimer);
+      host.replaceChildren();
+    };
   }, []);
 
   return (
