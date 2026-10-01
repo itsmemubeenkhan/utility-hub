@@ -1,7 +1,8 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getPost, getAllPostSlugs } from '@/lib/blog';
+import { getPost, getAllPosts, getAllPostSlugs, formatDate } from '@/lib/blog';
 import JsonLd from '@/components/JsonLd';
+import PostCard from '@/components/PostCard';
 import { absUrl, SITE_NAME, AUTHOR_NAME, AUTHOR_URL } from '@/lib/seo';
 import { BannerAd } from '@/components/AdSlot';
 
@@ -29,6 +30,15 @@ export async function generateMetadata({ params }) {
   };
 }
 
+function initials(name) {
+  return String(name || '')
+    .split(/\s+/)
+    .map((w) => w[0])
+    .join('')
+    .slice(0, 2)
+    .toUpperCase();
+}
+
 export default async function BlogPost({ params }) {
   const post = await getPost(params.slug);
   if (!post) notFound();
@@ -44,20 +54,53 @@ export default async function BlogPost({ params }) {
     publisher: { '@type': 'Organization', name: SITE_NAME },
     mainEntityOfPage: url,
   };
+  const others = getAllPosts().filter((p) => p.slug !== post.slug);
+  const related = [
+    ...others.filter((p) => p.category === post.category),
+    ...others.filter((p) => p.category !== post.category),
+  ].slice(0, 3);
+
   return (
     <div className="container">
       <JsonLd data={articleJsonLd} />
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href="/">Home</Link> › <Link href="/blog">Blog</Link> › <span>{post.title}</span>
       </nav>
+
       <article className="prose" style={{ marginTop: 8 }}>
-        <h1 style={{ fontSize: '2.1rem', letterSpacing: '-0.02em', marginBottom: 8 }}>{post.title}</h1>
-        <div className="post-meta">
-          By {AUTHOR_NAME} · Published {post.date}
+        <span className="post-cat">{post.category}</span>
+        <h1 className="article-title">{post.title}</h1>
+        <div className="byline">
+          <span className="avatar" aria-hidden="true">{initials(AUTHOR_NAME)}</span>
+          <span className="who">
+            By <strong>{AUTHOR_NAME}</strong>
+            <br />
+            {formatDate(post.date)} · {post.readingTime} min read
+          </span>
+        </div>
+        <div className="key-takeaway">
+          <strong>Key takeaway:</strong> {post.description}
         </div>
         <div className="article-body" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>
+
       <BannerAd size="300x250" />
+
+      {related.length > 0 && (
+        <section className="related" aria-label="Related articles">
+          <h2>Keep reading</h2>
+          <div className="post-grid">
+            {related.map((p) => (
+              <PostCard key={p.slug} post={p} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      <div style={{ marginTop: 28 }}>
+        <Link href="/blog">← All money guides</Link>
+      </div>
+
       <div className="disclaimer" style={{ maxWidth: 760 }}>
         <strong>Disclaimer:</strong> This article is for educational purposes only and is
         not financial advice. Consult a qualified professional before making financial decisions.

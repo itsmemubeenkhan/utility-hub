@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import { getAllPosts } from '@/lib/blog';
+import { getAllPosts, formatDate } from '@/lib/blog';
 import JsonLd from '@/components/JsonLd';
+import PostCard from '@/components/PostCard';
 import { absUrl } from '@/lib/seo';
 import { BannerAd } from '@/components/AdSlot';
 
@@ -19,6 +20,7 @@ export const metadata = {
 
 export default function BlogIndex() {
   const posts = getAllPosts();
+  const [featured, ...rest] = posts;
   const itemList = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
@@ -43,14 +45,26 @@ export default function BlogIndex() {
           written to pair with our calculators.
         </p>
       </div>
+
+      {featured && (
+        <Link href={'/blog/' + featured.slug} className="featured-card">
+          <span className="featured-badge">Latest</span>
+          <span className="post-cat">{featured.category}</span>
+          <h2>{featured.title}</h2>
+          <p>{featured.description}</p>
+          <span className="post-meta-row">
+            <span>{formatDate(featured.date)}</span>
+            <span aria-hidden="true">·</span>
+            <span>{featured.readingTime} min read</span>
+          </span>
+        </Link>
+      )}
+
       <BannerAd size="468x60" />
+
       <div className="post-grid">
-        {posts.map((p) => (
-          <Link key={p.slug} href={'/blog/' + p.slug} className="post-card">
-            <h3>{p.title}</h3>
-            <p>{p.description}</p>
-            <span className="post-date">{p.date}</span>
-          </Link>
+        {rest.map((p) => (
+          <PostCard key={p.slug} post={p} />
         ))}
       </div>
       {posts.length === 0 && <p>No articles yet, check back soon.</p>}
