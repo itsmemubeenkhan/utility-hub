@@ -21,6 +21,7 @@ export async function generateMetadata({ params }) {
       },
       description:
         'Calculadoras financieras gratuitas y guías de dinero en español. Hipotecas, préstamos, interés compuesto, salario, jubilación y deudas, explicados en lenguaje sencillo.',
+      themeColor: '#1e3a8a',
     };
   }
   return defaultMetadata();
