@@ -1,8 +1,8 @@
-import { absUrl, SITE_NAME } from '@/lib/seo';
+import { absUrl, SITE_NAME, AUTHOR_NAME } from '@/lib/seo';
 
 export const metadata = {
-  title: 'About',
-  description: `About ${SITE_NAME}: free US finance calculators and plain-English money guides.`,
+  title: 'About UtilityHub: Free Finance Calculators & Money Guides',
+  description: `About ${SITE_NAME}: who builds our free US finance calculators and money guides, our methodology, and how we stay free.`,
   alternates: { canonical: absUrl('/about') },
 };
 
@@ -18,6 +18,14 @@ export default function AboutPage() {
           better. We build precision finance calculators for mortgages, loans,
           investing, taxes and debt payoff. Each comes with a plain-English explanation
           of how the underlying math works.
+        </p>
+        <h2>Who builds this</h2>
+        <p>
+          UtilityHub is built and maintained by {AUTHOR_NAME}, a software developer
+          focused on making financial math transparent and accessible. Every
+          calculator is implemented from standard, verifiable formulas and tested
+          against known benchmarks before publishing. Guides are written in
+          plain English and reviewed for accuracy on every update.
         </p>
         <h2>What we do</h2>
         <p>

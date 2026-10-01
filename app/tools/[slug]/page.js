@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import { getTool, getAllToolSlugs } from '@/lib/tools';
 import ToolRunner from '@/components/ToolRunner';
 import JsonLd from '@/components/JsonLd';
-import { absUrl } from '@/lib/seo';
+import { absUrl, AUTHOR_NAME, AUTHOR_URL } from '@/lib/seo';
 import { BannerAd } from '@/components/AdSlot';
 
 export function generateStaticParams() {
@@ -44,15 +44,31 @@ export default function ToolPage({ params }) {
     })),
   };
 
+  const softwareJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'SoftwareApplication',
+    name: tool.name,
+    applicationCategory: 'FinanceApplication',
+    operatingSystem: 'Web',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    author: { '@type': 'Person', name: AUTHOR_NAME, url: AUTHOR_URL },
+    dateModified: tool.lastReviewed,
+    url: absUrl('/tools/' + tool.slug),
+  };
+
   return (
     <div className="container">
       <JsonLd data={faqJsonLd} />
+      <JsonLd data={softwareJsonLd} />
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href="/">Home</Link> › <span>{tool.name}</span>
       </nav>
       <div className="page-head" style={{ marginBottom: 28 }}>
         <h1>{tool.name}</h1>
         <p className="lede">{tool.tagline}</p>
+        <p className="byline" style={{ fontSize: '0.9rem', color: '#555', marginTop: 8 }}>
+          By {AUTHOR_NAME} · Last reviewed {tool.lastReviewed}
+        </p>
       </div>
 
       <ToolRunner slug={tool.slug} inputs={tool.inputs} />

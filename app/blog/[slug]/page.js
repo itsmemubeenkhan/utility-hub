@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getPost, getAllPostSlugs } from '@/lib/blog';
 import JsonLd from '@/components/JsonLd';
-import { absUrl, SITE_NAME } from '@/lib/seo';
+import { absUrl, SITE_NAME, AUTHOR_NAME, AUTHOR_URL } from '@/lib/seo';
 import { BannerAd } from '@/components/AdSlot';
 
 export function generateStaticParams() {
@@ -39,7 +39,8 @@ export default async function BlogPost({ params }) {
     headline: post.title,
     description: post.description,
     datePublished: post.date,
-    author: { '@type': 'Organization', name: SITE_NAME },
+    dateModified: post.date,
+    author: { '@type': 'Person', name: AUTHOR_NAME, url: AUTHOR_URL },
     publisher: { '@type': 'Organization', name: SITE_NAME },
     mainEntityOfPage: url,
   };
@@ -52,7 +53,7 @@ export default async function BlogPost({ params }) {
       <article className="prose" style={{ marginTop: 8 }}>
         <h1 style={{ fontSize: '2.1rem', letterSpacing: '-0.02em', marginBottom: 8 }}>{post.title}</h1>
         <div className="post-meta">
-          Published {post.date} · {SITE_NAME}
+          By {AUTHOR_NAME} · Published {post.date}
         </div>
         <div className="article-body" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>
