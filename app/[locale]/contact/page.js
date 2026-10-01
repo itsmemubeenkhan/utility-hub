@@ -19,9 +19,8 @@ export default function ContactPage() {
       <div className="card prose">
         <h2>Email</h2>
         <p>
-          Reach us at <a href="mailto:contact@example.com">contact@example.com</a>.
-          Please replace this address with the site's real contact email before launch.
-        </p>
+          Reach us at <a href="mailto:mubeenmuhammadsiddiq@gmail.com">mubeenmuhammadsiddiq@gmail.com</a>.
+                </p>
         <h2>What to include</h2>
         <p>
           For calculator issues, tell us which tool you used, the numbers you entered
