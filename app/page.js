@@ -2,7 +2,9 @@ import Link from 'next/link';
 import { TOOLS } from '@/lib/tools';
 import { getAllPosts } from '@/lib/blog';
 import JsonLd from '@/components/JsonLd';
-import { absUrl, SITE_NAME } from '@/lib/seo';
+import PostCard from '@/components/PostCard';
+import ToolGrid from '@/components/ToolGrid';
+import { absUrl } from '@/lib/seo';
 import { BannerAd, NativeAd } from '@/components/AdSlot';
 
 const HOME_FAQS = [
@@ -24,8 +26,34 @@ const HOME_FAQS = [
   },
 ];
 
+const FEATURES = [
+  {
+    icon: '📐',
+    title: 'Real formulas, verified',
+    text: 'Standard amortization math, federal tax brackets and payoff logic, tested against known benchmarks. No black boxes, no guesswork.',
+  },
+  {
+    icon: '🔒',
+    title: 'Private by design',
+    text: 'Every calculation runs entirely in your browser. The numbers you type never leave your device, are never stored, never sold.',
+  },
+  {
+    icon: '💬',
+    title: 'Plain English, always',
+    text: 'Each result comes with an explanation of why the numbers look the way they do, so you understand the decision, not just the digit.',
+  },
+];
+
 export default function HomePage() {
   const posts = getAllPosts().slice(0, 3);
+  // Strip non-serializable fields before passing to the client component.
+  const toolCards = TOOLS.map((t) => ({
+    slug: t.slug,
+    name: t.name,
+    tagline: t.tagline,
+    category: t.category,
+    badge: t.badge,
+  }));
   const itemList = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
@@ -41,16 +69,42 @@ export default function HomePage() {
   return (
     <>
       <JsonLd data={itemList} />
+
       <section className="hero">
         <div className="container">
-          <h1>Free finance calculators, explained in plain English</h1>
+          <span className="hero-badge">
+            <span className="dot" aria-hidden="true" />
+            100% free · No sign-up · Private
+          </span>
+          <h1>
+            Free finance calculators, <span className="grad">explained in plain English</span>
+          </h1>
           <p>
             Mortgages, loans, investing, taxes and debt payoff. Run the numbers
-            instantly and actually understand what they mean.
+            instantly, see the charts, and actually understand what they mean
+            before you decide.
           </p>
           <div className="hero-cta">
             <a className="btn btn-primary" href="#tools">Browse calculators</a>
             <a className="btn btn-ghost" href="/blog">Read money guides</a>
+          </div>
+          <div className="hero-stats">
+            <div className="hero-stat">
+              <div className="num">{TOOLS.length}</div>
+              <div className="lbl">Free calculators</div>
+            </div>
+            <div className="hero-stat">
+              <div className="num">{getAllPosts().length}</div>
+              <div className="lbl">Money guides</div>
+            </div>
+            <div className="hero-stat">
+              <div className="num">$0</div>
+              <div className="lbl">Forever, no sign-up</div>
+            </div>
+            <div className="hero-stat">
+              <div className="num">0</div>
+              <div className="lbl">Data stored or tracked</div>
+            </div>
           </div>
         </div>
       </section>
@@ -59,19 +113,31 @@ export default function HomePage() {
 
       <section className="section" id="tools">
         <div className="container">
-          <h2>All calculators</h2>
+          <span className="eyebrow">Calculators</span>
+          <h2>Every big money decision, calculated</h2>
           <p className="sub">
-            Twelve precision tools for the biggest money decisions Americans make:
-            buying a home, borrowing, investing and getting out of debt.
+            Precision tools for the decisions that matter most: buying a home,
+            borrowing, investing and getting out of debt. Pick a category to filter.
           </p>
-          <div className="tool-grid">
-            {TOOLS.map((t) => (
-              <Link key={t.slug} href={'/tools/' + t.slug} className="tool-card">
-                <span className="tool-cat">{t.category}</span>
-                <div className="tool-badge" aria-hidden="true">{t.badge}</div>
-                <h3>{t.name}</h3>
-                <p>{t.tagline}</p>
-              </Link>
+          <ToolGrid tools={toolCards} />
+        </div>
+      </section>
+
+      <section className="section" style={{ background: '#fff', borderTop: '1px solid #e2e8f0', borderBottom: '1px solid #e2e8f0' }}>
+        <div className="container">
+          <span className="eyebrow">Why UtilityHub</span>
+          <h2>Numbers you can trust, explained like a friend would</h2>
+          <p className="sub">
+            Most expensive financial mistakes share one trait: nobody did the math first.
+            We make that math effortless, and make sure you understand it.
+          </p>
+          <div className="feature-grid">
+            {FEATURES.map((f) => (
+              <div key={f.title} className="feature-card">
+                <div className="feature-icon" aria-hidden="true">{f.icon}</div>
+                <h3>{f.title}</h3>
+                <p>{f.text}</p>
+              </div>
             ))}
           </div>
         </div>
@@ -79,49 +145,18 @@ export default function HomePage() {
 
       <div className="container"><NativeAd /></div>
 
-      <section className="section" style={{ background: '#fff', borderTop: '1px solid #e2e8f0', borderBottom: '1px solid #e2e8f0' }}>
-        <div className="container prose">
-          <h2>Why run the numbers before you decide?</h2>
-          <p>
-            Most expensive financial mistakes share one trait: nobody did the math first.
-            A mortgage signed without comparing total interest, a car bought on monthly
-            payment alone, or a retirement plan built on hope instead of contributions.
-            Each one can cost tens of thousands of dollars. UtilityHub exists to make that
-            math effortless.
-          </p>
-          <p>
-            Every calculator on this site pairs instant results with a plain-English
-            explanation of <em>why</em> the numbers look the way they do: how
-            amortization front-loads mortgage interest, why the 28/36 rule caps your
-            home price, how compound growth bends upward over decades, and when
-            refinancing actually pays for itself. You get charts, payoff timelines and
-            breakeven points, not just a single number.
-          </p>
-          <p>
-            The tools are built for the US market: federal tax brackets for the
-            paycheck calculator, standard mortgage conventions, and dollar-based
-            examples throughout. Results are estimates for planning purposes, verified
-            against known benchmarks and are computed entirely in your browser. Your
-            numbers never leave your device.
-          </p>
-        </div>
-      </section>
-
       {posts.length > 0 && (
         <section className="section">
           <div className="container">
+            <span className="eyebrow">Learn</span>
             <h2>Latest money guides</h2>
             <p className="sub">In-depth, jargon-free explainers that pair with the calculators.</p>
             <div className="post-grid">
               {posts.map((p) => (
-                <Link key={p.slug} href={'/blog/' + p.slug} className="post-card">
-                  <h3>{p.title}</h3>
-                  <p>{p.description}</p>
-                  <span className="post-date">{p.date}</span>
-                </Link>
+                <PostCard key={p.slug} post={p} />
               ))}
             </div>
-            <p style={{ marginTop: 20 }}>
+            <p style={{ marginTop: 22 }}>
               <Link href="/blog" style={{ fontWeight: 700 }}>View all guides →</Link>
             </p>
           </div>
@@ -130,8 +165,9 @@ export default function HomePage() {
 
       <section className="section" style={{ paddingTop: 0 }}>
         <div className="container">
+          <span className="eyebrow">FAQ</span>
           <h2>Frequently asked questions</h2>
-          <div className="faq">
+          <div className="faq" style={{ marginTop: 20 }}>
             {HOME_FAQS.map((f, i) => (
               <details key={i}>
                 <summary>{f.q}</summary>
@@ -141,6 +177,23 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <div className="container">
+        <div className="cta-band">
+          <h2>Stop guessing. Start calculating.</h2>
+          <p>
+            The average homebuyer who compares total loan costs saves thousands.
+            Run your numbers in under a minute, free.
+          </p>
+          <div className="hero-cta">
+            <Link className="btn btn-primary" href="/tools/home-affordability-calculator">
+              How much house can I afford?
+            </Link>
+            <a className="btn btn-ghost" href="#tools">All calculators</a>
+          </div>
+        </div>
+      </div>
+      <div style={{ height: 8 }} />
     </>
   );
 }

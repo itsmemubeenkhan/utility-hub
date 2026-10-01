@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getTool, getAllToolSlugs } from '@/lib/tools';
+import { getTool, getAllToolSlugs, TOOLS } from '@/lib/tools';
 import ToolRunner from '@/components/ToolRunner';
 import JsonLd from '@/components/JsonLd';
 import { absUrl, AUTHOR_NAME, AUTHOR_URL } from '@/lib/seo';
@@ -34,6 +34,10 @@ export default function ToolPage({ params }) {
   if (!tool) notFound();
 
   const paragraphs = tool.explainer.split('\n\n');
+  const related = [
+    ...TOOLS.filter((t) => t.slug !== tool.slug && t.category === tool.category),
+    ...TOOLS.filter((t) => t.slug !== tool.slug && t.category !== tool.category),
+  ].slice(0, 3);
   const faqJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -64,6 +68,7 @@ export default function ToolPage({ params }) {
         <Link href="/">Home</Link> › <span>{tool.name}</span>
       </nav>
       <div className="page-head" style={{ marginBottom: 28 }}>
+        <span className="post-cat">{tool.category}</span>
         <h1>{tool.name}</h1>
         <p className="lede">{tool.tagline}</p>
         <p className="byline" style={{ fontSize: '0.9rem', color: '#555', marginTop: 8 }}>
@@ -71,7 +76,9 @@ export default function ToolPage({ params }) {
         </p>
       </div>
 
-      <ToolRunner slug={tool.slug} inputs={tool.inputs} />
+      <div className="calc-shell">
+        <ToolRunner slug={tool.slug} inputs={tool.inputs} />
+      </div>
 
       <BannerAd size="300x250" />
 
@@ -90,6 +97,20 @@ export default function ToolPage({ params }) {
             <div className="faq-a">{f.a}</div>
           </details>
         ))}
+      </div>
+
+      <div className="related-posts" style={{ marginTop: 44 }}>
+        <h2 style={{ fontSize: '1.4rem', marginBottom: 18 }}>Related calculators</h2>
+        <div className="post-grid">
+          {related.map((t) => (
+            <Link key={t.slug} href={'/tools/' + t.slug} className="post-card">
+              <span className="post-cat">{t.category}</span>
+              <h3>{t.name}</h3>
+              <p>{t.tagline}</p>
+              <span className="post-more">Try it →</span>
+            </Link>
+          ))}
+        </div>
       </div>
 
       <div className="disclaimer">
