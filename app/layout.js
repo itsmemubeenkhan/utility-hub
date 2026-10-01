@@ -1,20 +1,7 @@
 import './globals.css';
-import SiteHeader from '@/components/SiteHeader';
-import SiteFooter from '@/components/SiteFooter';
-import JsonLd from '@/components/JsonLd';
-import { defaultMetadata, websiteJsonLd } from '@/lib/seo';
 
-export const metadata = defaultMetadata();
-
+// Locale layouts under app/(en) and app/(es) render <html>/<body>
+// with the correct lang attribute (official i18n pattern).
 export default function RootLayout({ children }) {
-  return (
-    <html lang="en">
-      <body>
-        <JsonLd data={websiteJsonLd()} />
-        <SiteHeader />
-        <main>{children}</main>
-        <SiteFooter />
-      </body>
-    </html>
-  );
+  return children;
 }

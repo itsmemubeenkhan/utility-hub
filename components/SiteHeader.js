@@ -2,15 +2,21 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import { getDict } from '@/lib/i18n';
+import LanguageSwitcher from './LanguageSwitcher';
 
-export default function SiteHeader() {
+export default function SiteHeader({ lang = 'en' }) {
+  const t = getDict(lang);
   const [open, setOpen] = useState(false);
   const close = () => setOpen(false);
+  const home = lang === 'es' ? '/es' : '/';
+  const toolsHref = lang === 'es' ? '/es#tools' : '/#tools';
+  const blogHref = lang === 'es' ? '/es/blog' : '/blog';
 
   return (
     <header className="site-header">
       <div className="container">
-        <Link href="/" className="brand" onClick={close} style={{ textDecoration: 'none' }}>
+        <Link href={home} className="brand" onClick={close} style={{ textDecoration: 'none' }}>
           Utility<span>Hub</span>
         </Link>
         <button
@@ -24,9 +30,10 @@ export default function SiteHeader() {
           <span aria-hidden="true" />
         </button>
         <nav className={'nav' + (open ? ' open' : '')} aria-label="Main navigation">
-          <Link href="/#tools" onClick={close}>Calculators</Link>
-          <Link href="/blog" onClick={close}>Guides</Link>
-          <Link href="/about" onClick={close}>About</Link>
+          <Link href={toolsHref} onClick={close}>{t.nav.calculators}</Link>
+          <Link href={blogHref} onClick={close}>{t.nav.guides}</Link>
+          <Link href="/about" onClick={close}>{t.nav.about}</Link>
+          <LanguageSwitcher lang={lang} title={t.switcher.toOtherTitle} />
         </nav>
       </div>
     </header>

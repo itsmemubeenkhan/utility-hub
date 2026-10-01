@@ -1,5 +1,6 @@
 import { absUrl } from '@/lib/seo';
 import { getAllToolSlugs } from '@/lib/tools';
+import { getAllToolSlugsEs } from '@/lib/tools.es';
 import { getAllPosts } from '@/lib/blog';
 
 export const dynamic = 'force-dynamic';
@@ -7,7 +8,9 @@ export const dynamic = 'force-dynamic';
 export async function GET() {
   const urls = [
     { loc: absUrl('/'), priority: '1.0', changefreq: 'weekly' },
+    { loc: absUrl('/es'), priority: '0.9', changefreq: 'weekly' },
     { loc: absUrl('/blog'), priority: '0.8', changefreq: 'weekly' },
+    { loc: absUrl('/es/blog'), priority: '0.7', changefreq: 'weekly' },
     { loc: absUrl('/about'), priority: '0.4', changefreq: 'monthly' },
     { loc: absUrl('/contact'), priority: '0.4', changefreq: 'monthly' },
     { loc: absUrl('/privacy-policy'), priority: '0.3', changefreq: 'yearly' },
@@ -16,10 +19,21 @@ export async function GET() {
   getAllToolSlugs().forEach((slug) =>
     urls.push({ loc: absUrl('/tools/' + slug), priority: '0.9', changefreq: 'monthly' })
   );
-  getAllPosts().forEach((p) =>
+  getAllToolSlugsEs().forEach((slug) =>
+    urls.push({ loc: absUrl('/es/tools/' + slug), priority: '0.8', changefreq: 'monthly' })
+  );
+  getAllPosts('en').forEach((p) =>
     urls.push({
       loc: absUrl('/blog/' + p.slug),
       priority: '0.7',
+      changefreq: 'monthly',
+      lastmod: p.date || undefined,
+    })
+  );
+  getAllPosts('es').forEach((p) =>
+    urls.push({
+      loc: absUrl('/es/blog/' + p.slug),
+      priority: '0.6',
       changefreq: 'monthly',
       lastmod: p.date || undefined,
     })
