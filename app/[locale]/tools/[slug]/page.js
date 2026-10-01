@@ -101,7 +101,7 @@ export default async function ToolPage({ params }) {
       </div>
 
       <div className="calc-shell">
-        <ToolRunner slug={tool.slug} inputs={tool.inputs} />
+        <ToolRunner calcKey={tool.calcKey} inputs={tool.inputs} lang={locale} />
       </div>
 
       <BannerAd size="300x250" />

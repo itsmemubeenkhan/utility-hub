@@ -2,6 +2,7 @@
 /* Interactive calculator: form from the tool's input schema, live results, canvas charts. */
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { CALCULATORS } from '@/lib/tool-calculations';
+import { getDict } from '@/lib/i18n';
 import { drawDonut, drawLine, drawStacked } from '@/lib/charts';
 
 function Field({ def, value, onChange }) {
@@ -47,19 +48,21 @@ function Field({ def, value, onChange }) {
   );
 }
 
-export default function ToolRunner({ slug, inputs }) {
-  const calculate = CALCULATORS[slug];
+export default function ToolRunner({ calcKey, inputs, lang = 'en' }) {
+  const calculate = CALCULATORS[calcKey];
+  const t = getDict(lang).calc;
   const initial = {};
   inputs.forEach((d) => { initial[d.key] = d.default; });
   const [values, setValues] = useState(initial);
 
   const result = useMemo(() => {
+    if (typeof calculate !== 'function') return null;
     try {
-      return calculate(values);
+      return calculate(values, lang);
     } catch (e) {
       return null;
     }
-  }, [values, calculate]);
+  }, [values, calculate, lang]);
 
   const donutRef = useRef(null);
   const lineRef = useRef(null);
@@ -77,14 +80,14 @@ export default function ToolRunner({ slug, inputs }) {
   return (
     <div className="calc-layout">
       <div className="card" aria-label="Calculator inputs">
-        <h2 style={{ marginTop: 0, fontSize: '1.15rem' }}>Your numbers</h2>
+        <h2 style={{ marginTop: 0, fontSize: '1.15rem' }}>{t.yourNumbers}</h2>
         {inputs.map((d) => (
           <Field key={d.key} def={d} value={values[d.key]} onChange={(v) => setVal(d.key, v)} />
         ))}
       </div>
       <div>
-        {!result && <div className="warn-box">Could not compute results with these inputs.</div>}
-        {result && result.warn && <div className="warn-box">Heads up: check the payoff note below; this payment may never clear the balance.</div>}
+        {!result && <div className="warn-box">{t.computeError}</div>}
+        {result && result.warn && <div className="warn-box">{t.payoffWarn}</div>}
         {result && (
           <div className="results" aria-live="polite">
             {result.outputs.map((o, i) => (
@@ -98,8 +101,8 @@ export default function ToolRunner({ slug, inputs }) {
         {result && result.note && <div className="note-box">{result.note}</div>}
         {result && result.donut && (
           <div className="chart-wrap">
-            <h3>Breakdown</h3>
-            <canvas ref={donutRef} role="img" aria-label="Donut chart of result breakdown" />
+            <h3>{t.breakdown}</h3>
+            <canvas ref={donutRef} role="img" aria-label={t.donutAria} />
           </div>
         )}
         {result && result.line && (
