@@ -1,12 +1,104 @@
 import { absUrl, SITE_NAME } from '@/lib/seo';
 
-export const metadata = {
-  title: 'Privacy Policy',
-  description: `${SITE_NAME} privacy policy: what data we collect, how ads work, and your choices.`,
-  alternates: { canonical: absUrl('/privacy-policy') },
-};
+const PATH = '/privacy-policy';
 
-export default function PrivacyPage() {
+export async function generateMetadata({ params }) {
+  const { locale } = await params;
+  const isEs = locale === 'es';
+  const url = absUrl((isEs ? '/es' : '') + PATH);
+  const altUrl = absUrl((isEs ? '' : '/es') + PATH);
+  const title = isEs ? 'Política de privacidad' : 'Privacy Policy';
+  const description = isEs
+    ? `${SITE_NAME} política de privacidad: qué datos recopilamos, cómo funciona la publicidad y tus opciones.`
+    : `${SITE_NAME} privacy policy: what data we collect, how ads work, and your choices.`;
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: url,
+      languages: {
+        en: isEs ? altUrl : url,
+        es: isEs ? url : altUrl,
+        'x-default': isEs ? altUrl : url,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url,
+      type: 'website',
+      ...(isEs ? { locale: 'es_US' } : {}),
+    },
+    twitter: { card: 'summary_large_image', title, description },
+  };
+}
+
+export default async function PrivacyPage({ params }) {
+  const { locale } = await params;
+  const isEs = locale === 'es';
+
+  if (isEs) {
+    return (
+      <div className="container">
+        <div className="page-head" style={{ margin: '32px 0' }}>
+          <h1>Política de privacidad</h1>
+          <p className="lede">Última actualización: 30 de septiembre de 2026</p>
+        </div>
+        <div className="card prose">
+          <h2>Resumen</h2>
+          <p>
+            {SITE_NAME} («nosotros») respeta tu privacidad. Esta política explica
+            qué información recopilamos cuando usas nuestras calculadoras y
+            artículos, y cómo se utiliza.
+          </p>
+          <h2>Datos que ingresas en las calculadoras</h2>
+          <p>
+            Los números que ingresas en nuestras calculadoras se procesan por
+            completo en tu navegador web con JavaScript. Nunca se transmiten a
+            nuestros servidores, ni se almacenan ni se comparten con nadie.
+          </p>
+          <h2>Información que recopilamos</h2>
+          <p>
+            No exigimos cuentas ni pedimos información personal. Como la mayoría
+            de los sitios web, nuestro proveedor de alojamiento puede registrar
+            datos técnicos básicos (como la dirección IP, el tipo de navegador y
+            las páginas visitadas) por seguridad y diagnóstico.
+          </p>
+          <h2>Publicidad</h2>
+          <p>
+            Mostramos anuncios y enlaces patrocinados servidos por el socio
+            externo stature nonsense (staturenonsense.com). El socio y sus
+            proveedores de publicidad pueden usar cookies, información del
+            dispositivo y tecnologías similares para ofrecer, medir y
+            personalizar los anuncios. La recopilación y el uso de la información
+            se rigen por sus propios términos de privacidad. Puedes gestionar las
+            cookies desde la configuración de tu navegador; bloquearlas puede
+            afectar las funciones publicitarias.
+          </p>
+          <h2>Cookies</h2>
+          <p>
+            Usamos cookies que pueden ser establecidas por socios publicitarios
+            y, solo en el área de administración, una cookie de autenticación.
+            Puedes desactivar las cookies en la configuración de tu navegador,
+            aunque es posible que algunas funciones no funcionen.
+          </p>
+          <h2>Menores</h2>
+          <p>
+            Este sitio es un recurso general de educación financiera y no está
+            dirigido a menores de 13 años. No recopilamos intencionalmente
+            información de menores.
+          </p>
+          <h2>Cambios</h2>
+          <p>
+            Podemos actualizar esta política periódicamente. El uso continuado
+            del sitio después de los cambios constituye la aceptación de la
+            política actualizada.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="container">
       <div className="page-head" style={{ margin: '32px 0' }}>

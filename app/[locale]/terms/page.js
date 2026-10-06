@@ -1,12 +1,92 @@
 import { absUrl, SITE_NAME } from '@/lib/seo';
 
-export const metadata = {
-  title: 'Terms of Use',
-  description: `${SITE_NAME} terms of use: acceptable use, disclaimers and limitations.`,
-  alternates: { canonical: absUrl('/terms') },
-};
+const PATH = '/terms';
 
-export default function TermsPage() {
+export async function generateMetadata({ params }) {
+  const { locale } = await params;
+  const isEs = locale === 'es';
+  const url = absUrl((isEs ? '/es' : '') + PATH);
+  const altUrl = absUrl((isEs ? '' : '/es') + PATH);
+  const title = isEs ? 'Términos de uso' : 'Terms of Use';
+  const description = isEs
+    ? `${SITE_NAME} términos de uso: uso aceptable, descargos de responsabilidad y limitaciones.`
+    : `${SITE_NAME} terms of use: acceptable use, disclaimers and limitations.`;
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: url,
+      languages: {
+        en: isEs ? altUrl : url,
+        es: isEs ? url : altUrl,
+        'x-default': isEs ? altUrl : url,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url,
+      type: 'website',
+      ...(isEs ? { locale: 'es_US' } : {}),
+    },
+    twitter: { card: 'summary_large_image', title, description },
+  };
+}
+
+export default async function TermsPage({ params }) {
+  const { locale } = await params;
+  const isEs = locale === 'es';
+
+  if (isEs) {
+    return (
+      <div className="container">
+        <div className="page-head" style={{ margin: '32px 0' }}>
+          <h1>Términos de uso</h1>
+          <p className="lede">Última actualización: 30 de septiembre de 2026</p>
+        </div>
+        <div className="card prose">
+          <h2>Aceptación</h2>
+          <p>
+            Al acceder a {SITE_NAME} aceptas estos términos. Si no estás de
+            acuerdo, por favor no uses el sitio.
+          </p>
+          <h2>Solo con fines educativos: no es asesoramiento financiero</h2>
+          <p>
+            Todas las calculadoras, artículos y cifras de este sitio se ofrecen
+            únicamente con fines generales de educación y planificación. Son
+            estimaciones, no asesoramiento financiero, fiscal, legal ni de
+            inversión. Consulta siempre a un profesional calificado antes de tomar
+            decisiones financieras. No garantizamos la precisión, integridad ni
+            idoneidad para tu situación.
+          </p>
+          <h2>Uso aceptable</h2>
+          <p>
+            Puedes usar las calculadoras y los artículos para fines personales no
+            comerciales. Aceptas no hacer un uso indebido del sitio, no intentar
+            interrumpirlo ni extraer su contenido a ritmos abusivos.
+          </p>
+          <h2>Propiedad intelectual</h2>
+          <p>
+            El contenido, el diseño y el código del sitio pertenecen a {SITE_NAME}
+            salvo que se indique lo contrario. Puedes enlazar a nuestras páginas
+            y citar breves extractos con atribución.
+          </p>
+          <h2>Limitación de responsabilidad</h2>
+          <p>
+            En la máxima medida permitida por la ley, {SITE_NAME} no se hace
+            responsable de las decisiones tomadas ni de las acciones realizadas
+            con base en la información de este sitio.
+          </p>
+          <h2>Cambios</h2>
+          <p>
+            Podemos actualizar estos términos en cualquier momento. El uso
+            continuado del sitio después de los cambios constituye aceptación.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="container">
       <div className="page-head" style={{ margin: '32px 0' }}>

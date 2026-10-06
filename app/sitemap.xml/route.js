@@ -12,9 +12,13 @@ export async function GET() {
     { loc: absUrl('/blog'), priority: '0.8', changefreq: 'weekly' },
     { loc: absUrl('/es/blog'), priority: '0.7', changefreq: 'weekly' },
     { loc: absUrl('/about'), priority: '0.4', changefreq: 'monthly' },
+    { loc: absUrl('/es/about'), priority: '0.3', changefreq: 'monthly' },
     { loc: absUrl('/contact'), priority: '0.4', changefreq: 'monthly' },
+    { loc: absUrl('/es/contact'), priority: '0.3', changefreq: 'monthly' },
     { loc: absUrl('/privacy-policy'), priority: '0.3', changefreq: 'yearly' },
+    { loc: absUrl('/es/privacy-policy'), priority: '0.2', changefreq: 'yearly' },
     { loc: absUrl('/terms'), priority: '0.3', changefreq: 'yearly' },
+    { loc: absUrl('/es/terms'), priority: '0.2', changefreq: 'yearly' },
   ];
   getAllToolSlugs().forEach((slug) =>
     urls.push({ loc: absUrl('/tools/' + slug), priority: '0.9', changefreq: 'monthly' })
