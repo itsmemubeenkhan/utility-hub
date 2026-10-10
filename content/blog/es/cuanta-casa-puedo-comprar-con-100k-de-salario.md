@@ -53,6 +53,6 @@ La regla 28/36 es un **techo**, no una meta. Comprar un 10–20% por debajo de t
 
 Haz tus propios cálculos con nuestra [calculadora de asequibilidad de vivienda](/es/tools/cuanta-casa-puedo-comprar): ingresa tu ingreso, tus deudas, tu tasa y tu pago inicial para obtener tu precio máximo personalizado.
 
-**Más de esta serie:** [$50K](/blog/how-much-house-can-i-afford-50k-salary) · [$60K](/blog/how-much-house-can-i-afford-60k-salary) · [$70K](/blog/how-much-house-can-i-afford-70k-salary) · [$80K](/blog/how-much-house-can-i-afford-80k-salary) · [$90K](/blog/how-much-house-can-i-afford-90k-salary) · [$120K](/blog/how-much-house-can-i-afford-120k-salary) · [$150K](/blog/how-much-house-can-i-afford-150k-salary) · [$200K](/blog/how-much-house-can-i-afford-200k-salary)
+**Más de esta serie:** [$50K](/es/blog/cuanta-casa-puedo-comprar-con-50k-de-salario) · [$60K](/es/blog/cuanta-casa-puedo-comprar-con-60k-de-salario) · [$70K](/es/blog/cuanta-casa-puedo-comprar-con-70k-de-salario) · [$80K](/es/blog/cuanta-casa-puedo-comprar-con-80k-de-salario) · [$90K](/es/blog/cuanta-casa-puedo-comprar-con-90k-de-salario) · [$120K](/es/blog/cuanta-casa-puedo-comprar-con-120k-de-salario) · [$150K](/es/blog/cuanta-casa-puedo-comprar-con-150k-de-salario) · [$200K](/es/blog/cuanta-casa-puedo-comprar-con-200k-de-salario)
 
 *Estimaciones solo para planificación, no es asesoría financiera. La aprobación real depende de tu prestamista.*
