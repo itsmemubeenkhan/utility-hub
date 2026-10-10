@@ -11,6 +11,8 @@ export async function GET() {
     { loc: absUrl('/es'), priority: '0.9', changefreq: 'weekly' },
     { loc: absUrl('/blog'), priority: '0.8', changefreq: 'weekly' },
     { loc: absUrl('/es/blog'), priority: '0.7', changefreq: 'weekly' },
+    { loc: absUrl('/tools'), priority: '0.9', changefreq: 'weekly' },
+    { loc: absUrl('/es/tools'), priority: '0.8', changefreq: 'weekly' },
     { loc: absUrl('/about'), priority: '0.4', changefreq: 'monthly' },
     { loc: absUrl('/es/about'), priority: '0.3', changefreq: 'monthly' },
     { loc: absUrl('/contact'), priority: '0.4', changefreq: 'monthly' },
