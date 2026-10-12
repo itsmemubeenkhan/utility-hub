@@ -43,7 +43,7 @@ Matemáticamente, sí: pagar primero la tasa más alta siempre minimiza los inte
 
 - **Elige la avalancha** si eres disciplinado, la diferencia de tasas es grande (p. ej., 24% vs. 8%) o los saldos son de tamaño similar.
 - **Elige la bola de nieve** si tienes muchas deudas pequeñas, intentos anteriores de pago se apagaron o sabes que las victorias rápidas te mantienen en marcha.
-- **De cualquier forma, el verdadero enemigo son los pagos mínimos.** Con 24% de tasa anual, los mínimos en $8,000 toman más de 15 años. Ambos métodos destrozan ese plazo.
+- **De cualquier forma, el verdadero enemigo son los pagos mínimos.** Con 24% de tasa anual, los mínimos en $8,000 toman más de 15 años. Ambos métodos destrozan ese plazo. (Mira [cuánto tardas en pagar una tarjeta de crédito solo con mínimos](/es/blog/cuanto-tarda-pagar-tarjeta-de-credito) para ver la trampa con números reales.)
 
 ## Cinco reglas que hacen que cualquier método funcione
 
