@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getPost, getAllPosts, getAllPostSlugs, formatDate } from '@/lib/blog';
+import { relatedToolsFor } from '@/lib/tools';
+import { relatedToolsForEs } from '@/lib/tools.es';
 import { getDict } from '@/lib/i18n';
 import { POST_SLUG_ES, POST_SLUG_EN } from '@/lib/slug-map';
 import JsonLd from '@/components/JsonLd';
@@ -77,6 +79,7 @@ export default async function BlogPost({ params }) {
     ...others.filter((p) => p.category === post.category),
     ...others.filter((p) => p.category !== post.category),
   ].slice(0, 3);
+  const relatedTools = isEs ? relatedToolsForEs(post, 3) : relatedToolsFor(post, 3);
 
   return (
     <div className="container">
@@ -110,6 +113,22 @@ export default async function BlogPost({ params }) {
           <div className="post-grid">
             {related.map((p) => (
               <PostCard key={p.slug} post={p} lang={locale} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {relatedTools.length > 0 && (
+        <section className="related" aria-label="Related calculators" style={{ marginTop: 36 }}>
+          <h2>{t.article.relatedTools}</h2>
+          <div className="post-grid">
+            {relatedTools.map((tool) => (
+              <Link key={tool.slug} href={prefix + '/tools/' + tool.slug} className="post-card">
+                <span className="post-cat">{tool.category}</span>
+                <h3>{tool.name}</h3>
+                <p>{tool.tagline}</p>
+                <span className="post-more">{t.article.tryCalculator}</span>
+              </Link>
             ))}
           </div>
         </section>

@@ -8,6 +8,7 @@ import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
 import { absUrl, AUTHOR_NAME, AUTHOR_URL } from '@/lib/seo';
 import { BannerAd } from '@/components/AdSlot';
+import { relatedGuidesFor } from '@/lib/blog';
 
 export function generateStaticParams() {
   return [
@@ -61,6 +62,7 @@ export default async function ToolPage({ params }) {
     ...allTools.filter((x) => x.slug !== tool.slug && x.category === tool.category),
     ...allTools.filter((x) => x.slug !== tool.slug && x.category !== tool.category),
   ].slice(0, 3);
+  const guides = relatedGuidesFor(tool, locale, 3);
   const faqJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -136,6 +138,22 @@ export default async function ToolPage({ params }) {
           ))}
         </div>
       </div>
+
+      {guides.length > 0 && (
+        <div className="related-posts" style={{ marginTop: 44 }}>
+          <h2 style={{ fontSize: '1.4rem', marginBottom: 18 }}>{t.toolPage.relatedGuides}</h2>
+          <div className="post-grid">
+            {guides.map((g) => (
+              <Link key={g.slug} href={prefix + '/blog/' + g.slug} className="post-card">
+                <span className="post-cat">{g.category}</span>
+                <h3>{g.title}</h3>
+                <p>{g.description}</p>
+                <span className="post-more">{t.toolPage.readGuide}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      )}
 
       <div className="disclaimer">
         <strong>{t.toolPage.disclaimerTitle}</strong> {t.toolPage.disclaimer}
