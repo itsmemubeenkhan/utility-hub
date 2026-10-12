@@ -44,6 +44,13 @@ export default async function LocaleLayout({ children, params }) {
   if (!LOCALES.includes(locale)) notFound();
   return (
     <html lang={locale}>
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6151079172142628"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body>
         <JsonLd data={locale === 'es' ? websiteJsonLdEs() : websiteJsonLd()} />
         <SiteHeader lang={locale} />
