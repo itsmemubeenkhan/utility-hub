@@ -56,7 +56,10 @@ export default function ToolRunner({ calcKey, inputs, lang = 'en' }) {
   const [values, setValues] = useState(initial);
 
   const result = useMemo(() => {
-    if (typeof calculate !== 'function') return null;
+    if (typeof calculate !== 'function') {
+      console.error('[ToolRunner] No calculator found for key:', calcKey, 'Available:', Object.keys(CALCULATORS).join(','));
+      return null;
+    }
     try {
       return calculate(values, lang);
     } catch (e) {
