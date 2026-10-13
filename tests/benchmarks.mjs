@@ -133,7 +133,7 @@ check(
 for (const t of TOOLS) {
   const defaults = {};
   t.inputs.forEach((d) => { defaults[d.key] = d.default; });
-  const r = CALCULATORS[t.slug](defaults);
+  const r = CALCULATORS[t.calcKey](defaults);
   assert.ok(Array.isArray(r.outputs) && r.outputs.length > 0, t.slug + ' outputs');
   for (const o of r.outputs) assert.ok(typeof o.label === 'string' && typeof o.value === 'string', t.slug + ' output shape');
   console.log(`ok - ${t.slug}: ${r.outputs.length} outputs`);
