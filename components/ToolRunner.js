@@ -60,6 +60,7 @@ export default function ToolRunner({ calcKey, inputs, lang = 'en' }) {
     try {
       return calculate(values, lang);
     } catch (e) {
+      console.error('[ToolRunner] Calculation failed for', calcKey, e);
       return null;
     }
   }, [values, calculate, lang]);
