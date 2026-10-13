@@ -18,8 +18,8 @@ export default function SiteHeader({ lang = 'en' }) {
       <div className="container">
         <Link href={home} className="brand" onClick={close} style={{ textDecoration: 'none', display: 'flex', alignItems: 'center' }}>
           <picture>
-            <source srcSet="/logo.webp" type="image/webp" />
-            <img src="/logo.png" alt="UtilityHub - Finance Calculators" style={{ height: '40px', width: 'auto' }} />
+            <source srcSet="/logo-header.webp" type="image/webp" />
+            <img src="/logo-header.png" alt="UtilityHub - Finance Calculators" width="148" height="40" style={{ height: '40px', width: 'auto' }} />
           </picture>
         </Link>
         <button
