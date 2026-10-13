@@ -1,7 +1,7 @@
 ---
-title: "How Much House Can I Afford on $70,000 Salary?"
+title: "How Much House Can I Afford on $70K Salary? ($245K-$270K in 2026)"
 slug: "how-much-house-can-i-afford-70k-salary"
-description: "On a $70k salary, lenders' 28/36 rule suggests a home around $245k–$270k. See the exact math, what changes the number, and the costs buyers forget."
+description: "On $70k salary you can afford a $245k-$270k home. See exact 28/36 rule math, what changes the number & hidden costs. Free calculator."
 date: "2026-10-01"
 keywords: "how much house can I afford on 70k salary, house affordability 70000 salary, home price on 70k income"
 ---

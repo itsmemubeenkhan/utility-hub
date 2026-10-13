@@ -1,7 +1,7 @@
 ---
-title: "How Much House Can I Afford on $90,000 Salary?"
+title: "How Much House Can I Afford on $90K Salary? (2026 Answer)"
 slug: "how-much-house-can-i-afford-90k-salary"
-description: "On a $90k salary, lenders' 28/36 rule suggests a home around $310k–$345k. See the exact math, what changes the number, and the costs buyers forget."
+description: "On $90k salary, see exactly how much house you can afford with real 2026 math. 28/36 rule breakdown + free calculator."
 date: "2026-10-01"
 keywords: "how much house can I afford on 90k salary, house affordability 90000 salary, home price on 90k income"
 ---
