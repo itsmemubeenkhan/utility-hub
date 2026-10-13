@@ -15,8 +15,8 @@ export default function SiteFooter({ lang = 'en' }) {
       <div className="container">
         <div className="cols">
           <div>
-            <Link href={prefix || '/'} className="brand" style={{ textDecoration: 'none' }}>
-              Utility<span>Hub</span>
+            <Link href={prefix || '/'} className="brand" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center' }}>
+              <img src="/logo.png" alt="UtilityHub - Finance Calculators" style={{ height: '36px', width: 'auto' }} />
             </Link>
             <p style={{ maxWidth: 340, marginTop: 12 }}>{t.footer.blurb}</p>
           </div>

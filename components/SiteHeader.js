@@ -16,8 +16,8 @@ export default function SiteHeader({ lang = 'en' }) {
   return (
     <header className="site-header">
       <div className="container">
-        <Link href={home} className="brand" onClick={close} style={{ textDecoration: 'none' }}>
-          Utility<span>Hub</span>
+        <Link href={home} className="brand" onClick={close} style={{ textDecoration: 'none', display: 'flex', alignItems: 'center' }}>
+          <img src="/logo.png" alt="UtilityHub - Finance Calculators" style={{ height: '40px', width: 'auto' }} />
         </Link>
         <button
           className="menu-btn"
