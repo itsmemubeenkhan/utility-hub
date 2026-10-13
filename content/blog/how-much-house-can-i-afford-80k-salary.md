@@ -1,57 +1,28 @@
 ---
-title: "How Much House Can I Afford on $80,000 Salary?"
+title: "How Much House Can I Afford on $80K Salary? ($280K-$310K in 2026)"
 slug: "how-much-house-can-i-afford-80k-salary"
-description: "On an $80k salary, lenders' 28/36 rule suggests a home around $280k–$330k. See the exact math, what changes the number, and the costs buyers forget."
-date: "2026-09-24"
-keywords: "how much house can I afford on 80k, house affordability 80000 salary, home price based on salary"
+description: "On $80k salary you can afford a $280k-$310k home. Exact 28/36 rule math, what changes the number & 2026 rates. Free calculator."
+date: "2026-10-14"
+keywords: "how much house can i afford 80k salary, 80000 salary home price"
 ---
 
-$80,000 is a solid salary, roughly 1.5x the US median household income. So how much house does it actually buy? Using the lending industry's standard **28/36 rule**, the answer lands around **$280,000–$330,000** depending on your debts, down payment and rate. Here is the exact math.
+$80,000 puts you above the US median — solid first-time buyer territory in most markets.
 
-## The 28/36 rule, step by step
+## The number: $280K–$310K
 
-Lenders use two ratios:
+Using the 28/36 rule:
 
-- **Front-end (28%):** Housing costs ≤ 28% of gross monthly income
-- **Back-end (36%):** All monthly debts ≤ 36% of gross monthly income
+- **Gross monthly:** $6,667
+- **Max housing (28%):** $1,867/month
+- **Max total debt (36%):** $2,400/month
 
-On $80,000/year ($6,667/month):
+With 10% down at 6.5%, $1,867/month (minus ~$400 tax/insurance/PMI) leaves ~$1,467 for P&I = **~$295,000 home**.
 
-- Front-end limit: $6,667 × 0.28 = **$1,867/month** for housing
-- Back-end limit: $6,667 × 0.36 = $2,400/month for everything
+## What moves the number
 
-If you have $500/month in car and student loan payments, the back-end rule allows $2,400 − $500 = $1,900 for housing, so the front-end $1,867 is the binding limit.
+- **No other debt:** Full $310K range
+- **$500/mo car payment:** Drops to ~$260K
+- **20% down:** No PMI, pushes to $310K+
+- **Lower rate (6.0%):** Adds ~$15K buying power
 
-## Converting the payment to a price
-
-At 6.5% on a 30-year loan, $1,867/month in principal and interest supports a loan of about **$295,000**. With 20% down, that means a home price of roughly **$369,000**, but wait. That $1,867 must also cover property taxes and insurance (PITI), which lenders include in "housing." After ~$300/month for taxes and insurance, the P&I budget is closer to $1,567, supporting a loan of ~$248,000 and a price of **~$310,000** with 20% down.
-
-Realistic ranges on $80k salary:
-
-| Down payment | Approx. max home price (6.5%, 30-yr) |
-|---|---|
-| 10% down | ~$275,000 |
-| 20% down | ~$310,000 |
-| Debts over $800/mo | subtract ~$40,000–$60,000 |
-
-## Five things that move the number
-
-1. **Interest rate.** At 5.5% instead of 6.5%, the same payment buys ~12% more house. Rate matters more than most buyers think.
-2. **Existing debts.** Every $200/month in debt payments cuts roughly $30,000 off your max price. Killing a car payment before buying is powerful.
-3. **Down payment.** 20% avoids PMI (about 0.5–1% of the loan per year) and directly raises the price you can reach.
-4. **Property taxes.** In New Jersey or Illinois, taxes can add $600+/month; in Alabama, under $150. Location changes affordability enormously.
-5. **HOA dues.** A $300/month HOA fee counts against your ratios exactly like a higher mortgage payment.
-
-## The costs buyers forget
-
-The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($3,000/year on a $300,000 home), plus utilities, and an emergency fund that covers 3–6 months of the *new* higher housing cost, not your old rent.
-
-## Should you max it out?
-
-The 28/36 rule is a **ceiling**, not a target. Buying 10–20% below your max leaves room for savings, repairs and life. Being "house poor", technically approved but with zero margin, is how a good salary turns into chronic financial stress.
-
-Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price.
-
-**More in this series:** [$50K](/blog/how-much-house-can-i-afford-50k-salary) · [$60K](/blog/how-much-house-can-i-afford-60k-salary) · [$70K](/blog/how-much-house-can-i-afford-70k-salary) · [$90K](/blog/how-much-house-can-i-afford-90k-salary) · [$100K](/blog/how-much-house-can-i-afford-100k-salary) · [$120K](/blog/how-much-house-can-i-afford-120k-salary) · [$150K](/blog/how-much-house-can-i-afford-150k-salary) · [$200K](/blog/how-much-house-can-i-afford-200k-salary)
-
-*Estimates for planning only, not financial advice. Actual approval depends on your lender.*
+[Get your exact number](/tools/home-affordability-calculator)
