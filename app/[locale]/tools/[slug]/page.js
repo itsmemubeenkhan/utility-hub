@@ -86,10 +86,24 @@ export default async function ToolPage({ params }) {
     url: absUrl(prefix + '/tools/' + tool.slug),
   };
 
+  const videoJsonLd = tool.videoId
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'VideoObject',
+        name: tool.videoTitle || tool.name,
+        description: tool.metaDescription,
+        thumbnailUrl: 'https://i.ytimg.com/vi/' + tool.videoId + '/hqdefault.jpg',
+        uploadDate: '2026-10-13',
+        embedUrl: 'https://www.youtube.com/embed/' + tool.videoId,
+        contentUrl: 'https://www.youtube.com/watch?v=' + tool.videoId,
+      }
+    : null;
+
   return (
     <div className="container">
       <JsonLd data={faqJsonLd} />
       <JsonLd data={softwareJsonLd} />
+      {videoJsonLd && <JsonLd data={videoJsonLd} />}
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href={prefix || '/'}>{t.article.home}</Link> › <span>{tool.name}</span>
       </nav>
@@ -105,6 +119,23 @@ export default async function ToolPage({ params }) {
       <div className="calc-shell">
         <ToolRunner calcKey={tool.calcKey} inputs={tool.inputs} lang={locale} />
       </div>
+
+      {tool.videoId && (
+        <div className="video-embed" style={{ marginTop: 36 }}>
+          <h2 style={{ fontSize: '1.4rem', marginBottom: 14 }}>
+            {isEs ? 'Mira: Cómo usar esta calculadora' : 'Watch: How to Use This Calculator'}
+          </h2>
+          <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', borderRadius: 12 }}>
+            <iframe
+              src={'https://www.youtube.com/embed/' + tool.videoId}
+              title={tool.videoTitle || tool.name}
+              style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
+        </div>
+      )}
 
       <BannerAd size="300x250" />
 
