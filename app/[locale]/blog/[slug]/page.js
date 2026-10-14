@@ -54,6 +54,40 @@ function initials(name) {
     .toUpperCase();
 }
 
+// Extract ## FAQ section (### Question + answer paragraphs) from raw markdown
+function extractFaqs(raw) {
+  if (!raw) return [];
+  const m = raw.match(/^##\s+FAQ\s*$/m);
+  if (!m) return [];
+  const section = raw.slice(m.index + m[0].length);
+  const end = section.search(/^##\s+/m);
+  const body = (end === -1 ? section : section.slice(0, end)).trim();
+  if (!body) return [];
+  const clean = (s) =>
+    s
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      .replace(/\*\*([^*]+)\*\*/g, '$1')
+      .replace(/\*([^*]+)\*/g, '$1')
+      .replace(/`([^`]+)`/g, '$1')
+      .replace(/\n{2,}/g, ' ')
+      .replace(/\n/g, ' ')
+      .trim();
+  const faqs = [];
+  const re = /^###\s+(.+)$/gm;
+  let match;
+  const heads = [];
+  while ((match = re.exec(body)) !== null) {
+    heads.push({ q: match[1].trim(), start: match.index, qEnd: match.index + match[0].length });
+  }
+  heads.forEach((h, i) => {
+    const aStart = h.qEnd;
+    const aEnd = i + 1 < heads.length ? heads[i + 1].start : body.length;
+    const answer = clean(body.slice(aStart, aEnd));
+    if (h.q && answer) faqs.push({ q: clean(h.q), a: answer });
+  });
+  return faqs;
+}
+
 export default async function BlogPost({ params }) {
   const { locale, slug } = await params;
   const isEs = locale === 'es';
@@ -74,6 +108,19 @@ export default async function BlogPost({ params }) {
     publisher: { '@type': 'Organization', name: SITE_NAME },
     mainEntityOfPage: url,
   };
+  const faqs = extractFaqs(post.raw);
+  const faqJsonLd =
+    faqs.length > 0
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: faqs.map((f) => ({
+            '@type': 'Question',
+            name: f.q,
+            acceptedAnswer: { '@type': 'Answer', text: f.a },
+          })),
+        }
+      : null;
   const others = getAllPosts(locale).filter((p) => p.slug !== post.slug);
   const related = [
     ...others.filter((p) => p.category === post.category),
@@ -84,6 +131,7 @@ export default async function BlogPost({ params }) {
   return (
     <div className="container">
       <JsonLd data={articleJsonLd} />
+      {faqJsonLd && <JsonLd data={faqJsonLd} />}
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href={prefix || '/'}>{t.article.home}</Link> › <Link href={prefix + '/blog'}>{t.article.blog}</Link> › <span>{post.title}</span>
       </nav>
