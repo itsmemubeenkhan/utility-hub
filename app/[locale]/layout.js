@@ -45,6 +45,7 @@ export default async function LocaleLayout({ children, params }) {
   return (
     <html lang={locale}>
       <head>
+        <meta name="msvalidate.01" content="83640246711817BE244DAD6F49371EE4" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6151079172142628"
