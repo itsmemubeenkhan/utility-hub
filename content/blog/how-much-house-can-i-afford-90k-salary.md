@@ -54,4 +54,6 @@ Run your own numbers with our [home affordability calculator](/tools/home-afford
 
 **More in this series:** [$50K](/blog/how-much-house-can-i-afford-50k-salary) · [$60K](/blog/how-much-house-can-i-afford-60k-salary) · [$70K](/blog/how-much-house-can-i-afford-70k-salary) · [$80K](/blog/how-much-house-can-i-afford-80k-salary) · [$100K](/blog/how-much-house-can-i-afford-100k-salary) · [$120K](/blog/how-much-house-can-i-afford-120k-salary) · [$150K](/blog/how-much-house-can-i-afford-150k-salary) · [$200K](/blog/how-much-house-can-i-afford-200k-salary)
 
+**Related:** [What mortgage can I afford on a $90K salary?](/blog/what-mortgage-can-i-afford-90k-salary) — the mortgage-amount breakdown behind this home-price guide, with down payment scenarios and combined-income notes.
+
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*

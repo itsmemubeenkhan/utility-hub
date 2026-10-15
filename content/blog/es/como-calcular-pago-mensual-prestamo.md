@@ -89,4 +89,6 @@ No siempre. Si la diferencia de pago mensual te permite evitar deudas de tarjeta
 ### ¿Cómo comparo dos ofertas de préstamo?
 Nunca compares solo el pago mensual: compara el **costo total** (pago × meses) y la **tasa APR**. Dos préstamos con el mismo pago mensual pueden costar miles de diferencia en intereses si los plazos difieren.
 
+Las tarjetas de crédito usan otro método de cálculo: aprende [cómo calcular los intereses de tu tarjeta de crédito](/es/blog/calculo-intereses-tarjeta-de-credito) con un ejemplo real de $3,000 al 24% APR.
+
 *Estimaciones para planificación, no asesoría financiera.*

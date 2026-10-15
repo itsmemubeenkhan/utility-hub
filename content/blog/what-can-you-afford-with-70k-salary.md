@@ -88,4 +88,6 @@ Aim for **20% of take-home (~$960/month)**: build a 3–6 month emergency fund f
 ### Can I afford to live alone on $70K?
 In most cities, yes. $1,750/month rent (30% of gross) gets a decent one-bedroom in average-cost metros. In the most expensive cities you may need roommates or a longer commute.
 
+For the mortgage math alone, see [I make $70K a year — what mortgage can I afford?](/blog/i-make-70k-a-year-what-mortgage-can-i-afford) with exact payment tables and debt scenarios.
+
 *Estimates for planning only, not financial advice.*

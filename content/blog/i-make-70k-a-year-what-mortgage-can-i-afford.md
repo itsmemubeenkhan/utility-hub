@@ -85,4 +85,6 @@ If you apply jointly, lenders use combined income, which raises the ratios propo
 ### Is the 28/36 rule a law?
 No — it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.
 
+Wondering what else fits a $70K paycheck? See [what you can afford with a $70K salary](/blog/what-can-you-afford-with-70k-salary) — house, car and the full 50/30/20 budget breakdown.
+
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
