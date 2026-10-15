@@ -93,7 +93,7 @@ export default async function ToolPage({ params }) {
         name: tool.videoTitle || tool.name,
         description: tool.metaDescription,
         thumbnailUrl: 'https://i.ytimg.com/vi/' + tool.videoId + '/hqdefault.jpg',
-        uploadDate: '2026-10-13',
+        uploadDate: '2026-10-13T00:00:00+05:00',
         embedUrl: 'https://www.youtube.com/embed/' + tool.videoId,
         contentUrl: 'https://www.youtube.com/watch?v=' + tool.videoId,
       }
