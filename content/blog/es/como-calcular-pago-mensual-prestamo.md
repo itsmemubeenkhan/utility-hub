@@ -91,4 +91,6 @@ Nunca compares solo el pago mensual: compara el **costo total** (pago × meses) 
 
 Las tarjetas de crédito usan otro método de cálculo: aprende [cómo calcular los intereses de tu tarjeta de crédito](/es/blog/calculo-intereses-tarjeta-de-credito) con un ejemplo real de $3,000 al 24% APR.
 
+¿Quieres un caso concreto? Mira [cuánto pagas al mes por un préstamo de $10,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-10000) con tablas reales por tasa y plazo.
+
 *Estimaciones para planificación, no asesoría financiera.*
