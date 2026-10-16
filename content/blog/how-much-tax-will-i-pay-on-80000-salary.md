@@ -54,7 +54,7 @@ Your employer matches this amount behind the scenes, but as a W-2 employee you n
 1. **State income tax.** In California (~9.3% effective at this income) you would lose another ~$4,500; in Texas or Florida, $0. State tax is the single biggest variable.
 2. **Pre-tax deductions.** 401(k) contributions, HSA contributions, and health insurance premiums reduce your taxable income dollar-for-dollar. Maxing a 401(k) at $23,500 would cut your federal tax by roughly $5,170.
 3. **Filing status.** Married filing jointly roughly doubles the brackets and the standard deduction ($32,200), which can significantly lower the bill for single-earner households.
-4. **Freelance vs employee.** If this $80,000 is 1099 income instead of W-2, you owe self-employment tax (15.3%) instead of half of FICA — but you can deduct half of it. See our [1099 vs W-2 calculator](/tools/1099-vs-w2-calculator) for the side-by-side comparison.
+4. **Freelance vs employee.** If this $80,000 is 1099 income instead of W-2, you owe self-employment tax (15.3%) instead of half of FICA — but you can deduct half of it. See our [1099 vs W-2 calculator](/tools/1099-vs-w2-calculator) for the side-by-side comparison. Estimate the exact SE-tax bill with our [self-employment tax calculator](/tools/self-employment-tax-calculator), and plan your payments with our [quarterly estimated tax calculator](/tools/quarterly-estimated-tax-calculator).
 
 ## Biweekly paycheck estimate
 

@@ -50,7 +50,7 @@ Going from $80,000 to $100,000 costs you about **$5,930 more in tax** ($20,820 â
 1. **State income tax** â€” the biggest variable. Zero in Texas/Florida; roughly $6,000+ in California at this income.
 2. **Pre-tax deductions.** A $23,500 401(k) contribution saves about $5,170 in federal tax alone at the 22% marginal rate.
 3. **Filing status.** Married filing jointly doubles the brackets and standard deduction ($32,200).
-4. **1099 income.** Freelancers pay self-employment tax instead of half-FICA. Compare with our [1099 vs W-2 calculator](/tools/1099-vs-w2-calculator).
+4. **1099 income.** Freelancers pay self-employment tax instead of half-FICA. Compare with our [1099 vs W-2 calculator](/tools/1099-vs-w2-calculator). Estimate the exact SE-tax bill with our [self-employment tax calculator](/tools/self-employment-tax-calculator), and if you earn side income on top of your salary, our [side hustle tax calculator](/tools/side-hustle-tax-calculator) estimates the extra tax on that income.
 
 ## Biweekly paycheck estimate
 
