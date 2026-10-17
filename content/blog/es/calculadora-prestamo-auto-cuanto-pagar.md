@@ -54,7 +54,7 @@ El mismo auto a 48 meses: $659/mes, total $31,632, interés $4,632. Pagas $150 m
 - **Crédito regular (580–669):** 10–15%
 - **Mal crédito (menos de 580):** 15%+ (considera mejorar tu crédito primero)
 
-Siempre compara: el financiamiento del concesionario casi nunca es la mejor oferta. Cotiza en tu banco o cooperativa de crédito antes de ir al dealer.
+Siempre compara: el financiamiento del concesionario casi nunca es la mejor oferta. Cotiza en tu banco o cooperativa de crédito antes de ir al dealer. Y no compares solo la tasa de interés: aprende [qué es el CAT y cómo se calcula](/es/blog/que-es-el-cat-y-como-se-calcula) para ver el costo real total del crédito.
 
 [Calcula tu pago exacto gratis con nuestra calculadora de préstamos](/es/tools/calculadora-de-prestamos)
 

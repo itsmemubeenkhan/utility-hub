@@ -42,7 +42,7 @@ Conventional PMI, by contrast, **automatically terminates at 78% loan-to-value**
 
 ## The smart first-timer strategy
 
-If your credit is the barrier, consider this path: **buy with FHA now, refinance to conventional later** once your score is 700+ and you have 20% equity. You get the home sooner with FHA's lenient approval, then escape the lifetime MIP with a refinance. Just make sure the numbers work: refinancing costs 2–5% of the loan in closing costs, so run the breakeven.
+If your credit is the barrier, consider this path: **buy with FHA now, refinance to conventional later** once your score is 700+ and you have 20% equity. Sitting at 650? See what a [650 credit score means for buying a house](/blog/is-650-credit-score-good-for-buying-a-house) — FHA is often the best loan type at that score. You get the home sooner with FHA's lenient approval, then escape the lifetime MIP with a refinance. Just make sure the numbers work: refinancing costs 2–5% of the loan in closing costs, so run the breakeven.
 
 ## The bottom line
 

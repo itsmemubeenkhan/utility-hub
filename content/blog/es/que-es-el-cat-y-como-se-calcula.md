@@ -56,6 +56,8 @@ No necesitas calcularlo a mano — los bancos están obligados a publicarlo y Ba
 
 **Regla de oro:** Al comparar dos créditos del mismo tipo y plazo, **elige el de menor CAT**, no el de menor tasa de interés.
 
+¿Comparando opciones? Mira [cuánto interés pagarás en un préstamo personal](/es/blog/cuanto-interes-pagare-en-un-prestamo) y [cuánto pagarías al mes por un préstamo de auto](/es/blog/calculadora-prestamo-auto-cuanto-pagar) con ejemplos reales antes de decidir.
+
 ## CAT promedio en México (2026, referencia)
 
 | Producto | CAT típico |

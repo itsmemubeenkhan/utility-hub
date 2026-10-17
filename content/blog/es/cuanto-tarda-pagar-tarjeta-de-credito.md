@@ -20,7 +20,7 @@ Toma un saldo de $5,000 al 24% APR — más o menos la tasa promedio en EE. UU. 
 
 Lee la primera fila otra vez. Al 24% APR, el interés mensual de $5,000 es unos **$100** — y el pago mínimo del 2% del saldo también es unos $100. **El mínimo apenas cubre el interés.** El saldo casi nunca baja; estás pagando una renta por tu propia deuda para siempre. No es una exageración: es aritmética.
 
-Sube el pago a $200 fijos al mes y el mismo saldo muere en casi 3 años con unos $2,000 de intereses. Pensar "doble pago, mitad de tiempo" es un error: los pagos fijos atacan el capital, los mínimos alimentan el interés.
+Sube el pago a $200 fijos al mes y el mismo saldo muere en casi 3 años con unos $2,000 de intereses. Pensar "doble pago, mitad de tiempo" es un error: los pagos fijos atacan el capital, los mínimos alimentan el interés. En México, con un CAT del 40%, el escenario es aún peor: mira [cuánto tiempo tardarías si solo pagas el mínimo](/es/blog/cuanto-tiempo-tardo-en-pagar-mi-tarjeta-si-solo-pago-el-minimo) con números reales.
 
 ## Por qué el mínimo es una trampa
 

@@ -6,7 +6,7 @@ date: "2026-10-16"
 keywords: "is 650 credit score good for buying a house, 650 credit score mortgage, can i buy a house with 650 credit score, 650 credit score home loan"
 ---
 
-A **650 credit score is enough to buy a house** in 2026 — but it sits in the "fair" range, which means you will pay more in interest than someone with a 750. Here is exactly what a 650 gets you, what it costs, and how to push it higher before you apply.
+A **650 credit score is enough to buy a house** in 2026 — but it sits in the "fair" range, which means you will pay more in interest than someone with a 750. For the full picture on mortgage score tiers, see [what counts as a good credit score for a mortgage](/blog/good-credit-score-for-mortgage). Here is exactly what a 650 gets you, what it costs, and how to push it higher before you apply.
 
 ## The short answer
 
@@ -42,7 +42,7 @@ FHA loans are built for scores like yours:
 - **More forgiving** debt-to-income limits (up to 56.9% with compensating factors)
 - **Rate barely depends on score** — a 650 and a 750 get nearly the same FHA rate
 
-The tradeoff: FHA charges **upfront MIP** (1.75% of the loan, rolled in) plus **annual MIP** (~0.55%/year) for at least 11 years — and for the life of the loan if you put down less than 10%. Run both scenarios before deciding.
+The tradeoff: FHA charges **upfront MIP** (1.75% of the loan, rolled in) plus **annual MIP** (~0.55%/year) for at least 11 years — and for the life of the loan if you put down less than 10%. Run both scenarios before deciding — our [FHA vs conventional loan guide](/blog/fha-vs-conventional-loan) breaks down the full cost comparison.
 
 ## 5 fastest ways to lift 650 toward 700+
 

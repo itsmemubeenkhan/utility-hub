@@ -50,7 +50,7 @@ Banxico (Circular 13/2011) obliga a los bancos a usar una fórmula transparente.
 1. Un porcentaje del saldo (típicamente 1.5%–5%), o
 2. Los intereses del mes + comisiones + una fracción del capital
 
-El problema: la fórmula está diseñada para que el banco **maximice los intereses**, no para que tú salgas rápido de la deuda. El mínimo legal no es el mínimo inteligente.
+El problema: la fórmula está diseñada para que el banco **maximice los intereses**, no para que tú salgas rápido de la deuda. El mínimo legal no es el mínimo inteligente. El CAT es el número que realmente importa al comparar créditos: aprende [qué es el CAT y cómo se calcula](/es/blog/que-es-el-cat-y-como-se-calcula).
 
 ## Tu plan de escape en 4 pasos
 

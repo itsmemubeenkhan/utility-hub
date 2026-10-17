@@ -27,7 +27,7 @@ Mortgage pricing tiers reward higher scores in steps. The biggest jumps happen a
 - **740–759:** Nearly the best, often within an eighth of a point of top-tier pricing.
 - **700–739:** Good rates, but you are paying a noticeable premium versus 760+.
 - **680–699:** You will feel it, roughly a quarter to half point higher than top tier.
-- **620–679:** Approved, but expensive. The rate premium here is real money.
+- **620–679:** Approved, but expensive. The rate premium here is real money. Wondering what a specific score means in practice? See exactly what a [650 credit score gets you when buying a house](/blog/is-650-credit-score-good-for-buying-a-house), including the rate and monthly cost versus a 750.
 
 On a $400,000 loan, the difference between a 7.0% rate (good credit) and 7.5% (fair credit) is about **$130/month**, or roughly **$47,000** over 30 years. That is the price of a mediocre score, paid monthly for three decades.
 
