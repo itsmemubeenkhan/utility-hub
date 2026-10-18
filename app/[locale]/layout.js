@@ -16,11 +16,11 @@ export async function generateMetadata({ params }) {
     return {
       metadataBase: new URL('https://www.theutilityhub.online'),
       title: {
-        default: `${SITE_NAME}: Calculadoras financieras gratuitas y guías de dinero`,
+        default: `${SITE_NAME}: Calculadoras, herramientas gratis y guías de dinero`,
         template: `%s | ${SITE_NAME}`,
       },
       description:
-        'Calculadoras financieras gratuitas y guías de dinero en español. Hipotecas, préstamos, interés compuesto, salario, jubilación y deudas, explicados en lenguaje sencillo.',
+        'Calculadoras, herramientas gratis y guías de dinero en español. Hipotecas, préstamos, impuestos, salario, códigos QR y más, explicados en lenguaje sencillo.',
       themeColor: '#1e3a8a',
     };
   }
@@ -34,7 +34,7 @@ function websiteJsonLdEs() {
     name: SITE_NAME,
     url: absUrl('/es'),
     description:
-      'Calculadoras financieras gratuitas y guías de dinero en español para la comunidad hispana en EE. UU.',
+      'Calculadoras, herramientas gratis y guías de dinero en español para la comunidad hispana en EE. UU.',
     inLanguage: 'es',
   };
 }

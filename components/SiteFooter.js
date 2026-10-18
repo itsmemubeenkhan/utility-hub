@@ -18,7 +18,7 @@ export default function SiteFooter({ lang = 'en' }) {
             <Link href={prefix || '/'} className="brand" style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', background: '#fff', padding: '8px 14px', borderRadius: '12px' }}>
               <picture>
               <source srcSet="/logo-footer.webp" type="image/webp" />
-              <img src="/logo-footer.png" alt="UtilityHub - Finance Calculators" width="118" height="32" style={{ height: '32px', width: 'auto' }} />
+              <img src="/logo-footer.png" alt="UtilityHub - Free Online Tools" width="118" height="32" style={{ height: '32px', width: 'auto' }} />
             </picture>
             </Link>
             <p style={{ maxWidth: 340, marginTop: 12 }}>{t.footer.blurb}</p>

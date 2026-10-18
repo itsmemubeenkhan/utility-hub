@@ -16,7 +16,7 @@ export default function HomePageContent({ lang, tools, posts }) {
   const itemList = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: lang === 'es' ? 'Calculadoras financieras gratuitas' : 'Free finance calculators',
+    name: lang === 'es' ? 'Calculadoras y herramientas gratis' : 'Free calculators and tools',
     itemListElement: tools.map((tool, i) => ({
       '@type': 'ListItem',
       position: i + 1,
