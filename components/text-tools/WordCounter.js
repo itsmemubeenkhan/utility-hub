@@ -119,7 +119,7 @@ export default function WordCounter({ lang = 'en' }) {
       </div>
 
       <div style={{ marginTop: 16 }}>
-        <button type="button" className="btn btn-ghost" onClick={() => setText('')}>
+        <button type="button" className="btn btn-ghost-light" onClick={() => setText('')}>
           {t.clear}
         </button>
       </div>

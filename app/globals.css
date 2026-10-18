@@ -68,6 +68,9 @@ main { min-height: 60vh; }
 .btn-primary:hover { background: #7dd3fc; text-decoration: none; box-shadow: 0 12px 30px rgba(56,189,248,.45); }
 .btn-ghost { background: rgba(255,255,255,.06); color: #fff; border: 1.5px solid #5b7bd5; }
 .btn-ghost:hover { border-color: #fff; background: rgba(255,255,255,.12); text-decoration: none; }
+/* Light-background ghost button (text tool pages are white — white text would be invisible). */
+.btn-ghost-light { background: #fff; color: var(--ink); border: 1.5px solid #5b7bd5; }
+.btn-ghost-light:hover { border-color: #3b5bd0; background: #eef3ff; text-decoration: none; }
 
 /* Tool grid */
 .section { padding: 56px 0; }

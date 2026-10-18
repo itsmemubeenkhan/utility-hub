@@ -146,7 +146,7 @@ export default function CaseConverter({ lang = 'en' }) {
         <button type="button" className="btn btn-primary" onClick={onCopy} disabled={!output}>
           {copied ? t.copied : t.copy}
         </button>
-        <button type="button" className="btn btn-ghost" onClick={() => setText('')}>
+        <button type="button" className="btn btn-ghost-light" onClick={() => setText('')}>
           {t.clear}
         </button>
       </div>

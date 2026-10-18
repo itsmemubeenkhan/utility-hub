@@ -122,7 +122,7 @@ export default function CharacterCounter({ lang = 'en' }) {
       </div>
 
       <div style={{ marginTop: 16, display: 'flex', gap: 10, flexWrap: 'wrap' }}>
-        <button type="button" className="btn btn-ghost" onClick={() => setText('')}>
+        <button type="button" className="btn btn-ghost-light" onClick={() => setText('')}>
           {t.clear}
         </button>
       </div>
