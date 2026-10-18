@@ -5,6 +5,7 @@ import { getToolEs, getAllToolSlugsEs, TOOLS_ES } from '@/lib/tools.es';
 import ToolRunner from '@/components/ToolRunner';
 import TextTool from '@/components/text-tools/TextTool';
 import QRTool from '@/components/qr-tools/QRTool';
+import PayStubTool from '@/components/paystub/PayStubTool';
 import JsonLd from '@/components/JsonLd';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
@@ -122,6 +123,8 @@ export default async function ToolPage({ params }) {
         {tool.customComponent ? (
           tool.customComponent.startsWith('qr-') ? (
             <QRTool component={tool.customComponent} lang={locale} />
+          ) : tool.customComponent.startsWith('pay-') ? (
+            <PayStubTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
