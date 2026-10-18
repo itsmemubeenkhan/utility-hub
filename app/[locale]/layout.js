@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import SiteHeader from '@/components/SiteHeader';
 import SiteFooter from '@/components/SiteFooter';
+import AdBlockNotice from '@/components/AdBlockNotice';
 import JsonLd from '@/components/JsonLd';
 import { defaultMetadata, websiteJsonLd, absUrl, SITE_NAME } from '@/lib/seo';
 
@@ -57,6 +58,7 @@ export default async function LocaleLayout({ children, params }) {
         <SiteHeader lang={locale} />
         <main>{children}</main>
         <SiteFooter lang={locale} />
+        <AdBlockNotice lang={locale} />
       </body>
     </html>
   );
