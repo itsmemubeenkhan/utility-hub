@@ -22,7 +22,7 @@ The 15-year mortgage costs **$793 more per month** but saves **$312,283 in inter
 
 ## What the 15-year buys you (besides savings)
 
-- **Forced discipline.** The higher payment is a commitment device — you build equity fast whether you feel like it or not.
+- **Forced discipline.** The higher payment is a commitment device - you build equity fast whether you feel like it or not.
 - **Lower rate.** Lenders reward the shorter term, which compounds the savings.
 - **Retirement timing.** A 15-year loan taken at 40 ends at 55, right before retirement. A 30-year loan taken at 40 ends at 70.
 
@@ -34,8 +34,8 @@ The 15-year mortgage costs **$793 more per month** but saves **$312,283 in inter
 
 ## The hybrid: 30-year loan, 15-year behavior
 
-There is a middle path most buyers overlook: take the 30-year mortgage for the lower mandatory payment, then voluntarily pay extra principal each month as if it were a 15-year loan. You get nearly the same interest savings, but in a crisis you can drop back to the minimum payment. The catch is honesty — the strategy only works if you actually make the extra payments.
+There is a middle path most buyers overlook: take the 30-year mortgage for the lower mandatory payment, then voluntarily pay extra principal each month as if it were a 15-year loan. You get nearly the same interest savings, but in a crisis you can drop back to the minimum payment. The catch is honesty - the strategy only works if you actually make the extra payments.
 
-Run both scenarios with our [mortgage calculator](/tools/mortgage-calculator) and see what extra payments do to your payoff date. If you already have a 30-year loan, check whether refinancing into a 15-year makes sense with the [refinance calculator](/tools/refinance-calculator) — also see [when refinancing is worth it](/blog/should-i-refinance-my-mortgage).
+Run both scenarios with our [mortgage calculator](/tools/mortgage-calculator) and see what extra payments do to your payoff date. If you already have a 30-year loan, check whether refinancing into a 15-year makes sense with the [refinance calculator](/tools/refinance-calculator) - also see [when refinancing is worth it](/blog/should-i-refinance-my-mortgage).
 
 *Estimates for planning only, not financial advice. Actual rates depend on your lender, credit and market conditions.*

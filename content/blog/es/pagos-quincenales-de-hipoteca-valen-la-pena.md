@@ -22,8 +22,8 @@ En un préstamo de $400,000 al 6.5% a 30 años (pago mensual $2,528):
 | Ritmo de pago | $2,528/mes | $1,264 cada 2 semanas |
 | Tiempo de pago | 30.0 años | ~24.2 años |
 | Interés total | $510,178 | ~$392,682 |
-| **Interés ahorrado** | — | **~$117,496** |
-| **Años ahorrados** | — | **~5.8 años** |
+| **Interés ahorrado** | - | **~$117,496** |
+| **Años ahorrados** | - | **~5.8 años** |
 
 Mismos dólares por mes en promedio. Casi seis años de tu vida de vuelta, y $117,000 que se quedan contigo. Corre tus propios números en nuestra [calculadora de hipoteca quincenal](/es/tools/calculadora-de-hipoteca-quincenal).
 
@@ -37,7 +37,7 @@ Puedes replicar ~95% del ahorro sin cargos: divide tu pago mensual de capital e 
 
 ## A quién le conviene
 
-Lo quincenal (o el capital extra manual) tiene sentido si planeas quedarte en la casa el tiempo suficiente para que el interés compuesto haga su magia, no tienes deudas con tasas más altas y tu fondo de emergencia está sólido. Si cargas saldos de tarjetas al 20%+, liquida esos primero — el retorno es casi el triple. Y si tu tasa hipotecaria está bajo 4%, invertir el extra en una cuenta de jubilación usualmente supera al prepago en horizontes largos.
+Lo quincenal (o el capital extra manual) tiene sentido si planeas quedarte en la casa el tiempo suficiente para que el interés compuesto haga su magia, no tienes deudas con tasas más altas y tu fondo de emergencia está sólido. Si cargas saldos de tarjetas al 20%+, liquida esos primero - el retorno es casi el triple. Y si tu tasa hipotecaria está bajo 4%, invertir el extra en una cuenta de jubilación usualmente supera al prepago en horizontes largos.
 
 ## En resumen
 

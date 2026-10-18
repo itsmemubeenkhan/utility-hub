@@ -6,7 +6,7 @@ date: "2026-10-14"
 keywords: "how much house can i afford 70k georgia"
 ---
 
-Georgia offers great value for $70K buyers — especially around Atlanta's suburbs.
+Georgia offers great value for $70K buyers - especially around Atlanta's suburbs.
 
 ## The number: $260K–$290K
 
@@ -16,8 +16,8 @@ Georgia offers great value for $70K buyers — especially around Atlanta's subur
 
 ## Atlanta metro on $70K
 
-- **Outer suburbs:** Median $280k-$320k — within reach
-- **Intown Atlanta:** Median $400k+ — tough
-- **Augusta/Columbus/Macon:** Median $180k-$220k — comfortable
+- **Outer suburbs:** Median $280k-$320k - within reach
+- **Intown Atlanta:** Median $400k+ - tough
+- **Augusta/Columbus/Macon:** Median $180k-$220k - comfortable
 
 [Get your exact number](/tools/home-affordability-calculator)

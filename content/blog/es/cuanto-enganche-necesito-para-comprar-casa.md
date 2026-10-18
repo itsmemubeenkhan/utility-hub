@@ -12,7 +12,7 @@ La buena noticia: probablemente necesitas menos de lo que crees.
 
 ## El mito del 20%
 
-Durante décadas, el consejo estándar fue dar **20% de enganche**. En una casa de $300,000, eso son $60,000 — una cifra que suena imposible para muchos.
+Durante décadas, el consejo estándar fue dar **20% de enganche**. En una casa de $300,000, eso son $60,000 - una cifra que suena imposible para muchos.
 
 La realidad de 2026 es diferente. El enganche promedio de los compradores primerizos en Estados Unidos ronda el **6-8%**, no el 20%. Existen programas diseñados exactamente para que no tengas que esperar años ahorrando.
 
@@ -41,7 +41,7 @@ Ejemplo: casa de $300,000 con 5% de enganche ($15,000).
 - PMI estimado: $140 – $240 al mes extra
 - El PMI se elimina cuando debes el 80% o menos del valor de la casa
 
-Con FHA, el seguro hipotecario (MIP) funciona parecido pero es más difícil de eliminar — en muchos casos dura toda la vida del préstamo a menos que refinancies.
+Con FHA, el seguro hipotecario (MIP) funciona parecido pero es más difícil de eliminar - en muchos casos dura toda la vida del préstamo a menos que refinancies.
 
 Lee nuestra guía sobre [qué es el PMI y cómo evitarlo](/es/blog/que-es-el-pmi-y-como-evitarlo) para los detalles.
 
@@ -53,7 +53,7 @@ Algunos vendedores aceptan ayudar con los costos de cierre, y hay programas esta
 
 ## Cómo calcular tu número exacto
 
-1. Define el precio de casa realista con nuestra [calculadora de hipoteca](/es/tools/calculadora-de-hipoteca) — ajusta el enganche y mira cómo cambia el pago mensual.
+1. Define el precio de casa realista con nuestra [calculadora de hipoteca](/es/tools/calculadora-de-hipoteca) - ajusta el enganche y mira cómo cambia el pago mensual.
 2. Verifica qué casa puedes pagar con tu salario en [¿cuánta casa puedo comprar?](/es/tools/cuanta-casa-puedo-comprar).
 3. Suma enganche + costos de cierre estimados (3%). Ese es tu objetivo de ahorro.
 
@@ -66,7 +66,7 @@ Algunos vendedores aceptan ayudar con los costos de cierre, y hay programas esta
 
 ## ¿Conviene esperar a juntar el 20%?
 
-Depende de tu mercado. Si los precios suben 5% al año, esperar dos años para ahorrar $60,000 puede costarte $30,000 en apreciación perdida — más lo que pagaste de renta mientras tanto. Haz los números: a veces comprar con 5% y pagar PMI temporal sale más barato que esperar.
+Depende de tu mercado. Si los precios suben 5% al año, esperar dos años para ahorrar $60,000 puede costarte $30,000 en apreciación perdida - más lo que pagaste de renta mientras tanto. Haz los números: a veces comprar con 5% y pagar PMI temporal sale más barato que esperar.
 
 Compara rentar vs comprar con tu situación real en [alquilar vs comprar: cuál es más barato](/es/blog/alquilar-vs-comprar-casa-cual-es-mas-barato).
 
@@ -79,7 +79,7 @@ Sí. Los préstamos VA (militares) y USDA (zonas rurales) permiten 0% de enganch
 No. El enganche es el pago inicial al vendedor/prestamista. Los costos de cierre (2-5% del precio) se pagan aparte el día del cierre. Calcula ambos.
 
 ### ¿Qué pasa si doy más del 20%?
-Evitas el PMI por completo, tu pago mensual baja y pagas menos interés total. Pero no pongas TODO tu dinero en la casa — deja un fondo de emergencia intacto.
+Evitas el PMI por completo, tu pago mensual baja y pagas menos interés total. Pero no pongas TODO tu dinero en la casa - deja un fondo de emergencia intacto.
 
 ### ¿Los programas de asistencia de enganche son préstamos?
 Algunos son regalos (no se devuelven), otros son préstamos sin interés que se pagan al vender o refinanciar. Lee los términos de tu estado antes de firmar.

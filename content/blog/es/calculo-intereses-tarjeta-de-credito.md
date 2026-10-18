@@ -36,13 +36,13 @@ Mira cuánto tardas en liquidar esos mismos $3,000 al 24% según lo que pagues (
 | $100 fijos | ~3.9 años | ~$1,627 | ~$4,627 |
 | $200 fijos | ~1.5 años | ~$600 | ~$3,600 |
 
-Pagar solo el mínimo te cuesta **más de $4,000 en intereses** — más que la deuda original. Duplicar el pago a $200/mes te ahorra casi $3,800 y te libera 9 años antes.
+Pagar solo el mínimo te cuesta **más de $4,000 en intereses** - más que la deuda original. Duplicar el pago a $200/mes te ahorra casi $3,800 y te libera 9 años antes.
 
 Calcula tu propio plan de pago con nuestra [calculadora para pagar tarjeta de crédito](/es/tools/calculadora-para-pagar-tarjeta-de-credito) y mira [cuánto tarda pagar solo el mínimo](/es/blog/cuanto-tarda-pagar-tarjeta-de-credito).
 
 ## El interés se calcula sobre lo que debes CADA DÍA
 
-Detalle importante: si haces compras nuevas durante el ciclo, el saldo promedio sube y pagas más interés. Y si solo pagas el mínimo, los intereses no pagados **se suman al saldo** — el próximo mes pagas intereses sobre los intereses. Eso es el interés compuesto trabajando en tu contra.
+Detalle importante: si haces compras nuevas durante el ciclo, el saldo promedio sube y pagas más interés. Y si solo pagas el mínimo, los intereses no pagados **se suman al saldo** - el próximo mes pagas intereses sobre los intereses. Eso es el interés compuesto trabajando en tu contra.
 
 ## Cómo reducir los intereses (en orden de impacto)
 
@@ -67,7 +67,7 @@ Porque el mínimo (típicamente 1–2% del saldo) apenas cubre el interés mensu
 La tasa de porcentaje anual: el costo del crédito expresado como tasa anual. No incluye comisiones. Para el cálculo diario se divide entre 365.
 
 ### ¿Conviene pagar la tarjeta antes que ahorrar?
-Si tu tarjeta cobra 24% y tus ahorros ganan 4–5%, matemáticamente conviene **liquidar la tarjeta primero** — es un "retorno garantizado" del 24%. Mantén solo un mini fondo de emergencia ($1,000) mientras la pagas.
+Si tu tarjeta cobra 24% y tus ahorros ganan 4–5%, matemáticamente conviene **liquidar la tarjeta primero** - es un "retorno garantizado" del 24%. Mantén solo un mini fondo de emergencia ($1,000) mientras la pagas.
 
 ### ¿El interés se cobra si pago el total cada mes?
 No. Si pagas el **saldo total** antes de la fecha de corte, el período de gracia evita todo interés. El interés solo aparece cuando dejas saldo pendiente.

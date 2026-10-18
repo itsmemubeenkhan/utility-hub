@@ -1,5 +1,5 @@
 'use client';
-/* Case Converter — 6 transforms, copy-to-clipboard, live stats.
+/* Case Converter - 6 transforms, copy-to-clipboard, live stats.
    Differentiator: alternating + inverse case modes most micro-rankers lack. */
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
@@ -11,7 +11,7 @@ const STR = {
     outputLabel: 'Converted text',
     copy: 'Copy to clipboard',
     copied: 'Copied!',
-    copyFail: 'Copy failed — select the text manually.',
+    copyFail: 'Copy failed - select the text manually.',
     clear: 'Clear',
     chars: 'Characters',
     words: 'Words',
@@ -34,7 +34,7 @@ const STR = {
     outputLabel: 'Texto convertido',
     copy: 'Copiar al portapapeles',
     copied: '¡Copiado!',
-    copyFail: 'No se pudo copiar — selecciona el texto manualmente.',
+    copyFail: 'No se pudo copiar - selecciona el texto manualmente.',
     clear: 'Borrar',
     chars: 'Caracteres',
     words: 'Palabras',

@@ -6,7 +6,7 @@ date: "2026-10-16"
 keywords: "how much house can I afford on 80k salary, house affordability 80000 salary, home price on 80k income, how much house can i afford making 80000 a year"
 ---
 
-$80,000 puts you above the US median household income — solid first-time buyer territory in most markets. If you are wondering **how much house can I afford making $80,000 a year**, the lending industry's standard **28/36 rule** puts the answer around **$280k–$310k**, depending on your debts, down payment, rate, and state. Here is the exact math.
+$80,000 puts you above the US median household income - solid first-time buyer territory in most markets. If you are wondering **how much house can I afford making $80,000 a year**, the lending industry's standard **28/36 rule** puts the answer around **$280k–$310k**, depending on your debts, down payment, rate, and state. Here is the exact math.
 
 ## The 28/36 rule, step by step
 
@@ -37,19 +37,19 @@ Realistic ranges on $80K salary:
 
 ## Five things that move the number
 
-1. **Interest rate.** At 5.5% instead of 6.5%, the same payment buys ~12% more house — about $34,000 extra at this income. When you are buying near your max, rate is everything.
+1. **Interest rate.** At 5.5% instead of 6.5%, the same payment buys ~12% more house - about $34,000 extra at this income. When you are buying near your max, rate is everything.
 2. **Existing debts.** Every $200/month in debt payments cuts roughly $30,000 off your max price. That $450/month car payment is costing you nearly $70,000 in house.
 3. **Down payment.** 20% ($56,000–$62,000) avoids PMI (about $100–$205/month at this loan size). On $80K, it takes discipline but is very doable in 2–4 years.
 4. **Property taxes.** In New Jersey or Illinois, taxes can add $600+/month in this price range; in Texas ~$400–$500; in Alabama or Colorado, under $150. Location changes affordability enormously.
-5. **PMI.** With less than 20% down, PMI (0.5–1% of the loan annually) eats $100–$200/month of your budget — money that buys you nothing. Worth avoiding if you can.
+5. **PMI.** With less than 20% down, PMI (0.5–1% of the loan annually) eats $100–$200/month of your budget - money that buys you nothing. Worth avoiding if you can.
 
 ## The costs buyers forget
 
-The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($3,000/year on a $300,000 home), plus utilities, and an emergency fund covering 3–6 months of the *new* higher housing cost, not your old rent. First-time buyers at this income often underestimate closing costs too — budget 2–5% of the price ($6,000–$15,000) on top of the down payment.
+The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($3,000/year on a $300,000 home), plus utilities, and an emergency fund covering 3–6 months of the *new* higher housing cost, not your old rent. First-time buyers at this income often underestimate closing costs too - budget 2–5% of the price ($6,000–$15,000) on top of the down payment.
 
 ## Should you max it out?
 
-The 28/36 rule is a **ceiling**, not a target. At $80K, the smart zone is $250K–$280K — comfortably below max, leaving room for savings and life. Stretching to $310K is possible but leaves thin margins; one job loss or major repair without an emergency fund turns stressful fast.
+The 28/36 rule is a **ceiling**, not a target. At $80K, the smart zone is $250K–$280K - comfortably below max, leaving room for savings and life. Stretching to $310K is possible but leaves thin margins; one job loss or major repair without an emergency fund turns stressful fast.
 
 Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price. Also check the [mortgage calculator](/tools/mortgage-calculator) and [salary paycheck calculator](/tools/salary-paycheck-calculator).
 
@@ -59,7 +59,7 @@ Run your own numbers with our [home affordability calculator](/tools/home-afford
 
 **Florida ($80K salary):** No state income tax, property tax ~0.9% (~$210/month on $280K), but insurance $180–$320/month. Realistic range: **$270K–$300K**.
 
-**California ($80K salary):** State income tax ~7.5% at this level, and $80K does not stretch to single-family homes in coastal metros. Realistic range: **$280K–$310K** on paper — practically a condo inland or a starter townhome.
+**California ($80K salary):** State income tax ~7.5% at this level, and $80K does not stretch to single-family homes in coastal metros. Realistic range: **$280K–$310K** on paper - practically a condo inland or a starter townhome.
 
 **More in this series:** [$50K](/blog/how-much-house-can-i-afford-50k-salary) · [$60K](/blog/how-much-house-can-i-afford-60k-salary) · [$70K](/blog/how-much-house-can-i-afford-70k-salary) · [$90K](/blog/how-much-house-can-i-afford-90k-salary) · [$100K](/blog/how-much-house-can-i-afford-100k-salary) · [$110K](/blog/how-much-house-can-i-afford-110k-salary) · [$120K](/blog/how-much-house-can-i-afford-120k-salary) · [$130K](/blog/how-much-house-can-i-afford-130k-salary) · [$150K](/blog/how-much-house-can-i-afford-150k-salary) · [$200K](/blog/how-much-house-can-i-afford-200k-salary)
 
@@ -72,7 +72,7 @@ On an $80,000 salary with typical debts and 10–20% down, you can afford a home
 About **$1,867/month** for all housing costs (mortgage, taxes, insurance, HOA) under the 28% front-end rule, assuming your total debts stay under 36% of income ($2,400/month).
 
 ### Can I afford a $300K house on an $80K salary?
-Yes, with 10–20% down and manageable debts. With 10% down at 6.5%, a $300K home costs about $1,950/month in PITI — within the 28% guideline for $80K income.
+Yes, with 10–20% down and manageable debts. With 10% down at 6.5%, a $300K home costs about $1,950/month in PITI - within the 28% guideline for $80K income.
 
 ### Is $80K a good salary to buy a house in 2026?
 Yes, in most US markets. $80K is above the national median and buys a solid starter home in the South, Midwest, and suburbs. In expensive coastal cities, it usually means a condo or townhome.

@@ -6,7 +6,7 @@ date: "2026-10-14"
 keywords: "como calcular pago mensual de un préstamo, cómo calcular pago mensual de un préstamo, como calcular pagos mensuales de un prestamo, pago mensual prestamo formula, calculadora de pagos mensuales"
 ---
 
-Si quieres saber **cómo calcular el pago mensual de un préstamo** — de auto, personal o hipotecario — solo necesitas tres números: el monto, la tasa de interés y el plazo. Aquí te enseño la fórmula exacta y varios ejemplos con números reales para que nunca más firmes un préstamo a ciegas.
+Si quieres saber **cómo calcular el pago mensual de un préstamo** - de auto, personal o hipotecario - solo necesitas tres números: el monto, la tasa de interés y el plazo. Aquí te enseño la fórmula exacta y varios ejemplos con números reales para que nunca más firmes un préstamo a ciegas.
 
 ## La fórmula del pago mensual
 
@@ -46,7 +46,7 @@ El mismo préstamo de $25,000, pero variando condiciones:
 | 10% | 60 meses | $531.18 | $6,870.80 |
 | 8% | 84 meses | $390.07 | $7,765.88 |
 
-Dos lecciones claras: **subir la tasa 2 puntos** cuesta ~$24 más al mes ($1,456 extra en total), y **alargar el plazo** baja el pago mensual pero dispara el interés total — a 84 meses pagas $2,351 más en intereses que a 60 meses por el mismo préstamo.
+Dos lecciones claras: **subir la tasa 2 puntos** cuesta ~$24 más al mes ($1,456 extra en total), y **alargar el plazo** baja el pago mensual pero dispara el interés total - a 84 meses pagas $2,351 más en intereses que a 60 meses por el mismo préstamo.
 
 ## Los 3 factores que definen tu pago
 
@@ -65,7 +65,7 @@ Un préstamo de $25,000 al 8% a 84 meses "solo" cuesta $390/mes, pero terminas p
 
 ## No hagas el cálculo a mano
 
-[Usa nuestra calculadora de préstamos gratis](/es/tools/calculadora-de-prestamos) — ingresa monto, tasa y plazo, y obtén el pago mensual, el interés total y el calendario de amortización completo en segundos. También puedes comparar dos préstamos lado a lado con el [comparador de préstamos](/es/tools/comparador-de-prestamos).
+[Usa nuestra calculadora de préstamos gratis](/es/tools/calculadora-de-prestamos) - ingresa monto, tasa y plazo, y obtén el pago mensual, el interés total y el calendario de amortización completo en segundos. También puedes comparar dos préstamos lado a lado con el [comparador de préstamos](/es/tools/comparador-de-prestamos).
 
 ¿Es de auto? Mira la guía específica: [cuánto pagaré al mes por un préstamo de auto](/es/blog/calculadora-prestamo-auto-cuanto-pagar). ¿Quieres saber cuántos intereses pagarás en total? Lee: [cuánto interés pagaré en un préstamo](/es/blog/cuanto-interes-pagare-en-un-prestamo).
 

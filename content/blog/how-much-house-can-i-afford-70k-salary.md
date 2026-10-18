@@ -6,7 +6,7 @@ date: "2026-10-01"
 keywords: "how much house can I afford on 70k salary, house affordability 70000 salary, home price on 70k income"
 ---
 
-$70,000 sits just below the US median household income and buys solidly in most markets — this is the heart of the first-time buyer range. If you are wondering **how much house can I afford making $70,000 a year**, the lending industry's standard **28/36 rule** puts the answer around **$245k–$270k**, depending on your debts, down payment and rate. Here is the exact math.
+$70,000 sits just below the US median household income and buys solidly in most markets - this is the heart of the first-time buyer range. If you are wondering **how much house can I afford making $70,000 a year**, the lending industry's standard **28/36 rule** puts the answer around **$245k–$270k**, depending on your debts, down payment and rate. Here is the exact math.
 
 ## The 28/36 rule, step by step
 
@@ -44,7 +44,7 @@ Realistic ranges on $70K salary:
 
 ## The costs buyers forget
 
-The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($2,700/year on a $270,000 home), plus utilities, and an emergency fund that covers 3–6 months of the *new* higher housing cost, not your old rent. Keep that emergency fund at 3–6 months of the *new* housing cost — lifestyle creep after buying is the real budget killer here.
+The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($2,700/year on a $270,000 home), plus utilities, and an emergency fund that covers 3–6 months of the *new* higher housing cost, not your old rent. Keep that emergency fund at 3–6 months of the *new* housing cost - lifestyle creep after buying is the real budget killer here.
 
 ## Should you max it out?
 
@@ -52,7 +52,7 @@ The 28/36 rule is a **ceiling**, not a target. Buying 10–20% below your max le
 
 Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price.
 
-**Buying in a specific state?** Taxes and insurance change the math a lot — see our state guides: [$70K salary in Texas](/blog/how-much-house-can-i-afford-70k-salary-texas) · [Florida](/blog/how-much-house-can-i-afford-70k-salary-florida) · [California](/blog/how-much-house-can-i-afford-70k-salary-california) · [New York](/blog/how-much-house-can-i-afford-70k-salary-new-york) · [Georgia](/blog/how-much-house-can-i-afford-70k-salary-georgia)
+**Buying in a specific state?** Taxes and insurance change the math a lot - see our state guides: [$70K salary in Texas](/blog/how-much-house-can-i-afford-70k-salary-texas) · [Florida](/blog/how-much-house-can-i-afford-70k-salary-florida) · [California](/blog/how-much-house-can-i-afford-70k-salary-california) · [New York](/blog/how-much-house-can-i-afford-70k-salary-new-york) · [Georgia](/blog/how-much-house-can-i-afford-70k-salary-georgia)
 
 **More in this series:** [$50K](/blog/how-much-house-can-i-afford-50k-salary) · [$60K](/blog/how-much-house-can-i-afford-60k-salary) · [$80K](/blog/how-much-house-can-i-afford-80k-salary) · [$90K](/blog/how-much-house-can-i-afford-90k-salary) · [$100K](/blog/how-much-house-can-i-afford-100k-salary) · [$120K](/blog/how-much-house-can-i-afford-120k-salary) · [$150K](/blog/how-much-house-can-i-afford-150k-salary) · [$200K](/blog/how-much-house-can-i-afford-200k-salary)
 
@@ -62,7 +62,7 @@ Run your own numbers with our [home affordability calculator](/tools/home-afford
 On a $70,000 salary with typical debts and 10–20% down, you can afford a home priced around **$245,000–$270,000** at current rates, using the 28/36 lending rule. That assumes roughly $1,633/month for total housing costs.
 
 ### Can I afford a $300K house on a $70K salary?
-It is a stretch but possible. You would need a large down payment (25%+), minimal other debts, or a below-market rate. With 10% down at 6.5%, a $300K home costs about $1,950/month in PITI — over the 28% guideline for $70K income.
+It is a stretch but possible. You would need a large down payment (25%+), minimal other debts, or a below-market rate. With 10% down at 6.5%, a $300K home costs about $1,950/month in PITI - over the 28% guideline for $70K income.
 
 ### What mortgage payment can I afford on $70K salary?
 About **$1,633/month** for all housing costs (mortgage, taxes, insurance, HOA) under the 28% front-end rule, assuming your total debts stay under 36% of income ($2,100/month).

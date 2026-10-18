@@ -7,7 +7,7 @@ date: "2026-10-01"
 keywords: "cuánta casa puedo comprar con salario de 100k, casa que puedo comprar con 100000 de salario, precio de casa con 100k de ingreso"
 ---
 
-$100,000 — el clásico hito de las seis cifras — está alrededor de un 25% por encima del ingreso medio de los hogares en EE. UU., y alcanza cómodamente en la mayoría de los mercados del país. Usando la regla estándar **28/36** de la industria crediticia, la respuesta ronda los **$345k–$385k**, según tus deudas, tu pago inicial y tu tasa de interés. Aquí están los cálculos exactos.
+$100,000 - el clásico hito de las seis cifras - está alrededor de un 25% por encima del ingreso medio de los hogares en EE. UU., y alcanza cómodamente en la mayoría de los mercados del país. Usando la regla estándar **28/36** de la industria crediticia, la respuesta ronda los **$345k–$385k**, según tus deudas, tu pago inicial y tu tasa de interés. Aquí están los cálculos exactos.
 
 ## La regla 28/36, paso a paso
 
@@ -49,7 +49,7 @@ La hipoteca es solo el titular. Presupuesta ~1% del valor de la vivienda al año
 
 ## ¿Deberías llegar al máximo?
 
-La regla 28/36 es un **techo**, no una meta. Comprar un 10–20% por debajo de tu máximo deja espacio para ahorrar, invertir y vivir. Ser "pobre por la casa" — técnicamente aprobado pero sin ningún margen — es como un salario de seis cifras se convierte en estrés financiero crónico.
+La regla 28/36 es un **techo**, no una meta. Comprar un 10–20% por debajo de tu máximo deja espacio para ahorrar, invertir y vivir. Ser "pobre por la casa" - técnicamente aprobado pero sin ningún margen - es como un salario de seis cifras se convierte en estrés financiero crónico.
 
 Haz tus propios cálculos con nuestra [calculadora de asequibilidad de vivienda](/es/tools/cuanta-casa-puedo-comprar): ingresa tu ingreso, tus deudas, tu tasa y tu pago inicial para obtener tu precio máximo personalizado.
 

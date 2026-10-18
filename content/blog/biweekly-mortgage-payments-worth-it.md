@@ -21,8 +21,8 @@ On a $400,000 loan at 6.5% for 30 years (monthly payment $2,528):
 | Payment rhythm | $2,528/month | $1,264 every 2 weeks |
 | Payoff time | 30.0 years | ~24.2 years |
 | Total interest | $510,178 | ~$392,682 |
-| **Interest saved** | — | **~$117,496** |
-| **Years saved** | — | **~5.8 years** |
+| **Interest saved** | - | **~$117,496** |
+| **Years saved** | - | **~5.8 years** |
 
 Same dollars per month on average. Nearly six years of your life back, and $117,000 that stays yours. Run your own numbers in our [biweekly mortgage calculator](/tools/biweekly-mortgage-calculator).
 
@@ -36,7 +36,7 @@ You can replicate ~95% of the savings with zero fees: divide your monthly princi
 
 ## Who should do this
 
-Biweekly (or DIY extra principal) makes sense if you plan to stay in the home long enough for the compounding to matter, you have no higher-interest debt, and your emergency fund is solid. If you carry credit-card balances at 20%+, kill those first — the return is nearly triple. And if your mortgage rate is under 4%, investing the extra in a retirement account will usually beat prepaying over long horizons.
+Biweekly (or DIY extra principal) makes sense if you plan to stay in the home long enough for the compounding to matter, you have no higher-interest debt, and your emergency fund is solid. If you carry credit-card balances at 20%+, kill those first - the return is nearly triple. And if your mortgage rate is under 4%, investing the extra in a retirement account will usually beat prepaying over long horizons.
 
 ## Bottom line
 

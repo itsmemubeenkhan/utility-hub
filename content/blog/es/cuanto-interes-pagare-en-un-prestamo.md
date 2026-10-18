@@ -14,9 +14,9 @@ Un préstamo de $20,000 al 10% por 5 años no te cuesta $20,000. Te cuesta **$25
 
 El interés depende de tres cosas:
 
-1. **El monto** — cuánto pides prestado
-2. **La tasa (APR)** — el costo anual del dinero
-3. **El plazo** — cuántos años tardas en pagarlo
+1. **El monto** - cuánto pides prestado
+2. **La tasa (APR)** - el costo anual del dinero
+3. **El plazo** - cuántos años tardas en pagarlo
 
 La fórmula del pago mensual es:
 
@@ -64,7 +64,7 @@ De 6% a 24%, el interés se **cuadruplica**. Por eso comparar ofertas vale miles
 
 ## Interés simple vs compuesto en préstamos
 
-La mayoría de préstamos personales y de auto usan **interés simple sobre el saldo restante**: cada mes pagas interés solo sobre lo que aún debes. Por eso los pagos extra al capital son tan efectivos — reducen la base sobre la que se calcula el interés.
+La mayoría de préstamos personales y de auto usan **interés simple sobre el saldo restante**: cada mes pagas interés solo sobre lo que aún debes. Por eso los pagos extra al capital son tan efectivos - reducen la base sobre la que se calcula el interés.
 
 Las tarjetas de crédito, en cambio, capitalizan el interés (se suma al saldo), lo que las hace mucho más caras. Si debes en tarjeta, mira [cuánto tardarás en pagarla](/es/blog/cuanto-tarda-pagar-tarjeta-de-credito).
 

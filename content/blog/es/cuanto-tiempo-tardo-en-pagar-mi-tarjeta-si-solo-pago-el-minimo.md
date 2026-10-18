@@ -6,7 +6,7 @@ date: "2026-10-16"
 keywords: "cuánto tiempo tardo en pagar mi tarjeta si solo pago el mínimo, pagar solo el minimo tarjeta de credito consecuencias, cuanto tarda pagar tarjeta con pago minimo"
 ---
 
-Pagar solo el **pago mínimo** de tu tarjeta de crédito es la trampa más cara del sistema financiero mexicano. Si debes **$50,000** con un CAT del 40% y solo pagas el mínimo (~$1,800/mes), tardarás **6.7 años** en liquidarla y pagarás **$92,882 solo en intereses** — casi el triple de tu deuda original. Aquí están las matemáticas exactas.
+Pagar solo el **pago mínimo** de tu tarjeta de crédito es la trampa más cara del sistema financiero mexicano. Si debes **$50,000** con un CAT del 40% y solo pagas el mínimo (~$1,800/mes), tardarás **6.7 años** en liquidarla y pagarás **$92,882 solo en intereses** - casi el triple de tu deuda original. Aquí están las matemáticas exactas.
 
 ## El escenario del horror (números reales)
 
@@ -37,7 +37,7 @@ Mira qué pasa si pagas más del mínimo:
 
 | Pago mensual | Tiempo | Intereses totales | Ahorro vs mínimo |
 |---|---|---|---|
-| $1,800 (mínimo) | 6.7 años | $92,882 | — |
+| $1,800 (mínimo) | 6.7 años | $92,882 | - |
 | $3,000 | 2.3 años | $30,415 | $62,467 |
 | $5,000 | 1.1 años | $11,847 | $81,035 |
 
@@ -55,11 +55,11 @@ El problema: la fórmula está diseñada para que el banco **maximice los intere
 ## Tu plan de escape en 4 pasos
 
 1. **Deja de usar la tarjeta** hasta liquidarla. Cada compra nueva reinicia el ciclo.
-2. **Paga todo lo que puedas** por encima del mínimo — cada peso extra ataca directamente el capital.
+2. **Paga todo lo que puedas** por encima del mínimo - cada peso extra ataca directamente el capital.
 3. **Ordena tus deudas** de mayor a menor CAT (método avalancha) si tienes varias tarjetas.
 4. **Considera un préstamo personal** con CAT menor (25–35%) para consolidar: un solo pago, tasa más baja, fecha de fin definida.
 
-Calcula tu propio escenario con nuestra [calculadora de pago mínimo](/es/tools/calculadora-de-pago-minimo-tarjeta): ingresa tu saldo y CAT para ver exactamente cuántos años e intereses te esperan — y cuánto ahorras pagando más.
+Calcula tu propio escenario con nuestra [calculadora de pago mínimo](/es/tools/calculadora-de-pago-minimo-tarjeta): ingresa tu saldo y CAT para ver exactamente cuántos años e intereses te esperan - y cuánto ahorras pagando más.
 
 ## FAQ
 

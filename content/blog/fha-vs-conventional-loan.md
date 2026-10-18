@@ -27,7 +27,7 @@ First-time buyers hear "FHA" and "conventional" thrown around like everyone know
 
 ## The MIP trap most buyers miss
 
-Here is what changes the math: FHA's mortgage insurance premium (MIP) has two parts, an **upfront fee** (1.75% of the loan, usually rolled into the balance) and an **annual premium** (around 0.55% for most borrowers) — and for most FHA loans originated today, **the annual MIP lasts for the entire life of the loan**. You cannot drop it at 20% equity like conventional PMI.
+Here is what changes the math: FHA's mortgage insurance premium (MIP) has two parts, an **upfront fee** (1.75% of the loan, usually rolled into the balance) and an **annual premium** (around 0.55% for most borrowers) - and for most FHA loans originated today, **the annual MIP lasts for the entire life of the loan**. You cannot drop it at 20% equity like conventional PMI.
 
 On a $350,000 loan, that is roughly $160/month in MIP that never goes away unless you refinance into a conventional loan later. Over 10 years, that is over $19,000 in insurance premiums alone.
 
@@ -42,7 +42,7 @@ Conventional PMI, by contrast, **automatically terminates at 78% loan-to-value**
 
 ## The smart first-timer strategy
 
-If your credit is the barrier, consider this path: **buy with FHA now, refinance to conventional later** once your score is 700+ and you have 20% equity. Sitting at 650? See what a [650 credit score means for buying a house](/blog/is-650-credit-score-good-for-buying-a-house) — FHA is often the best loan type at that score. You get the home sooner with FHA's lenient approval, then escape the lifetime MIP with a refinance. Just make sure the numbers work: refinancing costs 2–5% of the loan in closing costs, so run the breakeven.
+If your credit is the barrier, consider this path: **buy with FHA now, refinance to conventional later** once your score is 700+ and you have 20% equity. Sitting at 650? See what a [650 credit score means for buying a house](/blog/is-650-credit-score-good-for-buying-a-house) - FHA is often the best loan type at that score. You get the home sooner with FHA's lenient approval, then escape the lifetime MIP with a refinance. Just make sure the numbers work: refinancing costs 2–5% of the loan in closing costs, so run the breakeven.
 
 ## The bottom line
 

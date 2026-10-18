@@ -6,7 +6,7 @@ date: "2026-10-14"
 keywords: "how much house can i afford 70k california, 70000 salary home california"
 ---
 
-California is the **toughest state** for $70K buyers — high income taxes (9.3% bracket) eat your take-home, and median prices exceed $700K.
+California is the **toughest state** for $70K buyers - high income taxes (9.3% bracket) eat your take-home, and median prices exceed $700K.
 
 ## California reality on $70K
 
@@ -15,12 +15,12 @@ California is the **toughest state** for $70K buyers — high income taxes (9.3%
 - **Front-end limit:** $1,633/month (lenders use gross)
 - **Property tax:** ~0.75% (Prop 13 keeps it low)
 
-That $1,633 buys roughly **$200k–$230k** — far below California medians.
+That $1,633 buys roughly **$200k–$230k** - far below California medians.
 
 ## Where $70K works in California
 
-- **Central Valley** (Fresno, Bakersfield): Median ~$320k — stretch but possible
-- **Inland Empire:** Median ~$450k — very tough
+- **Central Valley** (Fresno, Bakersfield): Median ~$320k - stretch but possible
+- **Inland Empire:** Median ~$450k - very tough
 - **Bay Area / LA / San Diego:** Out of reach on $70K alone
 
 ## Honest advice

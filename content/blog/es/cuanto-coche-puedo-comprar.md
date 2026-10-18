@@ -11,9 +11,9 @@ El vendedor quiere venderte un pago mensual. Tú deberías estar comprando un co
 
 ## La regla
 
-- **20% de enganche** — al menos una quinta parte del precio por adelantado
-- **Préstamo máximo de 4 años** — nunca lo estires a 6, 7 u 8 años para "poder pagar" la mensualidad
-- **10% de tu ingreso bruto** — todos los costos de transporte por debajo de una décima parte de tu sueldo
+- **20% de enganche** - al menos una quinta parte del precio por adelantado
+- **Préstamo máximo de 4 años** - nunca lo estires a 6, 7 u 8 años para "poder pagar" la mensualidad
+- **10% de tu ingreso bruto** - todos los costos de transporte por debajo de una décima parte de tu sueldo
 
 Ese último 10% incluye todo: el pago, el seguro, la gasolina, el mantenimiento. No solo el préstamo.
 
@@ -28,7 +28,7 @@ El 10% de tu ingreso bruto mensual es tu techo total:
 | $80,000 | $667 |
 | $100,000 | $833 |
 
-Con un salario de $70,000, tu techo es **$583/mes** para el pago *más* el seguro *más* la gasolina. Ahora mira lo que pasa con una compra típica: un auto de $35,000 con 20% de enganche ($7,000) deja un préstamo de $28,000. Al 7% a 4 años, solo ese préstamo es **$670/mes** — ya te pasaste del presupuesto antes del seguro y la gasolina. La regla te está diciendo la verdad que la cotización del vendedor esconde: con $70k, ese auto es demasiado auto para ti.
+Con un salario de $70,000, tu techo es **$583/mes** para el pago *más* el seguro *más* la gasolina. Ahora mira lo que pasa con una compra típica: un auto de $35,000 con 20% de enganche ($7,000) deja un préstamo de $28,000. Al 7% a 4 años, solo ese préstamo es **$670/mes** - ya te pasaste del presupuesto antes del seguro y la gasolina. La regla te está diciendo la verdad que la cotización del vendedor esconde: con $70k, ese auto es demasiado auto para ti.
 
 ## Por qué importa el tope de 4 años
 

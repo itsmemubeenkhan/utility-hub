@@ -49,7 +49,7 @@ La hipoteca es solo el titular. Presupuesta ~1% del valor de la vivienda al año
 
 ## ¿Deberías llegar al máximo?
 
-La regla 28/36 es un **techo**, no una meta. Comprar un 10–20% por debajo de tu máximo deja espacio para ahorrar, para reparaciones y para vivir. Ser "pobre por la casa" — técnicamente aprobado pero sin ningún margen — es como un salario decente se convierte en estrés financiero crónico.
+La regla 28/36 es un **techo**, no una meta. Comprar un 10–20% por debajo de tu máximo deja espacio para ahorrar, para reparaciones y para vivir. Ser "pobre por la casa" - técnicamente aprobado pero sin ningún margen - es como un salario decente se convierte en estrés financiero crónico.
 
 Haz tus propios cálculos con nuestra [calculadora de asequibilidad de vivienda](/es/tools/cuanta-casa-puedo-comprar): ingresa tu ingreso, tus deudas, tu tasa y tu pago inicial para obtener tu precio máximo personalizado.
 

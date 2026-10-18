@@ -1,5 +1,5 @@
 'use client';
-/* Character Counter — live counts + per-platform limit meters.
+/* Character Counter - live counts + per-platform limit meters.
    Differentiator: X/Twitter, Instagram bio and meta-description meters. */
 import { useMemo, useState } from 'react';
 import Link from 'next/link';

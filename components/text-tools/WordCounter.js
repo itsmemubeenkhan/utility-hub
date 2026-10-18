@@ -1,5 +1,5 @@
 'use client';
-/* Word Counter — live counts, reading/speaking time, keyword density top-5.
+/* Word Counter - live counts, reading/speaking time, keyword density top-5.
    Differentiator: keyword density table (SEO writers) + dual time estimates. */
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
@@ -25,7 +25,7 @@ const STR = {
       { href: '/tools/character-counter', label: 'Character Counter' },
       { href: '/tools/case-converter', label: 'Case Converter' },
     ],
-    extra: { href: '/tools/salary-paycheck-calculator', label: 'Salary Paycheck Calculator', note: 'Freelancer? See what your words are worth — calculate your take-home pay.' },
+    extra: { href: '/tools/salary-paycheck-calculator', label: 'Salary Paycheck Calculator', note: 'Freelancer? See what your words are worth - calculate your take-home pay.' },
   },
   es: {
     placeholder: 'Pega tu ensayo, artículo o publicación aquí…',

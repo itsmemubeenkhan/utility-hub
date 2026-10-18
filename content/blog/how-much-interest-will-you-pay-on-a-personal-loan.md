@@ -8,15 +8,15 @@ keywords: "how much interest on a personal loan, personal loan total interest, c
 
 Lenders advertise the rate. What they don't put in big letters is the number that actually matters: **how many dollars of interest you'll pay over the life of the loan**.
 
-A $20,000 personal loan at 10% for 5 years doesn't cost $20,000. It costs **$25,449**. That extra $5,449 is the real price of borrowing. Here's how to calculate it before you sign — and how to pay less.
+A $20,000 personal loan at 10% for 5 years doesn't cost $20,000. It costs **$25,449**. That extra $5,449 is the real price of borrowing. Here's how to calculate it before you sign - and how to pay less.
 
 ## What determines your total interest
 
 Three things control it:
 
-1. **Loan amount** — how much you borrow
-2. **APR** — the annual cost of the money
-3. **Term** — how many years you take to repay
+1. **Loan amount** - how much you borrow
+2. **APR** - the annual cost of the money
+3. **Term** - how many years you take to repay
 
 The monthly payment formula is:
 
@@ -64,13 +64,13 @@ From 6% to 24%, total interest **more than quadruples**. That's why comparing of
 
 ## Simple vs compound interest on loans
 
-Most personal and auto loans charge **simple interest on the remaining balance**: each month you pay interest only on what you still owe. That's why extra principal payments are so effective — they shrink the base that interest is calculated on.
+Most personal and auto loans charge **simple interest on the remaining balance**: each month you pay interest only on what you still owe. That's why extra principal payments are so effective - they shrink the base that interest is calculated on.
 
 Credit cards compound interest (it gets added to the balance), which makes them far more expensive. If you carry card debt, see [how long it takes to pay off](/blog/how-long-to-pay-off-credit-card).
 
 ## Should you pay off debt or invest instead?
 
-If your loan charges 9% and your investments might earn 7%, the math favors killing the debt first — it's a guaranteed 9% return. Our full breakdown: [pay off debt or invest](/blog/pay-off-debt-or-invest).
+If your loan charges 9% and your investments might earn 7%, the math favors killing the debt first - it's a guaranteed 9% return. Our full breakdown: [pay off debt or invest](/blog/pay-off-debt-or-invest).
 
 ## FAQ
 

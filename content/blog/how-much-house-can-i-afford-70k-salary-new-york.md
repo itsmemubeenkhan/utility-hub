@@ -6,7 +6,7 @@ date: "2026-10-14"
 keywords: "how much house can i afford 70k new york"
 ---
 
-New York is expensive — but upstate is a different world from NYC.
+New York is expensive - but upstate is a different world from NYC.
 
 ## The number: $220K–$250K
 
@@ -16,10 +16,10 @@ New York is expensive — but upstate is a different world from NYC.
 
 ## Upstate vs Downstate
 
-- **Buffalo/Rochester/Syracuse:** Median $200k-$250k — within reach!
-- **Albany:** Median ~$320k — stretch
-- **NYC metro:** Median $700k+ — out of reach on $70K
-- **Long Island:** Median $600k+ — out of reach
+- **Buffalo/Rochester/Syracuse:** Median $200k-$250k - within reach!
+- **Albany:** Median ~$320k - stretch
+- **NYC metro:** Median $700k+ - out of reach on $70K
+- **Long Island:** Median $600k+ - out of reach
 
 ## Upstate advantage
 

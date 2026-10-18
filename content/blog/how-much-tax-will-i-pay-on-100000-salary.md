@@ -6,7 +6,7 @@ date: "2026-10-16"
 keywords: "how much tax will i pay on 100000 salary, tax on 100k salary, 100000 salary after taxes, 100k salary take home pay 2026"
 ---
 
-If you earn **$100,000 a year**, you will pay roughly **$20,820** in federal income tax plus FICA in 2026 as a single filer — leaving you with **$79,180 take-home**, or about **$6,598 per month**. Here is the exact bracket-by-bracket math.
+If you earn **$100,000 a year**, you will pay roughly **$20,820** in federal income tax plus FICA in 2026 as a single filer - leaving you with **$79,180 take-home**, or about **$6,598 per month**. Here is the exact bracket-by-bracket math.
 
 ## The short answer
 
@@ -43,11 +43,11 @@ Your **marginal rate** is 22% (it stays 22% all the way to $105,700), but your *
 
 ## $80K vs $100K: where does the extra $20K go?
 
-Going from $80,000 to $100,000 costs you about **$5,930 more in tax** ($20,820 − $14,890) — so you keep roughly **$14,070** of the $20,000 raise. That is a 29.6% marginal bite on the extra income (22% federal + 7.65% FICA), which is exactly how a progressive system should work: you always keep most of a raise.
+Going from $80,000 to $100,000 costs you about **$5,930 more in tax** ($20,820 − $14,890) - so you keep roughly **$14,070** of the $20,000 raise. That is a 29.6% marginal bite on the extra income (22% federal + 7.65% FICA), which is exactly how a progressive system should work: you always keep most of a raise.
 
 ## What changes the number
 
-1. **State income tax** — the biggest variable. Zero in Texas/Florida; roughly $6,000+ in California at this income.
+1. **State income tax** - the biggest variable. Zero in Texas/Florida; roughly $6,000+ in California at this income.
 2. **Pre-tax deductions.** A $23,500 401(k) contribution saves about $5,170 in federal tax alone at the 22% marginal rate.
 3. **Filing status.** Married filing jointly doubles the brackets and standard deduction ($32,200).
 4. **1099 income.** Freelancers pay self-employment tax instead of half-FICA. Compare with our [1099 vs W-2 calculator](/tools/1099-vs-w2-calculator). Estimate the exact SE-tax bill with our [self-employment tax calculator](/tools/self-employment-tax-calculator), and if you earn side income on top of your salary, our [side hustle tax calculator](/tools/side-hustle-tax-calculator) estimates the extra tax on that income.
@@ -61,16 +61,16 @@ $79,180 ÷ 26 = **~$3,045 per biweekly paycheck** (before state tax and pre-tax 
 ## FAQ
 
 ### How much tax will I pay on a $100,000 salary in 2026?
-As a single filer taking the standard deduction, about **$20,820** total — $13,170 federal income tax plus $7,650 FICA. Take-home is roughly **$79,180 per year** ($6,598/month) before state taxes.
+As a single filer taking the standard deduction, about **$20,820** total - $13,170 federal income tax plus $7,650 FICA. Take-home is roughly **$79,180 per year** ($6,598/month) before state taxes.
 
 ### What is the take-home pay on $100K salary?
-Approximately **$79,180 per year** after federal tax and FICA — about **$6,598/month** or **$3,045 biweekly**. State tax and deductions change this.
+Approximately **$79,180 per year** after federal tax and FICA - about **$6,598/month** or **$3,045 biweekly**. State tax and deductions change this.
 
 ### What tax bracket is $100,000 salary in?
 **22% marginal** (single filer, 2026), applying only to income above $50,400. Your effective federal rate is about 13.2%.
 
 ### How much is FICA on $100K salary?
-**$7,650** — $6,200 Social Security plus $1,450 Medicare. You are well under the $184,500 Social Security wage base.
+**$7,650** - $6,200 Social Security plus $1,450 Medicare. You are well under the $184,500 Social Security wage base.
 
 ### Should I worry about hitting the next bracket?
 The 24% bracket starts at $105,700 of *taxable* income (about $121,800 in salary after the standard deduction). Even if you cross it, only the dollars above the line are taxed at 24%.

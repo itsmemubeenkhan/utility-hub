@@ -6,7 +6,7 @@ date: "2026-10-01"
 keywords: "how much house can I afford on 150k salary, house affordability 150000 salary, home price on 150k income"
 ---
 
-$150,000 is nearly double the US median household income — you can afford a genuinely nice home in almost any market, with room to spare. Using the lending industry's standard **28/36 rule**, the answer lands around **$520k–$575k** depending on your debts, down payment and rate. Here is the exact math.
+$150,000 is nearly double the US median household income - you can afford a genuinely nice home in almost any market, with room to spare. Using the lending industry's standard **28/36 rule**, the answer lands around **$520k–$575k** depending on your debts, down payment and rate. Here is the exact math.
 
 ## The 28/36 rule, step by step
 
@@ -44,11 +44,11 @@ Realistic ranges on $150K salary:
 
 ## The costs buyers forget
 
-The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($5,800/year on a $575,000 home), plus utilities, and an emergency fund that covers 3–6 months of the *new* higher housing cost, not your old rent. Higher price means higher stakes on the inspection and appraisal — and budget 1% a year for maintenance on a bigger, more complex home.
+The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($5,800/year on a $575,000 home), plus utilities, and an emergency fund that covers 3–6 months of the *new* higher housing cost, not your old rent. Higher price means higher stakes on the inspection and appraisal - and budget 1% a year for maintenance on a bigger, more complex home.
 
 ## Should you max it out?
 
-The 28/36 rule is a **ceiling**, not a target. On $150K, the risk isn't qualifying — it's lifestyle inflation. Buying 10–20% below your max and investing the difference builds wealth far faster than a bigger house does.
+The 28/36 rule is a **ceiling**, not a target. On $150K, the risk isn't qualifying - it's lifestyle inflation. Buying 10–20% below your max and investing the difference builds wealth far faster than a bigger house does.
 
 Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price.
 

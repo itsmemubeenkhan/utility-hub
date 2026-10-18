@@ -24,7 +24,7 @@ Hay un atajo más simple que da casi el mismo resultado: **15 días ÷ 12 meses 
 2. Días proporcionales: 6 meses × 1.25 = **7.5 días**
 3. Aguinaldo: 7.5 × $400 = **$3,000 brutos**
 
-Con la fórmula exacta por días (182 laborados): ($400 × 15 ÷ 365) × 182 = **$2,991.78** — apenas $8 de diferencia con el atajo.
+Con la fórmula exacta por días (182 laborados): ($400 × 15 ÷ 365) × 182 = **$2,991.78** - apenas $8 de diferencia con el atajo.
 
 ## Tabla: cuánto te toca según los meses trabajados
 
@@ -61,7 +61,7 @@ Esto juega a tu favor si trabajaste medio año: tu aguinaldo de **$3,000 está p
 4. **Trabajas por honorarios.** No te toca, salvo que puedas comprobar subordinación (horario, jefe directo, herramientas de la empresa).
 5. **No te lo pueden pagar en especie.** Debe ser en moneda de curso legal o depósito bancario. Y si tienes dos patrones, cada uno paga su parte proporcional.
 
-¿Piensas usar tu aguinaldo para liquidar deudas o pedir un préstamo? Antes de firmar nada, calcula [cuánto pagarías al mes por un préstamo](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-10000) y compara [el CAT real de cada opción](/es/blog/que-es-el-cat-y-como-se-calcula) — la tasa anunciada casi nunca es el costo verdadero.
+¿Piensas usar tu aguinaldo para liquidar deudas o pedir un préstamo? Antes de firmar nada, calcula [cuánto pagarías al mes por un préstamo](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-10000) y compara [el CAT real de cada opción](/es/blog/que-es-el-cat-y-como-se-calcula) - la tasa anunciada casi nunca es el costo verdadero.
 
 ¿Quieres saber cuánto de tu sueldo se queda el SAT cada mes? Nuestra [calculadora de salario](/es/tools/calculadora-de-salario) te muestra tu sueldo neto con las tarifas 2026.
 

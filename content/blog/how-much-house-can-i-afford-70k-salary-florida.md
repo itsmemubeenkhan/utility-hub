@@ -28,16 +28,16 @@ This is the #1 factor for 2026 Florida buyers:
 
 ## Best Florida metros for $70K
 
-- **Jacksonville:** Median ~$300k — possible in suburbs
-- **Tampa:** Median ~$380k — tough on $70K
-- **Orlando:** Median ~$390k — stretch
-- **Miami:** Median ~$550k — out of range
+- **Jacksonville:** Median ~$300k - possible in suburbs
+- **Tampa:** Median ~$380k - tough on $70K
+- **Orlando:** Median ~$390k - stretch
+- **Miami:** Median ~$550k - out of range
 
 ## The math
 
 - Max housing: $1,633/month
 - Property tax (~$200 on $250k)
-- Insurance (~$275 — Florida reality)
+- Insurance (~$275 - Florida reality)
 - PMI if <20% down (~$120)
 - **Available for P&I:** ~$1,038/month
 - **Home price:** ~$246,000

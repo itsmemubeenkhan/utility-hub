@@ -7,7 +7,7 @@ keywords: "refinanciar hipoteca, cuando refinanciar hipoteca, refinanciamiento h
 enSlug: "should-i-refinance-my-mortgage"
 ---
 
-Refinanciar tu hipoteca puede ahorrarte miles de dólares — o costarte dinero si lo haces en el momento equivocado. Aquí te explicamos cuándo tiene sentido.
+Refinanciar tu hipoteca puede ahorrarte miles de dólares - o costarte dinero si lo haces en el momento equivocado. Aquí te explicamos cuándo tiene sentido.
 
 ## ¿Qué es refinanciar?
 

@@ -6,7 +6,7 @@ date: "2026-10-14"
 keywords: "how much house can i afford 60k salary"
 ---
 
-$60,000 is workable for homeownership — especially with FHA loans.
+$60,000 is workable for homeownership - especially with FHA loans.
 
 ## The number: $210K–$235K
 

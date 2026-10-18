@@ -6,7 +6,7 @@ date: "2026-10-15"
 keywords: "what mortgage can i afford with 90k a year, 90k income mortgage, what can i afford with 90k salary, 90k a year how much house can i afford, how much home can i afford on 90k, mortgage on 90k, combined income of 90k mortgage"
 ---
 
-If you earn **$90K a year and want to know what mortgage you can afford**, the answer is roughly **$277,000–$332,000** at current rates — which buys a home in the **$315,000–$350,000** range with a normal down payment. Here is the full math, including what changes if that $90K is two incomes instead of one.
+If you earn **$90K a year and want to know what mortgage you can afford**, the answer is roughly **$277,000–$332,000** at current rates - which buys a home in the **$315,000–$350,000** range with a normal down payment. Here is the full math, including what changes if that $90K is two incomes instead of one.
 
 ## The monthly math
 
@@ -30,9 +30,9 @@ For a **$330,000 home** at 6.5%:
 |---|---|---|---|
 | 3.5% (FHA) | $318,450 | ~$2,012 | Plus mortgage insurance for the life of the loan |
 | 10% down | $297,000 | ~$1,877 | PMI ~$125–$250/mo until 20% equity |
-| 20% down | $264,000 | ~$1,668 | No PMI — cheapest long-term |
+| 20% down | $264,000 | ~$1,668 | No PMI - cheapest long-term |
 
-With 20% down ($66,000), a $330K home costs ~$1,668 P&I + ~$350 taxes/insurance = **~$2,018/month** — just inside the $2,100 budget. That is why **$315K–$350K** is the sweet spot on $90K.
+With 20% down ($66,000), a $330K home costs ~$1,668 P&I + ~$350 taxes/insurance = **~$2,018/month** - just inside the $2,100 budget. That is why **$315K–$350K** is the sweet spot on $90K.
 
 Our price-focused breakdown: [how much house can I afford on $90K salary](/blog/how-much-house-can-i-afford-90k-salary). Run your exact scenario in the [home affordability calculator](/tools/home-affordability-calculator) or fine-tune payments with the [mortgage calculator](/tools/mortgage-calculator).
 
@@ -47,17 +47,17 @@ The back-end cap is $2,700/month total. How debts change your mortgage:
 
 ## Combined income of $90K: two earners
 
-A $90K household income from **two earners** gets the same DTI math — lenders add both gross incomes and both sets of debts. Three things to know:
+A $90K household income from **two earners** gets the same DTI math - lenders add both gross incomes and both sets of debts. Three things to know:
 
 1. **Both credit scores matter.** The lender typically uses the *lower* middle score of the two borrowers for pricing. One weak score can cost you a rate tier.
 2. **Both debts count.** Two car payments hit the back-end ratio twice as hard.
 3. **Job stability counts double.** If one income is new, part-time or variable, the lender may discount it.
 
-A single $90K earner with no debts will usually qualify slightly more cleanly than two $45K earners with two car loans — same income, different debt picture.
+A single $90K earner with no debts will usually qualify slightly more cleanly than two $45K earners with two car loans - same income, different debt picture.
 
 ## Should you borrow the max?
 
-$2,100/month is the ceiling, not the target. On $90K gross (~$5,900/month take-home after federal tax and FICA, before state tax), a maxed-out payment leaves about $3,800 for everything else. Comfortable — but one job loss or major repair changes the picture fast. Buying 10–15% under your max is the sweet spot between building equity and sleeping well.
+$2,100/month is the ceiling, not the target. On $90K gross (~$5,900/month take-home after federal tax and FICA, before state tax), a maxed-out payment leaves about $3,800 for everything else. Comfortable - but one job loss or major repair changes the picture fast. Buying 10–15% under your max is the sweet spot between building equity and sleeping well.
 
 ## FAQ
 
@@ -77,6 +77,6 @@ It is a stretch. A $400K home with 10% down means a $360K loan → ~$2,275/month
 Lenders combine both incomes *and* both debts, and usually price off the lower credit score. The DTI math is identical; the paperwork is just doubled.
 
 ### What is a good down payment on $90K salary?
-20% ($63K–$70K on a $315K–$350K home) avoids PMI entirely and is achievable in 2–3 years of focused saving at this income. 10% works too, with PMI of roughly $125–$250/month until you reach 20% equity — learn how to drop it: [what is PMI and how to avoid it](/blog/what-is-pmi-how-to-avoid).
+20% ($63K–$70K on a $315K–$350K home) avoids PMI entirely and is achievable in 2–3 years of focused saving at this income. 10% works too, with PMI of roughly $125–$250/month until you reach 20% equity - learn how to drop it: [what is PMI and how to avoid it](/blog/what-is-pmi-how-to-avoid).
 
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*

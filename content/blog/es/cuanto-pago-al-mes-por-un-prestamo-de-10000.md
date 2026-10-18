@@ -32,7 +32,7 @@ Mismo monto ($10,000), distintas tasas (APR) y plazos. El pago mensual se calcul
 | 12% | $1,957 | $3,347 | $4,828 |
 | 18% | $3,015 | $5,236 | $7,655 |
 
-El caso más caro de la tabla — 18% a 7 años — convierte $10,000 prestados en **$17,655 pagados**. Casi el 77% extra es puro interés. Por eso el pago mensual bajo es cómodo pero caro: cada año extra de plazo te cobra miles en interés. Si quieres profundizar, lee [cuánto interés pagarás en un préstamo](/es/blog/cuanto-interes-pagare-en-un-prestamo).
+El caso más caro de la tabla - 18% a 7 años - convierte $10,000 prestados en **$17,655 pagados**. Casi el 77% extra es puro interés. Por eso el pago mensual bajo es cómodo pero caro: cada año extra de plazo te cobra miles en interés. Si quieres profundizar, lee [cuánto interés pagarás en un préstamo](/es/blog/cuanto-interes-pagare-en-un-prestamo).
 
 ## Ejemplo real: $10,000 al 9% a 5 años
 
@@ -46,7 +46,7 @@ Los primeros pagos son casi todo interés: en el mes 1, unos $75 de tus $208 van
 
 ## 4 formas de bajar tu pago mensual (con la verdad completa)
 
-**1. Alarga el plazo — pero calcula el costo.** Pasar de 3 a 5 años al 9% baja el pago de $318 a $208. El precio: $1,007 más en interés. Úsalo solo si el pago corto realmente no cabe en tu presupuesto.
+**1. Alarga el plazo - pero calcula el costo.** Pasar de 3 a 5 años al 9% baja el pago de $318 a $208. El precio: $1,007 más en interés. Úsalo solo si el pago corto realmente no cabe en tu presupuesto.
 
 **2. Mejora tu tasa antes de pedir.** La diferencia entre 12% y 9% a 5 años son $14 menos al mes y $892 menos en interés total. Negociar o mejorar tu crédito unas semanas puede valer cientos. Compara ofertas con el [comparador de préstamos](/es/tools/comparador-de-prestamos).
 

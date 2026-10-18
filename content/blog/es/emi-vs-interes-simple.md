@@ -15,7 +15,7 @@ El interés simple es la fórmula directa que aprendiste en la escuela:
 
 > Interés = Capital × Tasa × Tiempo
 
-En un préstamo de $10,000 al 8% por un año, el interés simple es $10,000 × 0.08 × 1 = **$800**. Los prestamistas que usan interés simple normalmente aplican tu pago primero al interés acumulado desde tu último pago, y luego al capital. Pagas antes o pagas extra, y se acumula menos interés — la matemática te premia de inmediato. Muchos préstamos de auto en EE. UU. y algunos préstamos personales funcionan así.
+En un préstamo de $10,000 al 8% por un año, el interés simple es $10,000 × 0.08 × 1 = **$800**. Los prestamistas que usan interés simple normalmente aplican tu pago primero al interés acumulado desde tu último pago, y luego al capital. Pagas antes o pagas extra, y se acumula menos interés - la matemática te premia de inmediato. Muchos préstamos de auto en EE. UU. y algunos préstamos personales funcionan así.
 
 ## EMI: la misma matemática, empaquetada en pagos iguales
 
@@ -25,7 +25,7 @@ EMI, *equated monthly installment* (cuota mensual fija), no es un tipo distinto 
 
 Para $10,000 al 8% a 3 años, el EMI es $313.36/mes. Pagas lo mismo cada mes, pero dentro de cada pago la división cambia: el mes uno es $66.67 de interés + $246.69 de capital; el último pago es $2.07 de interés + $311.29 de capital. Interés total: **$1,281**.
 
-Esa es la idea clave que los prestatarios no ven: **un préstamo EMI carga el interés al principio**. Si cierras o refinancias un préstamo EMI a 5 años después de 2 años, has pagado mucho más interés que capital — los "pagos iguales" se sentían justos, pero la economía no era igual para nada.
+Esa es la idea clave que los prestatarios no ven: **un préstamo EMI carga el interés al principio**. Si cierras o refinancias un préstamo EMI a 5 años después de 2 años, has pagado mucho más interés que capital - los "pagos iguales" se sentían justos, pero la economía no era igual para nada.
 
 ## Comparación lado a lado
 
@@ -38,10 +38,10 @@ Esa es la idea clave que los prestatarios no ven: **un préstamo EMI carga el in
 
 ## Qué significa esto para ti
 
-1. **Presupuesto:** el EMI gana en previsibilidad — el pago nunca cambia, lo que facilita el presupuesto del hogar.
+1. **Presupuesto:** el EMI gana en previsibilidad - el pago nunca cambia, lo que facilita el presupuesto del hogar.
 2. **Flexibilidad:** los préstamos de interés simple premian los pagos extra irregulares con más transparencia, porque el interés se acumula diario sobre el saldo.
 3. **Pago anticipado:** en un préstamo EMI, pagar por adelantado temprano en el plazo ahorra mucho más que hacerlo tarde, porque los pagos tempranos son pesados en interés. Siempre revisa primero si hay penalización por pago anticipado.
-4. **Comparar préstamos:** nunca compares préstamos solo por el EMI. Compara el **interés total** y el APR — dos préstamos con el mismo EMI pueden tener costos totales muy distintos si los plazos difieren.
+4. **Comparar préstamos:** nunca compares préstamos solo por el EMI. Compara el **interés total** y el APR - dos préstamos con el mismo EMI pueden tener costos totales muy distintos si los plazos difieren.
 
 ## En resumen
 

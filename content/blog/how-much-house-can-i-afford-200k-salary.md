@@ -6,7 +6,7 @@ date: "2026-10-01"
 keywords: "how much house can I afford on 200k salary, house affordability 200000 salary, home price on 200k income"
 ---
 
-$200,000 puts you around 2.5x the US median household income — roughly the top 10% of earners. You can afford a premium home in most markets. Using the lending industry's standard **28/36 rule**, the answer lands around **$695k–$765k** depending on your debts, down payment and rate. Here is the exact math.
+$200,000 puts you around 2.5x the US median household income - roughly the top 10% of earners. You can afford a premium home in most markets. Using the lending industry's standard **28/36 rule**, the answer lands around **$695k–$765k** depending on your debts, down payment and rate. Here is the exact math.
 
 ## The 28/36 rule, step by step
 
@@ -44,11 +44,11 @@ Realistic ranges on $200K salary:
 
 ## The costs buyers forget
 
-The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($7,700/year on a $765,000 home), plus utilities, and an emergency fund that covers 3–6 months of the *new* higher housing cost, not your old rent. At this level, get the sewer scope, the radon test, the full inspection — every contingency. A $2,000 inspection bill is nothing next to a $750K purchase.
+The mortgage is only the headline. Budget ~1% of the home's value per year for maintenance ($7,700/year on a $765,000 home), plus utilities, and an emergency fund that covers 3–6 months of the *new* higher housing cost, not your old rent. At this level, get the sewer scope, the radon test, the full inspection - every contingency. A $2,000 inspection bill is nothing next to a $750K purchase.
 
 ## Should you max it out?
 
-The 28/36 rule is a **ceiling**, not a target. On $200K, the danger isn't denial — it's buying so much house that the "affordable" payment quietly eats the surplus that should be building wealth. Buy 10–20% below max and let the difference compound.
+The 28/36 rule is a **ceiling**, not a target. On $200K, the danger isn't denial - it's buying so much house that the "affordable" payment quietly eats the surplus that should be building wealth. Buy 10–20% below max and let the difference compound.
 
 Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price.
 

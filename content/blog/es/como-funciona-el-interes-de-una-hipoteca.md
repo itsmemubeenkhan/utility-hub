@@ -29,7 +29,7 @@ Medio punto de diferencia suena insignificante. En un préstamo de $400,000 a 30
 - Al 6.5%: $2,528/mes, $510,000 en intereses totales
 - Al 7.0%: $2,661/mes, $558,000 en intereses totales
 
-Cada medio punto cuesta unos **$48,000** en intereses de por vida. Por eso comparar tasas —pedir cotizaciones a por lo menos tres prestamistas— es la hora mejor pagada en la compra de una casa.
+Cada medio punto cuesta unos **$48,000** en intereses de por vida. Por eso comparar tasas -pedir cotizaciones a por lo menos tres prestamistas- es la hora mejor pagada en la compra de una casa.
 
 ## Tres palancas que reducen el interés
 

@@ -45,7 +45,7 @@ El mismo auto a 48 meses: $659/mes, total $31,632, interés $4,632. Pagas $150 m
 
 - **20% de enganche** es lo ideal: evitas quedar "underwater" (deber más de lo que vale el auto).
 - **10%** es el mínimo aceptable.
-- **0% enganche** ("cero down"): el auto se deprecia 20% al salir del lote — deberás más de lo que vale desde el día uno.
+- **0% enganche** ("cero down"): el auto se deprecia 20% al salir del lote - deberás más de lo que vale desde el día uno.
 
 ## Tasa de interés: qué es buena en 2026
 

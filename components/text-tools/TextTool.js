@@ -1,7 +1,7 @@
 'use client';
 /* Dispatcher: registry entries with `customComponent` render here instead
    of the generic ToolRunner (text tools need textareas, meters, copy
-   buttons — richer UI than the number-input calculator shell). */
+   buttons - richer UI than the number-input calculator shell). */
 import CharacterCounter from './CharacterCounter';
 import WordCounter from './WordCounter';
 import CaseConverter from './CaseConverter';

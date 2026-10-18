@@ -35,8 +35,8 @@ La hipoteca a 15 años cuesta **$793 más al mes** pero ahorra **$312,283 en int
 
 ## El camino intermedio: préstamo a 30 años, comportamiento de 15
 
-Hay una opción que la mayoría de compradores pasa por alto: toma la hipoteca a 30 años por el pago mínimo más bajo, y luego paga capital extra cada mes voluntariamente como si fuera un préstamo a 15 años. Obtienes casi el mismo ahorro en intereses, pero en una crisis puedes volver al pago mínimo. El truco es la honestidad — la estrategia solo funciona si de verdad haces los pagos extra.
+Hay una opción que la mayoría de compradores pasa por alto: toma la hipoteca a 30 años por el pago mínimo más bajo, y luego paga capital extra cada mes voluntariamente como si fuera un préstamo a 15 años. Obtienes casi el mismo ahorro en intereses, pero en una crisis puedes volver al pago mínimo. El truco es la honestidad - la estrategia solo funciona si de verdad haces los pagos extra.
 
-Corre ambos escenarios con nuestra [calculadora de hipoteca](/es/tools/calculadora-de-hipoteca) y mira qué hacen los pagos extra a tu fecha de liquidación. Si ya tienes un préstamo a 30 años, revisa si te conviene [refinanciar a una hipoteca de 15 años](/es/tools/calculadora-de-refinanciamiento) — y lee primero [cuándo vale la pena refinanciar](/es/blog/deberia-refinanciar-mi-hipoteca).
+Corre ambos escenarios con nuestra [calculadora de hipoteca](/es/tools/calculadora-de-hipoteca) y mira qué hacen los pagos extra a tu fecha de liquidación. Si ya tienes un préstamo a 30 años, revisa si te conviene [refinanciar a una hipoteca de 15 años](/es/tools/calculadora-de-refinanciamiento) - y lee primero [cuándo vale la pena refinanciar](/es/blog/deberia-refinanciar-mi-hipoteca).
 
 *Estimaciones con fines de planificación, no asesoría financiera. Las tasas reales dependen de tu prestamista, tu crédito y las condiciones del mercado.*

@@ -10,9 +10,9 @@ Car dealers want to sell you a monthly payment. You should be buying a total cos
 
 ## The rule
 
-- **20% down** — at least one-fifth of the price upfront
-- **4-year loan max** — never stretch to 6, 7 or 8 years to "afford" the payment
-- **10% of gross income** — total transportation costs under a tenth of your pay
+- **20% down** - at least one-fifth of the price upfront
+- **4-year loan max** - never stretch to 6, 7 or 8 years to "afford" the payment
+- **10% of gross income** - total transportation costs under a tenth of your pay
 
 That last 10% includes everything: payment, insurance, gas, maintenance. Not just the loan.
 
@@ -27,11 +27,11 @@ That last 10% includes everything: payment, insurance, gas, maintenance. Not jus
 | $80,000 | $667 |
 | $100,000 | $833 |
 
-On a $70,000 salary, your ceiling is **$583/month** for the payment *plus* insurance *plus* gas. Now watch what happens with a typical purchase: a $35,000 car with 20% down ($7,000) leaves a $28,000 loan. At 7% over 4 years, that loan alone is **$670/month** — already over budget before insurance and fuel. The rule is telling you the truth the dealer's payment quote hides: on $70k, that car is too much car.
+On a $70,000 salary, your ceiling is **$583/month** for the payment *plus* insurance *plus* gas. Now watch what happens with a typical purchase: a $35,000 car with 20% down ($7,000) leaves a $28,000 loan. At 7% over 4 years, that loan alone is **$670/month** - already over budget before insurance and fuel. The rule is telling you the truth the dealer's payment quote hides: on $70k, that car is too much car.
 
 ## Why the 4-year cap matters
 
-Stretching to 72 or 84 months lowers the payment but keeps you underwater for years — owing more than the car is worth. Cars depreciate ~20% in year one. A 7-year loan on a depreciating asset is how people end up rolling $8,000 of negative equity into the next loan, forever.
+Stretching to 72 or 84 months lowers the payment but keeps you underwater for years - owing more than the car is worth. Cars depreciate ~20% in year one. A 7-year loan on a depreciating asset is how people end up rolling $8,000 of negative equity into the next loan, forever.
 
 ## The costs buyers forget
 

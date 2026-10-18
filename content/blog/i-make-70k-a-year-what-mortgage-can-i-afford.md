@@ -15,7 +15,7 @@ $70,000 ÷ 12 = **$5,833/month** gross. Lenders judge you on two ratios, togethe
 - **Front-end (28%):** housing costs ≤ 28% of gross monthly income → $5,833 × 0.28 = **$1,633/month**
 - **Back-end (36%):** all monthly debts ≤ 36% of gross monthly income → $5,833 × 0.36 = **$2,100/month**
 
-That $1,633 is your total housing budget: principal, interest, property taxes, homeowners insurance, PMI and HOA — everything.
+That $1,633 is your total housing budget: principal, interest, property taxes, homeowners insurance, PMI and HOA - everything.
 
 ## Converting $1,633/month into a mortgage amount
 
@@ -49,7 +49,7 @@ Every $200/month in debt payments erases about **$30,000** of mortgage. Paying o
 
 ## What about a 15-year mortgage?
 
-On $70K, a 15-year loan is usually too tight. At 6.0%, $214,000 over 15 years costs **$1,806/month** in P&I alone — already over your $1,633 housing budget before taxes and insurance. Stick with the 30-year term and make extra principal payments when you can.
+On $70K, a 15-year loan is usually too tight. At 6.0%, $214,000 over 15 years costs **$1,806/month** in P&I alone - already over your $1,633 housing budget before taxes and insurance. Stick with the 30-year term and make extra principal payments when you can.
 
 ## Rate changes move the number a lot
 
@@ -61,30 +61,30 @@ The same $1,633/month buys very different mortgages at different rates (30-year,
 | 6.5% | ~$258,000 |
 | 7.5% | ~$234,000 |
 
-A one-point rate drop is worth roughly **$25,000–$30,000** in borrowing power. If rates fall after you buy, refinancing can recover that — check with our [refinance calculator](/tools/refinance-calculator) whether it pays off.
+A one-point rate drop is worth roughly **$25,000–$30,000** in borrowing power. If rates fall after you buy, refinancing can recover that - check with our [refinance calculator](/tools/refinance-calculator) whether it pays off.
 
-Run your exact numbers with our [home affordability calculator](/tools/home-affordability-calculator) — enter your income, debts, rate and down payment for a personalized max mortgage.
+Run your exact numbers with our [home affordability calculator](/tools/home-affordability-calculator) - enter your income, debts, rate and down payment for a personalized max mortgage.
 
 ## FAQ
 
-### I make $70,000 a year — what mortgage can I afford?
+### I make $70,000 a year - what mortgage can I afford?
 Roughly **$214,000–$258,000** at 6.5% on a 30-year loan, using the 28/36 rule. The $214K figure accounts for property taxes and insurance; $258K is principal and interest only.
 
 ### How much of a mortgage can I afford if I make $70,000 a year with no debt?
 With zero other debts, the front-end ratio is the binding limit: **$1,633/month** for housing, supporting about a **$214,000 mortgage** after taxes and insurance (or $258,000 P&I-only).
 
 ### Can I get a $300K mortgage on a $70K salary?
-Not comfortably. A $300K loan at 6.5% costs $1,896/month in P&I alone — over your $1,633 housing budget before taxes and insurance. You would need a much larger down payment or a lower rate.
+Not comfortably. A $300K loan at 6.5% costs $1,896/month in P&I alone - over your $1,633 housing budget before taxes and insurance. You would need a much larger down payment or a lower rate.
 
 ### Does my credit score change how much mortgage I can afford?
-Yes. A higher score gets you a lower rate, and a lower rate buys more house — roughly $25K–$30K more mortgage per rate point on this budget. See what helps: [good credit score for mortgage](/blog/good-credit-score-for-mortgage).
+Yes. A higher score gets you a lower rate, and a lower rate buys more house - roughly $25K–$30K more mortgage per rate point on this budget. See what helps: [good credit score for mortgage](/blog/good-credit-score-for-mortgage).
 
 ### Should I count my spouse's income?
 If you apply jointly, lenders use combined income, which raises the ratios proportionally. A $70K + $50K household ($120K) roughly doubles the numbers above. Just remember both incomes must be documented and stable.
 
 ### Is the 28/36 rule a law?
-No — it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.
+No - it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.
 
-Wondering what else fits a $70K paycheck? See [what you can afford with a $70K salary](/blog/what-can-you-afford-with-70k-salary) — house, car and the full 50/30/20 budget breakdown.
+Wondering what else fits a $70K paycheck? See [what you can afford with a $70K salary](/blog/what-can-you-afford-with-70k-salary) - house, car and the full 50/30/20 budget breakdown.
 
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
