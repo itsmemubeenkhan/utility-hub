@@ -6,6 +6,29 @@ import { getDict } from '@/lib/i18n';
 import { drawDonut, drawLine, drawStacked } from '@/lib/charts';
 
 function Field({ def, value, onChange }) {
+  if (def.type === 'textarea') {
+    return (
+      <div className="field">
+        <label>{def.label}</label>
+        <textarea
+          value={value || ''}
+          rows={def.rows || 6}
+          placeholder={def.placeholder || ''}
+          onChange={(e) => onChange(e.target.value)}
+          style={{
+            width: '100%',
+            padding: '10px 12px',
+            border: '1px solid var(--line)',
+            borderRadius: 10,
+            fontSize: '0.95rem',
+            fontFamily: 'inherit',
+            resize: 'vertical',
+          }}
+        />
+        {def.hint && <div className="hint">{def.hint}</div>}
+      </div>
+    );
+  }
   if (def.type === 'checkbox') {
     return (
       <div className="field">

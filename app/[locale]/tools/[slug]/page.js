@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getTool, getAllToolSlugs, TOOLS } from '@/lib/tools';
 import { getToolEs, getAllToolSlugsEs, TOOLS_ES } from '@/lib/tools.es';
 import ToolRunner from '@/components/ToolRunner';
+import TextTool from '@/components/text-tools/TextTool';
 import JsonLd from '@/components/JsonLd';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
@@ -117,7 +118,11 @@ export default async function ToolPage({ params }) {
       </div>
 
       <div className="calc-shell">
-        <ToolRunner calcKey={tool.calcKey} inputs={tool.inputs} lang={locale} />
+        {tool.customComponent ? (
+          <TextTool component={tool.customComponent} lang={locale} />
+        ) : (
+          <ToolRunner calcKey={tool.calcKey} inputs={tool.inputs} lang={locale} />
+        )}
       </div>
 
       {tool.videoId && (
