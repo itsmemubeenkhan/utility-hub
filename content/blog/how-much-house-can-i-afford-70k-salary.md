@@ -3,10 +3,10 @@ title: "How Much House Can I Afford on $70K Salary? ($245K-$270K in 2026)"
 slug: "how-much-house-can-i-afford-70k-salary"
 description: "On $70k salary you can afford a $245k-$270k home. See exact 28/36 rule math, what changes the number & hidden costs. Free calculator."
 date: "2026-10-01"
-keywords: "how much house can I afford on 70k salary, house affordability 70000 salary, home price on 70k income"
+keywords: "how much house can I afford on 70k salary, house affordability 70000 salary, home price on 70k income, how much house can i afford making 70000 a year, how much house can i afford making 70k a year, 70k a year how much house can i afford"
 ---
 
-$70,000 sits just below the US median household income and buys solidly in most markets - this is the heart of the first-time buyer range. If you are wondering **how much house can I afford making $70,000 a year**, the lending industry's standard **28/36 rule** puts the answer around **$245k–$270k**, depending on your debts, down payment and rate. Here is the exact math.
+$70,000 sits just below the US median household income and buys solidly in most markets - this is the heart of the first-time buyer range. If you are wondering **how much house can I afford making $70,000 a year**, the lending industry's standard **28/36 rule** puts the answer around **$245k–$270k**, depending on your debts, down payment and rate. Asked plainly - how much house can I afford making 70000 a year - it is the same math: about **$1,633/month** for total housing costs. Here is the exact breakdown.
 
 ## The 28/36 rule, step by step
 
@@ -33,6 +33,19 @@ Realistic ranges on $70K salary:
 | 10% down | ~$245,000 |
 | 20% down | ~$270,000 |
 | Debts over $800/mo | subtract ~$55,000 |
+
+## Paid biweekly? Your per-paycheck housing budget
+
+Most people making 70000 a year get paid every two weeks: $70,000 / 26 = **$2,692.31 per paycheck** (gross). Converting the 28% monthly housing budget to the same rhythm:
+
+| Per paycheck (26/year) | Amount |
+|---|---|
+| Gross pay | $2,692.31 |
+| Housing budget (28%) | $753.85 |
+| Principal + interest share | $624.92 |
+| Taxes + insurance share | ~$129.23 |
+
+Twice a year you get a third paycheck in the same month. If you route those two "bonus" paychecks ($1,507.70 of housing budget you don't need for the mortgage) toward principal, you shave roughly **6 years and ~$67,000 in interest** off a $214,000 loan at 6.5% - the biweekly-payment trick without a special program.
 
 ## Five things that move the number
 
@@ -72,6 +85,12 @@ Yes, in most US markets. $70K is close to the national median household income a
 
 ### How much house can I afford on $70K salary in Texas?
 Texas has no state income tax but property taxes run 1.6–2.2%, which eats into your budget. Realistically **$240K–$260K** with 10–20% down. Full breakdown: [how much house can I afford on $70K salary in Texas](/blog/how-much-house-can-i-afford-70k-salary-texas).
+
+### How much house can I afford making 70000 a year?
+Making 70000 a year, you can afford a home priced around **$245,000-$270,000** at current rates, with about **$1,633/month** available for total housing costs under the 28% rule. With 10% down that lands near $245K; with 20% down (no PMI), near $270K.
+
+### What salary do I need to afford a $300K house?
+Roughly **$85,000/year**. A $300K home with 10% down means a $270K loan: about $1,707/month in principal and interest at 6.5% plus ~$280 in taxes and insurance = ~$1,987/month in housing. Divide by 0.28 and you need about $7,095/month of income, or **~$85K a year** with minimal other debts. With 20% down (a $240K loan), the math drops to about **$77K a year**.
 
 ### How much do I need for a down payment on a $270K house?
 20% is $54,000 (avoids PMI); 10% is $27,000 (PMI adds ~$90–$135/month); FHA 3.5% is $9,450 (PMI for the life of the loan). Use our [home affordability calculator](/tools/home-affordability-calculator) to compare scenarios.
