@@ -7,6 +7,8 @@ import TextTool from '@/components/text-tools/TextTool';
 import QRTool from '@/components/qr-tools/QRTool';
 import PayStubTool from '@/components/paystub/PayStubTool';
 import PasswordTool from '@/components/password/PasswordTool';
+import JsonFormatterTool from '@/components/dev-tools/JsonFormatterTool';
+import UuidTool from '@/components/dev-tools/UuidTool';
 import JsonLd from '@/components/JsonLd';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
@@ -128,6 +130,10 @@ export default async function ToolPage({ params }) {
             <PayStubTool lang={locale} />
           ) : tool.customComponent.startsWith('password-') ? (
             <PasswordTool lang={locale} />
+          ) : tool.customComponent.startsWith('json-') ? (
+            <JsonFormatterTool lang={locale} />
+          ) : tool.customComponent.startsWith('uuid-') ? (
+            <UuidTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
