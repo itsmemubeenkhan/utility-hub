@@ -5,11 +5,13 @@
 import CharacterCounter from './CharacterCounter';
 import WordCounter from './WordCounter';
 import CaseConverter from './CaseConverter';
+import LoremIpsum from './LoremIpsum';
 
 const MAP = {
   'character-counter': CharacterCounter,
   'word-counter': WordCounter,
   'case-converter': CaseConverter,
+  'lorem-ipsum-generator': LoremIpsum,
 };
 
 export default function TextTool({ component, lang = 'en' }) {
