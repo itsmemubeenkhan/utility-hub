@@ -73,7 +73,7 @@ Si tu CAT está muy por encima de estos rangos, estás pagando de más - vale la
 
 ## 3 trampas del CAT que debes conocer
 
-1. **"CAT 0%" no significa gratis.** Algunos comercios anuncian CAT 0% en meses sin intereses - pero si te atrasas un solo pago, pierdes la promoción y te aplican el CAT real (a veces 60%+).
+1. **"CAT 0%" no significa gratis.** Algunos comercios anuncian CAT 0% en [meses sin intereses](/es/blog/conviene-comprar-a-meses-sin-intereses) - pero si te atrasas un solo pago, pierdes la promoción y te aplican el CAT real (a veces 60%+).
 2. **El CAT cambia con el plazo.** El mismo préstamo a 12 meses y a 36 meses tiene CAT diferente. Compara siempre **el mismo plazo**.
 3. **El CAT no incluye todo.** Los intereses moratorios, comisiones por disposición en cajeros o por pagos tardíos no están en el CAT. Lee el contrato completo.
 

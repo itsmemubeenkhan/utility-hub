@@ -61,6 +61,8 @@ El problema: la fórmula está diseñada para que el banco **maximice los intere
 
 Calcula tu propio escenario con nuestra [calculadora de pago mínimo](/es/tools/calculadora-de-pago-minimo-tarjeta): ingresa tu saldo y CAT para ver exactamente cuántos años e intereses te esperan - y cuánto ahorras pagando más.
 
+Y antes de tu próxima compra grande, revisa [si conviene comprar a meses sin intereses](/es/blog/conviene-comprar-a-meses-sin-intereses) o si el descuento de contado te ahorra miles - las matemáticas cambian la decisión.
+
 ## FAQ
 
 ### ¿Cuánto tiempo tardo en pagar mi tarjeta si solo pago el mínimo?
