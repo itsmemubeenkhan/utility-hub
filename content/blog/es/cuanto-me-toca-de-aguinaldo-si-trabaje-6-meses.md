@@ -45,7 +45,7 @@ Con salario diario de **$400** (sueldo de $12,000/mes):
 
 ## ¿Cuándo te lo deben pagar?
 
-El aguinaldo 2026 debe pagarse **antes del 20 de diciembre** (en la práctica, a más tardar el 19 de diciembre). Y ojo: **te toca aunque ya no trabajes ahí**. Si renunciaste o te despidieron en septiembre u octubre, la parte proporcional se incluye en tu finiquito. No es un favor del patrón: es un derecho irrenunciable.
+El aguinaldo 2026 debe pagarse **antes del 20 de diciembre** (en la práctica, a más tardar el 19 de diciembre). Y ojo: **te toca aunque ya no trabajes ahí**. Si renunciaste o te despidieron en septiembre u octubre, la parte proporcional se incluye en tu [finiquito](/es/blog/finiquito-vs-liquidacion-cuanto-me-toca). No es un favor del patrón: es un derecho irrenunciable.
 
 ## ¿Te quitan impuestos del aguinaldo?
 
