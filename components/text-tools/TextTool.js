@@ -6,12 +6,14 @@ import CharacterCounter from './CharacterCounter';
 import WordCounter from './WordCounter';
 import CaseConverter from './CaseConverter';
 import LoremIpsum from './LoremIpsum';
+import StopwatchTimer from './StopwatchTimer';
 
 const MAP = {
   'character-counter': CharacterCounter,
   'word-counter': WordCounter,
   'case-converter': CaseConverter,
   'lorem-ipsum-generator': LoremIpsum,
+  'stopwatch-timer': StopwatchTimer,
 };
 
 export default function TextTool({ component, lang = 'en' }) {
