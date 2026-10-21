@@ -27,6 +27,7 @@ With $7,000 in closing costs, breakeven is $7,000 ÷ $289 ≈ **24 months**. If 
 - **Dropping PMI.** If appreciation pushed you past 20% equity, a refinance (or even just a reappraisal - see [how PMI drops off](/blog/what-is-pmi-how-to-avoid)) can kill a $200+/month PMI charge.
 - **Switching loan types.** Moving from an ARM to a fixed rate before the adjustment period buys certainty. Or refinancing a 30-year into a 15-year - see [30 vs 15-year math](/blog/30-vs-15-year-mortgage).
 - **Your credit improved.** A score jump from 680 to 760 can unlock meaningfully better pricing on the same market rates.
+- **Need cash but love your current rate.** Instead of refinancing a cheap first mortgage, a second lien leaves it untouched - see [home equity loan vs HELOC](/blog/home-equity-loan-vs-heloc-how-much-can-you-borrow) for how much you can borrow at the 80% cap and which product fits.
 
 ## The traps
 
