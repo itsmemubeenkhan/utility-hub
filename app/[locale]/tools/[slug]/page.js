@@ -9,6 +9,7 @@ import PayStubTool from '@/components/paystub/PayStubTool';
 import PasswordTool from '@/components/password/PasswordTool';
 import JsonFormatterTool from '@/components/dev-tools/JsonFormatterTool';
 import UuidTool from '@/components/dev-tools/UuidTool';
+import HexColorTool from '@/components/dev-tools/HexColorTool';
 import JsonLd from '@/components/JsonLd';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
@@ -134,6 +135,8 @@ export default async function ToolPage({ params }) {
             <JsonFormatterTool lang={locale} />
           ) : tool.customComponent.startsWith('uuid-') ? (
             <UuidTool lang={locale} />
+          ) : tool.customComponent.startsWith('hex-') ? (
+            <HexColorTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
