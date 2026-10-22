@@ -17,7 +17,7 @@ El **finiquito** es lo que te deben pagar siempre: renuncies, te despidan con ca
 1. **Salario pendiente.** Los días trabajados que aún no te han pagado, desde el último día de pago hasta tu fecha de salida.
 2. **Aguinaldo proporcional.** (Salario diario × 15 ÷ 365) × días trabajados en el año. Aquí tienes la fórmula explicada con tabla: [cuánto te toca de aguinaldo si trabajaste 6 meses](/es/blog/cuanto-me-toca-de-aguinaldo-si-trabaje-6-meses).
 3. **Vacaciones proporcionales no disfrutadas.** Los días de vacaciones del año en curso que no tomaste, en proporción a los días laborados.
-4. **Prima vacacional.** El 25% sobre el monto de esas vacaciones proporcionales.
+4. **Prima vacacional.** El 25% sobre el monto de esas vacaciones proporcionales. [Calcula aquí cuánto te toca de prima vacacional en 2026](/es/blog/prima-vacacional-cuanto-me-toca-2026).
 5. **Prima de antigüedad.** Solo si tienes **15 años o más** en la empresa: 12 días de salario por cada año trabajado, con el salario topado al doble del salario mínimo diario.
 
 ## Ejemplo real: renuncias con $15,000 al mes y 2 años de antigüedad
