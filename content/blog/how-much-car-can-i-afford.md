@@ -29,6 +29,8 @@ That last 10% includes everything: payment, insurance, gas, maintenance. Not jus
 
 On a $70,000 salary, your ceiling is **$583/month** for the payment *plus* insurance *plus* gas. Now watch what happens with a typical purchase: a $35,000 car with 20% down ($7,000) leaves a $28,000 loan. At 7% over 4 years, that loan alone is **$670/month** - already over budget before insurance and fuel. The rule is telling you the truth the dealer's payment quote hides: on $70k, that car is too much car.
 
+**On $60,000?** Your ceiling drops to $500/month. See the full breakdown - exact payment-to-price table, the 72-month trap math, and FAQ - in our [guide to how much car you can afford on a $60K salary](/blog/how-much-car-can-i-afford-60k-salary).
+
 ## Why the 4-year cap matters
 
 Stretching to 72 or 84 months lowers the payment but keeps you underwater for years - owing more than the car is worth. Cars depreciate ~20% in year one. A 7-year loan on a depreciating asset is how people end up rolling $8,000 of negative equity into the next loan, forever.

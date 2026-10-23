@@ -1,8 +1,8 @@
 ---
-title: "¿Cuánta casa puedo comprar con un salario de $100,000?"
+title: "¿Cuánta Casa Puedo Comprar con $100,000? ($345K–$385K) [2026]"
 slug: "cuanta-casa-puedo-comprar-con-100k-de-salario"
 enSlug: "how-much-house-can-i-afford-100k-salary"
-description: "Con un salario de $100k, la regla 28/36 sugiere una casa de $345k–$385k. Mira el cálculo exacto, qué cambia el número y los costos que los compradores olvidan."
+description: "Con $100k de salario puedes comprar una casa de $345k–$385k en 2026. Mira el cálculo exacto con la regla 28/36, qué cambia el número y los costos ocultos. Calculadora gratis."
 date: "2026-10-01"
 keywords: "cuánta casa puedo comprar con salario de 100k, casa que puedo comprar con 100000 de salario, precio de casa con 100k de ingreso"
 ---
