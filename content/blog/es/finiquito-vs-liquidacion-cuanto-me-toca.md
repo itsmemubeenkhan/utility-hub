@@ -80,7 +80,7 @@ Con el mismo ejemplo ($500 diarios, 2 años):
 
 El finiquito se paga al terminar la relación laboral, normalmente con tu última nómina. Si no te pagan, tienes **1 año para reclamar** ante el Centro de Conciliación Laboral o la PROFEDET (art. 516 LFT). Guarda tus recibos de nómina: son tu prueba de salario y antigüedad.
 
-¿Vas a recibir tu finiquito pronto? Revisa primero [cómo calcular tu salario neto](/es/blog/como-calcular-tu-salario-neto) para saber cuánto llega realmente a tu cuenta después de impuestos, y si planeas usar ese dinero para salir de deudas, el método de [bola de nieve vs avalancha](/es/blog/bola-de-nieve-vs-avalancha-de-deudas) te dice cuál liquidar primero. También puedes proyectar tu sueldo con nuestra [calculadora de salario](/es/tools/calculadora-de-salario).
+¿Vas a recibir tu finiquito pronto? Revisa primero [cómo calcular tu salario neto](/es/blog/como-calcular-tu-salario-neto) para saber cuánto llega realmente a tu cuenta después de impuestos, y si planeas usar ese dinero para salir de deudas, el método de [bola de nieve vs avalancha](/es/blog/bola-de-nieve-vs-avalancha-de-deudas) te dice cuál liquidar primero. También puedes proyectar tu sueldo con nuestra [calculadora de salario](/es/tools/calculadora-de-salario). Y si trabajaste más de 60 días el año pasado, revisa [cuánto te toca de reparto de utilidades](/es/blog/reparto-de-utilidades-cuanto-me-toca-2026): ese derecho no se pierde al salir de la empresa.
 
 ## FAQ
 
