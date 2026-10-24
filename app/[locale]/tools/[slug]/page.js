@@ -11,6 +11,7 @@ import JsonFormatterTool from '@/components/dev-tools/JsonFormatterTool';
 import UuidTool from '@/components/dev-tools/UuidTool';
 import HexColorTool from '@/components/dev-tools/HexColorTool';
 import BarcodeTool from '@/components/dev-tools/BarcodeTool';
+import ImageCompressorTool from '@/components/dev-tools/ImageCompressorTool';
 import JsonLd from '@/components/JsonLd';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
@@ -140,6 +141,8 @@ export default async function ToolPage({ params }) {
             <HexColorTool lang={locale} />
           ) : tool.customComponent.startsWith('barcode-') ? (
             <BarcodeTool lang={locale} />
+          ) : tool.customComponent.startsWith('image-') ? (
+            <ImageCompressorTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
