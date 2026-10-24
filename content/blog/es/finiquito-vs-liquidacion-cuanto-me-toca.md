@@ -24,7 +24,7 @@ El **finiquito** es lo que te deben pagar siempre: renuncies, te despidan con ca
 
 Supongamos que ganas $15,000 mensuales, tienes 2 años en la empresa, no tomaste las vacaciones de 2026 y renuncias el 15 de octubre de 2026. Días laborados en el año: 288.
 
-1. **Salario diario:** $15,000 ÷ 30 = **$500**
+1. **Salario diario:** $15,000 ÷ 30 = **$500** (el mismo divisor se usa para calcular [cuánto te pagan por hora extra](/es/blog/horas-extras-cuanto-me-pagan-2026))
 2. **Salario pendiente** (1 al 15 de octubre): 15 × $500 = **$7,500**
 3. **Aguinaldo proporcional:** ($500 × 15 ÷ 365) × 288 = **$5,917.81**
 4. **Vacaciones proporcionales:** con 2 años te corresponden 14 días al año, así que 14 × 288 ÷ 365 = 11.05 días × $500 = **$5,523.29**
