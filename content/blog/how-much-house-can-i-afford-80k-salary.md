@@ -51,7 +51,7 @@ The mortgage is only the headline. Budget ~1% of the home's value per year for m
 
 The 28/36 rule is a **ceiling**, not a target. At $80K, the smart zone is $250K–$280K - comfortably below max, leaving room for savings and life. Stretching to $310K is possible but leaves thin margins; one job loss or major repair without an emergency fund turns stressful fast.
 
-Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price. Also check the [mortgage calculator](/tools/mortgage-calculator) and [salary paycheck calculator](/tools/salary-paycheck-calculator).
+Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price. Also check the [mortgage calculator](/tools/mortgage-calculator) and [salary paycheck calculator](/tools/salary-paycheck-calculator). For the loan-side breakdown of the same salary, see [what mortgage you can afford on an $80K salary](/blog/what-mortgage-can-i-afford-80k-salary).
 
 ## State-by-state: Texas, Florida, California
 
