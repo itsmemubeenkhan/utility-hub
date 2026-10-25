@@ -57,7 +57,7 @@ El problema: la fórmula está diseñada para que el banco **maximice los intere
 1. **Deja de usar la tarjeta** hasta liquidarla. Cada compra nueva reinicia el ciclo.
 2. **Paga todo lo que puedas** por encima del mínimo - cada peso extra ataca directamente el capital.
 3. **Ordena tus deudas** de mayor a menor CAT (método avalancha) si tienes varias tarjetas.
-4. **Considera un préstamo personal** con CAT menor (25–35%) para consolidar: un solo pago, tasa más baja, fecha de fin definida.
+4. **Considera un préstamo personal** con CAT menor (25–35%) para consolidar: un solo pago, tasa más baja, fecha de fin definida. Aquí comparamos con números [si conviene pagar la tarjeta con un préstamo personal](/es/blog/conviene-pagar-tarjeta-con-prestamo-personal): con $50,000 de deuda, el ahorro puede pasar los $39,000.
 
 Calcula tu propio escenario con nuestra [calculadora de pago mínimo](/es/tools/calculadora-de-pago-minimo-tarjeta): ingresa tu saldo y CAT para ver exactamente cuántos años e intereses te esperan - y cuánto ahorras pagando más.
 
