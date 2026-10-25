@@ -69,6 +69,8 @@ Run your own numbers with our [home affordability calculator](/tools/home-afford
 
 **More in this series:** [$50K](/blog/how-much-house-can-i-afford-50k-salary) · [$60K](/blog/how-much-house-can-i-afford-60k-salary) · [$80K](/blog/how-much-house-can-i-afford-80k-salary) · [$90K](/blog/how-much-house-can-i-afford-90k-salary) · [$100K](/blog/how-much-house-can-i-afford-100k-salary) · [$120K](/blog/how-much-house-can-i-afford-120k-salary) · [$150K](/blog/how-much-house-can-i-afford-150k-salary) · [$200K](/blog/how-much-house-can-i-afford-200k-salary)
 
+**Beyond the house:** for the full $70K picture - car, rent and the whole monthly budget - see [what you can afford with a $70K salary](/blog/what-can-you-afford-with-70k-salary).
+
 ## FAQ
 
 ### How much house can I afford making $70,000 a year?
