@@ -56,7 +56,9 @@ Tercero, y el más importante: **si vas a seguir usando la tarjeta después de l
 4. **Confirma que el préstamo se use para liquidar la tarjeta completa**, no solo una parte.
 5. **Guarda la tarjeta** hasta terminar el préstamo. Una tarjeta en ceros con la misma línea de crédito es una tentación cara.
 
-Y un último aviso: si hoy solo puedes pagar el mínimo de tu tarjeta, revisa primero [cuánto tardarías en pagarla solo con el mínimo](/es/blog/cuanto-tiempo-tardo-en-pagar-mi-tarjeta-si-solo-pago-el-minimo). En muchos casos, el préstamo personal es precisamente la salida de esa trampa, porque cambia una tasa mensual del 5% por una del 2% y convierte un pago que no baja el saldo en una fecha real de liquidación.## FAQ
+Y un último aviso: si hoy solo puedes pagar el mínimo de tu tarjeta, revisa primero [cuánto tardarías en pagarla solo con el mínimo](/es/blog/cuanto-tiempo-tardo-en-pagar-mi-tarjeta-si-solo-pago-el-minimo). En muchos casos, el préstamo personal es precisamente la salida de esa trampa, porque cambia una tasa mensual del 5% por una del 2% y convierte un pago que no baja el saldo en una fecha real de liquidación.
+
+## FAQ
 
 ### ¿Conviene pagar la tarjeta de crédito con un préstamo personal?
 Sí, casi siempre, cuando la tasa del préstamo es claramente menor que la de la tarjeta. En el ejemplo de $50,000, pasar de una tarjeta al 5% mensual a un préstamo al 24% anual ahorra $39,566.80 en total y baja la mensualidad de $3,000 a $1,961.64.
