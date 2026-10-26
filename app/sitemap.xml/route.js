@@ -2,6 +2,7 @@ import { absUrl } from '@/lib/seo';
 import { getAllToolSlugs } from '@/lib/tools';
 import { getAllToolSlugsEs } from '@/lib/tools.es';
 import { getAllPosts } from '@/lib/blog';
+import { SALARY_AMOUNTS, salarySlug } from '@/lib/salary-pages';
 
 export const dynamic = 'force-dynamic';
 
@@ -35,6 +36,9 @@ export async function GET() {
       changefreq: 'monthly',
       lastmod: p.date || undefined,
     })
+  );
+  SALARY_AMOUNTS.forEach((a) =>
+    urls.push({ loc: absUrl('/salary/' + salarySlug(a)), priority: '0.7', changefreq: 'monthly' })
   );
   getAllPosts('es').forEach((p) =>
     urls.push({
