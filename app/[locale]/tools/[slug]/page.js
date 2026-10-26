@@ -13,6 +13,7 @@ import HexColorTool from '@/components/dev-tools/HexColorTool';
 import BarcodeTool from '@/components/dev-tools/BarcodeTool';
 import ImageCompressorTool from '@/components/dev-tools/ImageCompressorTool';
 import Base64Tool from '@/components/dev-tools/Base64Tool';
+import UrlTool from '@/components/dev-tools/UrlTool';
 import JsonLd from '@/components/JsonLd';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
@@ -146,6 +147,8 @@ export default async function ToolPage({ params }) {
             <ImageCompressorTool lang={locale} />
           ) : tool.customComponent.startsWith('base64-') ? (
             <Base64Tool lang={locale} />
+          ) : tool.customComponent.startsWith('url-') ? (
+            <UrlTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
