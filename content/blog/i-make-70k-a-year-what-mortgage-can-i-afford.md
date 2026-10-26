@@ -3,7 +3,7 @@ title: "I Make $70K a Year, What Mortgage Can I Afford? (2026 Numbers)"
 slug: "i-make-70k-a-year-what-mortgage-can-i-afford"
 description: "Making $70,000 a year? You can afford a mortgage of roughly $214K–$258K. See the exact monthly payment math, with and without debts. Free calculator."
 date: "2026-10-15"
-keywords: "i make 70k a year what mortgage can i afford, i make 70000 a year how much house can i afford, 70k income mortgage, how much of a mortgage can i afford if i make $70,000 a year"
+keywords: "i make 70k a year what mortgage can i afford, i make 70000 a year how much house can i afford, 70k income mortgage, how much of a mortgage can i afford if i make $70,000 a year, how much mortgage can i afford on 70k salary"
 ---
 
 If **you make $70K a year and wonder what mortgage you can afford**, here is the straight answer: lenders will approve you for a mortgage loan of roughly **$214,000–$258,000** at current rates, which buys a home in the **$245,000–$270,000** range depending on your down payment. Below is the exact math so you can adjust it for your situation.
@@ -51,6 +51,16 @@ Every $200/month in debt payments erases about **$30,000** of mortgage. Paying o
 
 On $70K, a 15-year loan is usually too tight. At 6.0%, $214,000 over 15 years costs **$1,806/month** in P&I alone - already over your $1,633 housing budget before taxes and insurance. Stick with the 30-year term and make extra principal payments when you can.
 
+## Paid biweekly? Your per-paycheck housing budget
+
+If you are paid every two weeks, your $70K salary breaks down differently, and it helps to think in paychecks instead of months:
+
+- **Gross per paycheck:** $70,000 ÷ 26 = **$2,692.31**
+- **Housing budget per paycheck:** $1,633 × 12 ÷ 26 = **$753.85**
+- **P&I per paycheck on a $214,000 loan at 6.5%:** about **$624** (the rest of the $753.85 covers taxes and insurance)
+
+Twice a year you get a third paycheck in the same month. If you route those two extra paychecks' housing share toward principal, you pay the loan off years early without feeling a monthly pinch - the biweekly-payment trick, without a special program.
+
 ## Rate changes move the number a lot
 
 The same $1,633/month buys very different mortgages at different rates (30-year, P&I only):
@@ -81,6 +91,12 @@ Yes. A higher score gets you a lower rate, and a lower rate buys more house - ro
 
 ### Should I count my spouse's income?
 If you apply jointly, lenders use combined income, which raises the ratios proportionally. A $70K + $50K household ($120K) roughly doubles the numbers above. Just remember both incomes must be documented and stable.
+
+### What salary do I need to afford a $300K mortgage?
+About **$94,000 a year**. A $300,000 loan at 6.5% costs $1,896/month in principal and interest, plus roughly $300 in taxes and insurance = $2,196/month in housing. At the 28% front-end rule, that needs $7,843/month gross, or about $94,000 a year.
+
+### I get paid biweekly - how much mortgage can I afford per paycheck?
+On $70K, your housing budget is **$753.85 per paycheck** ($2,692.31 gross per paycheck, 28% rule). A $214,000 loan at 6.5% takes about $624 of that in principal and interest, leaving room for taxes and insurance.
 
 ### Is the 28/36 rule a law?
 No - it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.

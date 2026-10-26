@@ -80,7 +80,7 @@ On a $70,000 salary with typical debts and 10–20% down, you can afford a home 
 It is a stretch but possible. You would need a large down payment (25%+), minimal other debts, or a below-market rate. With 10% down at 6.5%, a $300K home costs about $1,950/month in PITI - over the 28% guideline for $70K income.
 
 ### What mortgage payment can I afford on $70K salary?
-About **$1,633/month** for all housing costs (mortgage, taxes, insurance, HOA) under the 28% front-end rule, assuming your total debts stay under 36% of income ($2,100/month).
+About **$1,633/month** for all housing costs (mortgage, taxes, insurance, HOA) under the 28% front-end rule, assuming your total debts stay under 36% of income ($2,100/month). For the loan-size side of the same math, see [I make $70K a year, what mortgage can I afford](/blog/i-make-70k-a-year-what-mortgage-can-i-afford).
 
 ### Is $70K a good salary to buy a house in 2026?
 Yes, in most US markets. $70K is close to the national median household income and buys a solid starter home in the South and Midwest. In high-cost coastal metros (San Francisco, New York City, Los Angeles), it usually means a condo, a longer commute, or waiting until income grows.
