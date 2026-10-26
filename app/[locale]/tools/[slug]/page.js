@@ -15,6 +15,8 @@ import ImageCompressorTool from '@/components/dev-tools/ImageCompressorTool';
 import Base64Tool from '@/components/dev-tools/Base64Tool';
 import UrlTool from '@/components/dev-tools/UrlTool';
 import JsonLd from '@/components/JsonLd';
+import EmbedSnippet from '@/components/EmbedSnippet';
+import { TIP_CALCULATOR_EMBED } from '@/lib/embed-snippets';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
 import { absUrl, AUTHOR_NAME, AUTHOR_URL } from '@/lib/seo';
@@ -156,6 +158,18 @@ export default async function ToolPage({ params }) {
           <ToolRunner calcKey={tool.calcKey} inputs={tool.inputs} lang={locale} />
         )}
       </div>
+
+      {tool.slug === 'tip-calculator' && (
+        <div className="card" style={{ marginTop: 28 }}>
+          <h2 style={{ marginTop: 0, fontSize: '1.3rem' }}>Embed this calculator</h2>
+          <p style={{ color: '#334155', marginTop: 0 }}>
+            Run a food, travel or personal finance site? Put this tip calculator on your own
+            page, free. Paste the code below into your post or sidebar and the calculator
+            works right there. The small credit line under it is all we ask in return.
+          </p>
+          <EmbedSnippet snippet={TIP_CALCULATOR_EMBED} />
+        </div>
+      )}
 
       {tool.videoId && (
         <div className="video-embed" style={{ marginTop: 36 }}>

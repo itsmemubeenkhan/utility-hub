@@ -141,6 +141,17 @@ main { min-height: 60vh; }
 .note-box { background: #fffbeb; border: 1px solid #fde68a; color: #92400e; border-radius: 10px; padding: 12px 16px; margin: 16px 0; font-size: 0.9rem; }
 .disclaimer { margin-top: 32px; padding: 14px 18px; background: #f1f5f9; border-radius: 10px; font-size: 0.85rem; color: var(--muted); }
 
+/* Embeddable calculator widget (/embed/*): single column, compact results
+   and chart so the whole tool fits a 380-480px iframe without scrolling. */
+.embed-wrap { max-width: 480px; margin: 0 auto; padding: 20px 16px 12px; }
+.embed-head h1 { font-size: 1.35rem; margin: 0 0 4px; color: var(--navy); letter-spacing: -0.01em; }
+.embed-head p { margin: 0 0 16px; color: var(--muted); font-size: 0.92rem; }
+.embed-wrap .calc-layout { grid-template-columns: 1fr; gap: 18px; }
+.embed-wrap .results { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+.embed-wrap .chart-wrap canvas { height: 220px; }
+.embed-foot { margin: 14px 0 4px; padding-top: 12px; border-top: 1px solid var(--line); font-size: 0.82rem; color: var(--muted); text-align: center; }
+.embed-foot a { font-weight: 700; }
+
 /* FAQ */
 .faq { margin-top: 32px; }
 .faq details { border: 1px solid var(--line); border-radius: 10px; margin-bottom: 10px; background: #fff; }
