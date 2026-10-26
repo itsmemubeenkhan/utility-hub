@@ -3,7 +3,7 @@ title: "Free Paycheck Stub Generator: How to Make an Accurate Pay Stub (2026)"
 slug: "free-paycheck-stub-generator"
 description: "Use a free paycheck stub generator the right way: a $2,000 biweekly gross becomes $1,597 net, what every stub must show, and why a fake stub is fraud. Free tool, no signup."
 date: "2026-10-26"
-keywords: "paycheck stub generator, free paystub generator, paystub generator, paystub creator, check stub generator, free paycheck creator, how to make a pay stub"
+keywords: "paycheck stub generator, free paystub generator, paystub generator, paystub creator, check stub generator, free paycheck creator, payroll stub generator, payroll check generator, free paystub creator, how to make a pay stub"
 ---
 
 If you need proof of income for a rental application, a loan, or your own records, a **paycheck stub generator** builds that document from your pay details in minutes. A free paystub generator is legitimate when it records pay you actually earned. It becomes fraud the moment it invents pay you did not earn, and lenders and landlords check. Here is how to make a pay stub that is accurate, what every stub must show, and the exact math behind one.
