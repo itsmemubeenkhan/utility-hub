@@ -129,6 +129,13 @@ export default async function ToolPage({ params }) {
         </p>
       </div>
 
+      {tool.snippet && (
+        <div className="card" style={{ marginBottom: 28 }}>
+          <h2 style={{ marginTop: 0, fontSize: '1.3rem' }}>{tool.snippet.q}</h2>
+          <p style={{ color: '#334155', margin: 0 }}>{tool.snippet.a}</p>
+        </div>
+      )}
+
       <div className="calc-shell">
         {tool.customComponent ? (
           tool.customComponent.startsWith('qr-') ? (
