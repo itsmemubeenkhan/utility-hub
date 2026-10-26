@@ -16,7 +16,7 @@ import Base64Tool from '@/components/dev-tools/Base64Tool';
 import UrlTool from '@/components/dev-tools/UrlTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
-import { TIP_CALCULATOR_EMBED } from '@/lib/embed-snippets';
+import { EMBEDS } from '@/lib/embed-snippets';
 import { getDict } from '@/lib/i18n';
 import { TOOL_SLUG_ES } from '@/lib/slug-map';
 import { absUrl, AUTHOR_NAME, AUTHOR_URL } from '@/lib/seo';
@@ -166,15 +166,15 @@ export default async function ToolPage({ params }) {
         )}
       </div>
 
-      {tool.slug === 'tip-calculator' && (
+      {EMBEDS[tool.slug] && (
         <div className="card" style={{ marginTop: 28 }}>
-          <h2 style={{ marginTop: 0, fontSize: '1.3rem' }}>Embed this calculator</h2>
-          <p style={{ color: '#334155', marginTop: 0 }}>
-            Run a food, travel or personal finance site? Put this tip calculator on your own
-            page, free. Paste the code below into your post or sidebar and the calculator
-            works right there. The small credit line under it is all we ask in return.
-          </p>
-          <EmbedSnippet snippet={TIP_CALCULATOR_EMBED} />
+          <h2 style={{ marginTop: 0, fontSize: '1.3rem' }}>{EMBEDS[tool.slug].heading}</h2>
+          <p style={{ color: '#334155', marginTop: 0 }}>{EMBEDS[tool.slug].blurb}</p>
+          <EmbedSnippet
+            snippet={EMBEDS[tool.slug].snippet}
+            copyLabel={EMBEDS[tool.slug].copyLabel}
+            copiedLabel={EMBEDS[tool.slug].copiedLabel}
+          />
         </div>
       )}
 

@@ -3,7 +3,7 @@
    bloggers can lift the widget (and its attribution link) in one click. */
 import { useState } from 'react';
 
-export default function EmbedSnippet({ snippet }) {
+export default function EmbedSnippet({ snippet, copyLabel = 'Copy embed code', copiedLabel = 'Copied!' }) {
   const [copied, setCopied] = useState(false);
 
   async function copy() {
@@ -51,7 +51,7 @@ export default function EmbedSnippet({ snippet }) {
           cursor: 'pointer',
         }}
       >
-        {copied ? 'Copied!' : 'Copy embed code'}
+        {copied ? copiedLabel : copyLabel}
       </button>
     </div>
   );
