@@ -86,17 +86,47 @@ export default async function ToolPage({ params }) {
     })),
   };
 
+  /* schema.org applicationCategory that fits each tool group. Finance tools
+     keep FinanceApplication; everything else is a general web utility. */
+  const FINANCE_CATEGORIES = new Set([
+    'Taxes', 'Loans', 'Home Loans', 'Investing', 'Saving', 'Retirement',
+    'Debt', 'Planning', 'Impuestos', 'Préstamos', 'Hipotecas', 'Inversión',
+    'Ahorro', 'Jubilación', 'Deudas', 'Planificación', 'Salario', 'Tarjetas',
+  ]);
   const softwareJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
     name: tool.name,
-    applicationCategory: 'FinanceApplication',
+    description: tool.metaDescription,
+    applicationCategory: FINANCE_CATEGORIES.has(tool.category)
+      ? 'FinanceApplication'
+      : 'UtilitiesApplication',
     operatingSystem: 'Web',
     ...(isEs ? { inLanguage: 'es' } : {}),
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
     author: { '@type': 'Person', name: AUTHOR_NAME, url: AUTHOR_URL },
     dateModified: tool.lastReviewed,
     url: absUrl(prefix + '/tools/' + tool.slug),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t.article.home, item: absUrl(prefix || '/') },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: isEs ? 'Herramientas' : 'Tools',
+        item: absUrl(prefix + '/tools'),
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: tool.name,
+        item: absUrl(prefix + '/tools/' + tool.slug),
+      },
+    ],
   };
 
   const videoJsonLd = tool.videoId
@@ -116,6 +146,7 @@ export default async function ToolPage({ params }) {
     <div className="container">
       <JsonLd data={faqJsonLd} />
       <JsonLd data={softwareJsonLd} />
+      <JsonLd data={breadcrumbJsonLd} />
       {videoJsonLd && <JsonLd data={videoJsonLd} />}
       <nav className="crumbs" aria-label="Breadcrumb">
         <Link href={prefix || '/'}>{t.article.home}</Link> › <span>{tool.name}</span>

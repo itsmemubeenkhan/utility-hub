@@ -3,7 +3,9 @@ import SiteHeader from '@/components/SiteHeader';
 import SiteFooter from '@/components/SiteFooter';
 import AdBlockNotice from '@/components/AdBlockNotice';
 import JsonLd from '@/components/JsonLd';
-import { defaultMetadata, websiteJsonLd, absUrl, SITE_NAME } from '@/lib/seo';
+import { defaultMetadata, websiteJsonLd, absUrl, SITE_NAME, VIEWPORT } from '@/lib/seo';
+
+export const viewport = VIEWPORT;
 
 export const LOCALES = ['en', 'es'];
 
@@ -22,7 +24,6 @@ export async function generateMetadata({ params }) {
       },
       description:
         'Calculadoras, herramientas gratis y guías de dinero en español. Hipotecas, préstamos, impuestos, salario, códigos QR y más, explicados en lenguaje sencillo.',
-      themeColor: '#1e3a8a',
     };
   }
   return defaultMetadata();
