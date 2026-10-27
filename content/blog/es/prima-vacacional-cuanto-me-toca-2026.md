@@ -26,7 +26,7 @@ O en una sola línea: **prima vacacional = salario diario × días de vacaciones
 
 ## Ejemplo real: $15,000 al mes, 2 años de antigüedad
 
-Con 2 años en la empresa te corresponden **14 días** de vacaciones (reforma de 2023 al art. 76 LFT).
+Con 2 años en la empresa te corresponden **14 días** de vacaciones (reforma de 2023 al art. 76 LFT). Si no tienes claro cuántos días te tocan según tu antigüedad, aquí está la [tabla completa de días de vacaciones 2026](/es/blog/cuantos-dias-de-vacaciones-me-tocan-2026).
 
 1. Salario diario: $15,000 ÷ 30 = **$500**
 2. Salario de vacaciones: $500 × 14 = **$7,000**
