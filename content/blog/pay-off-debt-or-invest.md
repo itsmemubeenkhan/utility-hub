@@ -13,7 +13,7 @@ This is one of the most argued questions in personal finance, and most of the ar
 It comes down to one comparison: **your debt's interest rate versus your expected investment return.**
 
 - **Debt above ~7–8%? Pay it off first.** Credit cards at 20%+ are an emergency, not a debate. No investment reliably beats a guaranteed 22% return, which is exactly what paying off a 22% card gives you.
-- **Debt below ~4–5%? Invest first.** A mortgage at 6% or a student loan at 4% costs less than the stock market's long-run average return (roughly 7–10% before inflation, 7% after, depending on the period you measure). Investing the extra dollars usually wins mathematically.
+- **Debt below ~4–5%? Invest first.** A mortgage at 6% or a [student loan at 4%](/blog/how-to-calculate-student-loan-payments) costs less than the stock market's long-run average return (roughly 7–10% before inflation, 7% after, depending on the period you measure). Investing the extra dollars usually wins mathematically.
 - **Debt at 5–7%? The gray zone.** The math is close enough that either choice is defensible. This is where the human factors below decide.
 
 The key word is *expected*. Investment returns are uncertain; debt payoff returns are guaranteed. A guaranteed 6% (paying off a 6% loan) beats an *expected* 8% with real risk of being 2% for a stretch of years. Adjust the framework for your risk tolerance: conservative people should use a lower threshold, maybe 5–6%, before investing wins.

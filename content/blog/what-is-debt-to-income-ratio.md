@@ -14,7 +14,7 @@ DTI is your **total monthly debt payments divided by your gross monthly income**
 
 > DTI = (Monthly debt payments ÷ Gross monthly income) × 100
 
-Monthly debts include: mortgage or rent, car loans, student loans, minimum credit card payments, child support, and any other required monthly obligations. It does **not** include utilities, groceries, insurance premiums, or taxes, only debt payments.
+Monthly debts include: mortgage or rent, car loans, [student loans](/blog/how-to-calculate-student-loan-payments), minimum credit card payments, child support, and any other required monthly obligations. It does **not** include utilities, groceries, insurance premiums, or taxes, only debt payments.
 
 Example: $2,800 in monthly debts ÷ $8,000 gross monthly income = **35% DTI**.
 

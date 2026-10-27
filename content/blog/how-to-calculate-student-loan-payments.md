@@ -3,7 +3,7 @@ title: "How to Calculate Student Loan Payments: Exact Formula + $30K Example (20
 slug: "how-to-calculate-student-loan-payments"
 description: "Calculate any student loan payment in 60 seconds: the exact amortization formula, a worked $30,000 example ($345/mo at 6.8%), term comparisons, and how extra payments cut years off. Free calculator."
 date: "2026-10-18"
-keywords: "how to calculate student loan payments, student loan payment formula, how much is a $30,000 student loan payment, student loan monthly payment calculator"
+keywords: "how to calculate student loan payments, student loan payment formula, how much is a $30,000 student loan payment, student loan monthly payment calculator, how to calculate student loan payments with multiple loans"
 ---
 
 **How do you calculate student loan payments?** Use the amortization formula: M = P × r(1+r)ⁿ / ((1+r)ⁿ − 1), where P is your loan balance, r is the monthly interest rate, and n is the total number of monthly payments. For a **$30,000 loan at 6.8% on the standard 10-year plan**, that works out to **$345/month** and $11,429 in total interest. Below is the exact math, step by step, plus what happens when the rate, balance or term changes.
@@ -59,7 +59,13 @@ Stretching to 20 years cuts the payment by $116/month but **more than doubles th
 
 Add $100/month to the $30,000 / 6.8% / 10-year loan and the math changes fast: the loan clears in **85 months (7.1 years)** instead of 120, total paid drops to $37,898, and you **save $3,531 in interest**. Extra payments attack principal directly, which shrinks every future interest charge. Even $50/month extra makes a visible dent. Test your own number in the [student loan calculator](/tools/student-loan-calculator) - the payoff-date shift is the most motivating number on the page.
 
-## Four things that change your payment
+## Multiple loans? Add the payments, do not average the rates
+
+Most borrowers hold several loans at different rates, and the correct total is the **sum of each loan's own payment**, not one payment at a blended rate. Example: a $20,000 loan at 5% costs $212.13/month on the 10-year plan, and a $15,000 loan at 7% costs $174.16/month, so the real total is **$386.29/month**. A single $35,000 loan at their weighted-average rate (5.857%) would give $386.07/month - only 22 cents off here, but the gap grows with bigger rate spreads, and only the per-loan sum is exact. Run each loan through the formula above, then add.
+
+## Is your payment affordable? The 8% rule of thumb
+
+A common affordability check: keep total student loan payments at or below **8% of gross monthly income**. The $345/month payment in this post needs $4,312.50/month gross, or about **$51,750 a year**, to sit exactly at 8%. On a $50,000 salary ($4,166.67/month gross), that same $345 is 8.3% - just over the line, but manageable if other debts are low. Above 10–12%, look at income-driven plans or extra-payment strategies before the payment starts crowding out rent and savings.
 
 1. **Balance.** Capitalized interest raises P before repayment even starts - the main reason unsubsidized federal loans cost more than their sticker amount.
 2. **Rate.** Refinancing to a lower rate is the only way to cut the payment without extending the term or losing federal protections.
@@ -84,6 +90,12 @@ Yes, but interest accrues **daily** (balance × rate ÷ 365), and subsidized loa
 
 ### How much faster do extra payments pay off a student loan?
 $100 extra per month on a $30,000 / 6.8% / 10-year loan clears it in 85 months instead of 120 and saves **$3,531** in interest. Every extra dollar goes straight to principal.
+
+### How do I calculate student loan payments with multiple loans?
+Calculate each loan's payment separately with the same formula, then add them. A $20,000 loan at 5% ($212.13/month) plus a $15,000 loan at 7% ($174.16/month) totals **$386.29/month** on 10-year plans. Averaging the rates first gives $386.07 - close, but only the per-loan sum is exact.
+
+### What student loan payment can I afford on my salary?
+A common rule: keep payments at or below **8% of gross monthly income**. A $345/month payment needs about $51,750 a year in gross income to hit 8% exactly. On $50,000 a year, $345 is 8.3% of gross - workable if other debts are low, but above 10–12% you should compare income-driven plans.
 
 ### Should I refinance my student loans to lower the payment?
 Refinancing private loans at a lower rate is usually a win. Refinancing *federal* loans into a private loan lowers the rate but permanently gives up income-driven plans, deferment, and forgiveness options - compare total interest with the [loan comparison calculator](/tools/loan-comparison-calculator) first, not just the monthly payment.
