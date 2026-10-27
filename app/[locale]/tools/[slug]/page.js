@@ -14,6 +14,7 @@ import BarcodeTool from '@/components/dev-tools/BarcodeTool';
 import ImageCompressorTool from '@/components/dev-tools/ImageCompressorTool';
 import Base64Tool from '@/components/dev-tools/Base64Tool';
 import UrlTool from '@/components/dev-tools/UrlTool';
+import DiffTool from '@/components/dev-tools/DiffTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -189,6 +190,8 @@ export default async function ToolPage({ params }) {
             <Base64Tool lang={locale} />
           ) : tool.customComponent.startsWith('url-') ? (
             <UrlTool lang={locale} />
+          ) : tool.customComponent.startsWith('diff-') ? (
+            <DiffTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
