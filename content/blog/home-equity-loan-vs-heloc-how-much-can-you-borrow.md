@@ -16,7 +16,7 @@ The industry standard cap is an **80% combined loan-to-value (CLTV)**. The formu
 
 **(Home value x 0.80) - mortgage balance = max you can borrow**
 
-On our example: ($400,000 x 0.80) - $240,000 = **$80,000**. Half of your equity is the real borrowing line, not the full $160,000. Run your own numbers in our [home equity calculator](/tools/home-equity-calculator) to see your equity, LTV, and borrowable amount side by side.
+On our example: ($400,000 x 0.80) - $240,000 = **$80,000**. Half of your equity is the real borrowing line, not the full $160,000. Run your own numbers in our [home equity calculator](/tools/home-equity-calculator) to see your equity, LTV, and borrowable amount side by side. New to the basics? Start with [how to calculate home equity](/blog/how-to-calculate-home-equity) for the formula and worked examples.
 
 ## Home equity loan vs HELOC: the $60,000 test
 
