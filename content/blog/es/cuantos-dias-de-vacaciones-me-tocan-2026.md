@@ -68,6 +68,10 @@ Si sales de la empresa antes de cumplir el año, no pierdes todo: te corresponde
 
 Ejemplo: si tu sueldo diario es de $600 y trabajaste 8 meses de un año en el que te tocaban 12 días, te corresponden 12 × 8 ÷ 12 = **8 días**, o sea $4,800 de vacaciones proporcionales. El cálculo completo, con aguinaldo y prima proporcionales, está en [finiquito vs liquidación: cuánto te toca](/es/blog/finiquito-vs-liquidacion-cuanto-me-toca).
 
+## ¿Se pueden juntar las vacaciones de dos años?
+
+En principio no deberías acumularlas: la ley dice que tus vacaciones deben disfrutarse dentro de los 6 meses siguientes a tu aniversario, y si no las tomas, el derecho a reclamarlas prescribe en 1 año (artículo 516). En la práctica, algunas empresas aceptan por acuerdo que juntes días de un año con otro, pero eso depende de su política interna y no es un derecho que puedas exigir. Si ya se acerca el límite de los 6 meses y no te las han programado, pide la programación por escrito: es la forma más sencilla de dejar constancia antes de que el plazo se agote.
+
 ## Qué hacer si no te dan tus vacaciones
 
 Si ya pasaron los 6 meses desde tu aniversario y no te han programado vacaciones, pide primero por escrito la programación a Recursos Humanos, citando el artículo 76. Si no se corrige, acude a la **PROFEDET** para asesoría gratuita, con tus recibos de nómina y tu fecha de ingreso a la mano. Las vacaciones son un derecho irrenunciable: no te las pueden cambiar por dinero mientras sigas trabajando, solo se pagan al terminar la relación laboral.
