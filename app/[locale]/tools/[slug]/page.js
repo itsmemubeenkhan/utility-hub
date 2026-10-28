@@ -15,6 +15,7 @@ import ImageCompressorTool from '@/components/dev-tools/ImageCompressorTool';
 import Base64Tool from '@/components/dev-tools/Base64Tool';
 import UrlTool from '@/components/dev-tools/UrlTool';
 import DiffTool from '@/components/dev-tools/DiffTool';
+import JsonCsvTool from '@/components/dev-tools/JsonCsvTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -192,6 +193,8 @@ export default async function ToolPage({ params }) {
             <UrlTool lang={locale} />
           ) : tool.customComponent.startsWith('diff-') ? (
             <DiffTool lang={locale} />
+          ) : tool.customComponent.startsWith('jsoncsv-') ? (
+            <JsonCsvTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
