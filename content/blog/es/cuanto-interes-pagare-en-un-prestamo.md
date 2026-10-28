@@ -3,12 +3,12 @@ title: "¿Cuánto Interés Pagarás en un Préstamo? (y Cómo Pagar Menos) 2026"
 slug: "cuanto-interes-pagare-en-un-prestamo"
 description: "Calcula cuánto interés pagarás en un préstamo personal, de auto o hipotecario. Ejemplos reales, tabla comparativa y trucos para pagar menos interés 2026."
 date: "2026-10-15"
-keywords: "cuanto interes pagare en un prestamo, interes total prestamo, como calcular interes de un prestamo, pagar menos intereses"
+keywords: "cuanto interes pagare en un prestamo, interes total prestamo, como calcular interes de un prestamo, pagar menos intereses, cuanto interes pagare en un prestamo de 20000, interes total prestamo 20000"
 ---
 
 Cuando pides un préstamo, el banco te dice la tasa. Lo que casi nadie calcula antes de firmar es el número que realmente importa: **cuánto interés pagarás en total**.
 
-Un préstamo de $20,000 al 10% por 5 años no te cuesta $20,000. Te cuesta **$25,449**. Esos $5,449 extra son el precio real del dinero prestado.
+Un préstamo de $20,000 al 10% por 5 años no te cuesta $20,000. Te cuesta **$25,496**. Esos $5,496 extra son el precio real del dinero prestado.
 
 ## Cómo se calcula el interés total
 
@@ -32,9 +32,9 @@ Mismo préstamo de **$20,000 al 9% APR**:
 |---|---|---|---|
 | 3 años | $636 | $2,896 | $22,896 |
 | 5 años | $415 | $4,910 | $24,910 |
-| 7 años | $321 | $6,940 | $26,940 |
+| 7 años | $322 | $7,030 | $27,030 |
 
-Alargar de 3 a 7 años baja el pago $315 al mes, pero te cuesta **$4,044 más en interés**. El pago mensual bajo es cómodo; el plazo corto es barato.
+Alargar de 3 a 7 años baja el pago $314 al mes, pero te cuesta **$4,134 más en interés**. El pago mensual bajo es cómodo; el plazo corto es barato.
 
 ## La tasa importa más de lo que crees
 
@@ -44,23 +44,35 @@ Mismo préstamo de **$20,000 a 5 años**, distintas tasas:
 |---|---|---|
 | 6% | $387 | $3,199 |
 | 9% | $415 | $4,910 |
-| 12% | $444 | $6,667 |
-| 18% | $508 | $10,462 |
-| 24% | $560 | $13,606 |
+| 12% | $445 | $6,693 |
+| 18% | $508 | $10,472 |
+| 24% | $575 | $14,522 |
 
-De 6% a 24%, el interés se **cuadruplica**. Por eso comparar ofertas vale miles de dólares. Usa el [comparador de préstamos](/es/tools/comparador-de-prestamos) para poner dos ofertas lado a lado antes de firmar.
+De 6% a 24%, el interés se **multiplica por más de 4** (de $3,199 a $14,522). Por eso comparar ofertas vale miles de dólares. Usa el [comparador de préstamos](/es/tools/comparador-de-prestamos) para poner dos ofertas lado a lado antes de firmar.
 
 ## 5 formas de pagar menos interés
 
 **1. Acorta el plazo si tu presupuesto aguanta.** Es el truco más poderoso. Pasar de 60 a 36 meses en el ejemplo anterior ahorra más de $2,000.
 
-**2. Mejora tu crédito antes de pedir.** La diferencia entre 12% y 8% en $20,000 a 5 años son $2,300 menos en interés. Tres meses mejorando tu crédito pueden valer miles.
+**2. Mejora tu crédito antes de pedir.** La diferencia entre 12% y 8% en $20,000 a 5 años son $2,362 menos en interés. Tres meses mejorando tu crédito pueden valer miles.
 
 **3. Haz pagos extra al capital.** Cualquier dólar extra va directo contra el capital y reduce el interés futuro. Hasta $50 al mes marcan diferencia. Nuestra [calculadora de pago de deudas](/es/tools/calculadora-para-pagar-deudas) muestra cuánto ahorras.
 
 **4. Refinancia cuando bajen las tasas.** Si pediste al 12% y ahora calificas al 8%, refinanciar puede ahorrarte miles. Calcula si conviene con la [calculadora de refinanciamiento](/es/tools/calculadora-de-refinanciamiento).
 
 **5. Evita extender el plazo para "bajar el pago".** Los concesionarios de autos adoran los préstamos a 84 meses porque el pago se ve pequeño. El interés total es brutal. Lee [cuánto pagarás por un auto](/es/blog/calculadora-prestamo-auto-cuanto-pagar) antes de firmar.
+
+## Pagar $100 extra al mes: cuánto ahorras de verdad
+
+Volvamos al ejemplo base: **$20,000 al 9% por 5 años** (pago $415 al mes, interés total $4,910). Si agregas un pago extra al capital cada mes:
+
+| Extra al mes | Terminas en | Interés total | Ahorro |
+|---|---|---|---|
+| $0 | 60 meses | $4,910 | $0 |
+| $50 | 53 meses | $4,235 | $675 |
+| $100 | 47 meses | $3,727 | $1,183 |
+
+Con $100 extra al mes terminas **13 meses antes** y te ahorras **$1,183** en interés. Es el mismo truco que el plazo corto, pero sin renegociar nada: solo pagas un poco más cada mes y el capital baja más rápido. Si tu préstamo no tiene penalización por prepago (la mayoría no la tiene), cada dólar extra va directo contra el capital.
 
 ## Interés simple vs compuesto en préstamos
 
@@ -72,7 +84,13 @@ Las tarjetas de crédito, en cambio, capitalizan el interés (se suma al saldo),
 
 Si quieres entender la matemática paso a paso con ejemplos, tenemos la guía completa: [cómo calcular el pago mensual de un préstamo](/es/blog/como-calcular-pago-mensual-prestamo).
 
-## Preguntas frecuentes
+## FAQ
+
+### ¿Cuánto interés pagaré en un préstamo de $20,000?
+Depende de la tasa y el plazo. A 5 años: al 6% pagas $3,199 de interés, al 9% pagas $4,910, al 12% pagas $6,693 y al 24% pagas $14,522. El mismo monto, el mismo plazo, y la diferencia entre la tasa más baja y la más alta es de más de $11,000. Por eso el interés total, no solo el pago mensual, es el número que debes comparar antes de firmar.
+
+### ¿Pagar $100 extra al mes cuánto ahorra en interés?
+En un préstamo de $20,000 al 9% por 5 años, pagar $100 extra al mes te ahorra $1,183 en interés y terminas 13 meses antes (47 meses en vez de 60). Con $50 extra al mes el ahorro es de $675 y terminas 7 meses antes.
 
 ### ¿El interés total es lo mismo que el APR?
 No. El APR es la tasa anual (un porcentaje). El interés total son los dólares reales que pagarás durante toda la vida del préstamo. Dos préstamos con el mismo APR pueden tener interés total muy distinto si los plazos difieren.
