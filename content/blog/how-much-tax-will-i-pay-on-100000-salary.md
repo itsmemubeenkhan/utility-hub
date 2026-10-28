@@ -56,7 +56,7 @@ Going from $80,000 to $100,000 costs you about **$5,930 more in tax** ($20,820 �
 
 $79,180 ÷ 26 = **~$3,045 per biweekly paycheck** (before state tax and pre-tax deductions). Get your exact number with our [salary paycheck calculator](/tools/salary-paycheck-calculator).
 
-**More in this series:** [Tax on $80K salary](/blog/how-much-tax-will-i-pay-on-80000-salary) · [1099 vs W-2: which pays more?](/tools/1099-vs-w2-calculator)
+**More in this series:** [Tax on $80K salary](/blog/how-much-tax-will-i-pay-on-80000-salary) · [1099 vs W-2: which pays more?](/tools/1099-vs-w2-calculator) · [How much tax on 1099 income?](/blog/how-much-tax-on-1099-income)
 
 ## FAQ
 
