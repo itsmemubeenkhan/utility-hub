@@ -1,9 +1,9 @@
 ---
 title: "¿Qué es el CAT y Cómo se Calcula? (Guía México 2026)"
 slug: "que-es-el-cat-y-como-se-calcula"
-description: "El CAT (Costo Anual Total) es el verdadero costo de tu crédito en México. Aprende qué incluye, cómo lo calcula Banxico y por qué importa más que la tasa de interés."
+description: "El CAT (Costo Anual Total) es el verdadero costo de tu crédito en México. Ejemplo real: un préstamo al 18% puede costar $2,434 más que uno al 20% por su CAT. Aprende a compararlo."
 date: "2026-10-16"
-keywords: "qué es el cat y cómo se calcula, que es el cat en prestamos, cat costo anual total mexico, como se calcula el cat banxico"
+keywords: "qué es el cat y cómo se calcula, que es el cat en prestamos, cat costo anual total mexico, como se calcula el cat banxico, ejemplo cat prestamo personal, cat mas alto que tasa de interes"
 ---
 
 El **CAT (Costo Anual Total)** es el número más importante al comparar créditos en México - más importante que la tasa de interés. Es el **costo total real** de tu préstamo expresado como porcentaje anual, incluyendo intereses, comisiones, seguros y cualquier otro cargo. Si solo comparas tasas de interés, puedes elegir el crédito más caro sin darte cuenta.
@@ -56,6 +56,22 @@ No necesitas calcularlo a mano - los bancos están obligados a publicarlo y Banx
 
 **Regla de oro:** Al comparar dos créditos del mismo tipo y plazo, **elige el de menor CAT**, no el de menor tasa de interés.
 
+## Ejemplo real: la tasa más baja puede salir más cara
+
+Préstamo personal de **$50,000 a 24 meses**. Dos ofertas reales en estructura:
+
+| | Oferta A | Oferta B |
+|---|---|---|
+| Tasa de interés anual | 20% | 18% (más baja) |
+| Comisión por apertura | $0 | $2,500 |
+| Seguro mensual obligatorio | $0 | $150 |
+| Monto neto que recibes | $50,000 | $47,500 |
+| Pago mensual | $2,544.79 | $2,646.21 |
+| Total pagado en 24 meses | $61,074.96 | $63,508.92 |
+| **CAT aproximado** | **21.9%** | **34.0%** |
+
+La Oferta B presume una tasa más baja, pero te cuesta **$2,433.96 más** en total. Y fíjate en algo: sin el seguro mensual, la sola comisión de $2,500 ya subiría el CAT de la Oferta B a 26.0%, por encima de su tasa del 18%. Por eso el CAT existe: la tasa sola esconde comisiones y seguros, el CAT los delata.
+
 ¿Comparando opciones? Mira [cuánto interés pagarás en un préstamo personal](/es/blog/cuanto-interes-pagare-en-un-prestamo) y [cuánto pagarías al mes por un préstamo de auto](/es/blog/calculadora-prestamo-auto-cuanto-pagar) con ejemplos reales antes de decidir.
 
 ## CAT promedio en México (2026, referencia)
@@ -95,5 +111,11 @@ En 2026, un préstamo personal bancario competitivo tiene un CAT entre **25% y 3
 
 ### ¿El CAT incluye el IVA?
 **Sí.** El CAT incluye el IVA de todos los conceptos (intereses, comisiones, seguros). Es una de las razones por las que el CAT siempre es más alto que la tasa de interés nominal.
+
+### ¿Puede un crédito con tasa más baja tener un CAT más alto?
+**Sí, y pasa seguido.** Un préstamo de $50,000 a 24 meses al 18% con $2,500 de comisión por apertura y $150 mensuales de seguro obligatorio tiene un CAT aproximado de 34.0% y un pago de $2,646.21 al mes. El mismo préstamo al 20% sin comisiones ni seguros tiene un CAT de 21.9% y un pago de $2,544.79. La "tasa más baja" sale $2,433.96 más cara en total. Compara siempre por CAT, no por tasa.
+
+### ¿El CAT de mi tarjeta puede cambiar con el tiempo?
+**Sí.** El CAT publicado es una referencia calculada con las condiciones actuales del producto. Si el banco sube la tasa, la anualidad o el costo del seguro, el CAT real de tu crédito sube también. Por eso vale la pena revisar el CAT de tu tarjeta o préstamo al menos una vez al año y comparar con otras opciones antes de renovar.
 
 *Información con fines educativos, no asesoría financiera. Verifica el CAT exacto en el contrato de tu crédito.*
