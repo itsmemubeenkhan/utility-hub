@@ -34,7 +34,7 @@ Emma contributed one-third as much and ended up with 36% more. Those ten early y
 
 ## The three levers, ranked
 
-1. **Time.** The most powerful and the only one you cannot buy back. Every year you wait costs more than you think, delaying $500/month by 10 years at 8% costs roughly **$175,000** at retirement.
+1. **Time.** The most powerful and the only one you cannot buy back. Every year you wait costs more than you think, delaying $500/month by 10 years at 8% costs roughly **$175,000** at retirement. To turn that insight into a monthly number, see [how much to invest per month to reach $1 million](/blog/how-much-to-invest-per-month-to-reach-1-million).
 2. **Contributions.** The fuel. Raising your monthly investment from $500 to $750 at 8% over 30 years adds about **$560,000** to the final balance.
 3. **Return rate.** Important but overrated short-term. Chasing an extra 2% by taking wild risks usually backfires; a steady diversified portfolio held for decades beats clever timing.
 
