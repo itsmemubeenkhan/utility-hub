@@ -3,7 +3,7 @@ title: "Is a 650 Credit Score Good for Buying a House? (2026 Guide)"
 slug: "is-650-credit-score-good-for-buying-a-house"
 description: "A 650 credit score can buy a house in 2026 - FHA yes, conventional maybe. See what rate you'll pay vs a 750 score and how to improve fast."
 date: "2026-10-16"
-keywords: "is 650 credit score good for buying a house, 650 credit score mortgage, can i buy a house with 650 credit score, 650 credit score home loan"
+keywords: "is 650 credit score good for buying a house, 650 credit score mortgage, can i buy a house with 650 credit score, 650 credit score home loan, can i get a mortgage with a 650 credit score, 650 credit score mortgage rate"
 ---
 
 A **650 credit score is enough to buy a house** in 2026 - but it sits in the "fair" range, which means you will pay more in interest than someone with a 750. For the full picture on mortgage score tiers, see [what counts as a good credit score for a mortgage](/blog/good-credit-score-for-mortgage). Here is exactly what a 650 gets you, what it costs, and how to push it higher before you apply.
@@ -62,7 +62,18 @@ Even 3 months of focused work can move 650 → 690, which meaningfully improves 
 
 Estimate your payment with our [mortgage calculator](/tools/mortgage-calculator) and check affordability with our [home affordability calculator](/tools/home-affordability-calculator).
 
+## Can I get a mortgage with a 650 credit score?
+
+**Yes, you can get a mortgage with a 650 credit score.** You clear every major loan program's minimum: FHA needs 580, conventional needs 620, and most VA and USDA lenders want 620 to 640. A 650 does not block approval; it changes the price and, for conventional loans, the PMI bill.
+
+What that price looks like on a $300,000 home with 10% down ($270,000 loan, 30-year fixed, illustrative 2026 rates): at 6.875% a 650 borrower pays **$1,773.71 per month** in principal and interest, or **$368,535 total interest** over 30 years. A 750 borrower at 6.25% pays $1,662.44 per month and $328,477 total interest. The 650 penalty on this loan is **$111.27 per month and $40,058 in extra interest**. That gap is why lifting your score before you apply, even by 30 to 50 points, is worth real money.
+
+Lenders also check the rest of your file, not just the score: steady income, a debt-to-income ratio under 43% for most conventional loans (FHA allows higher with compensating factors), and 2 to 3 months of reserves after closing. A 650 with clean DTI and a full down payment is a stronger application than a 700 with maxed-out cards.
+
 ## FAQ
+
+### Can I get a mortgage with a 650 credit score?
+**Yes.** A 650 clears FHA (580 minimum), conventional (620 minimum), VA, and USDA (640 at most lenders) thresholds. Expect a rate roughly 0.5 to 0.75% above top-tier pricing on conventional loans, and higher PMI if you put down less than 20%. On a $270,000 loan that rate gap costs about $111 per month versus a 750 score.
 
 ### Can I buy a house with a 650 credit score?
 **Yes.** FHA loans approve 650 easily with 3.5% down; conventional loans (620 minimum) and VA/USDA loans are also options. You will pay a higher interest rate than borrowers with 700+ scores.
