@@ -16,6 +16,7 @@ import Base64Tool from '@/components/dev-tools/Base64Tool';
 import UrlTool from '@/components/dev-tools/UrlTool';
 import DiffTool from '@/components/dev-tools/DiffTool';
 import JsonCsvTool from '@/components/dev-tools/JsonCsvTool';
+import TimestampTool from '@/components/dev-tools/TimestampTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -195,6 +196,8 @@ export default async function ToolPage({ params }) {
             <DiffTool lang={locale} />
           ) : tool.customComponent.startsWith('jsoncsv-') ? (
             <JsonCsvTool lang={locale} />
+          ) : tool.customComponent.startsWith('timestamp-') ? (
+            <TimestampTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
