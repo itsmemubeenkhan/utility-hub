@@ -63,7 +63,7 @@ Con el mismo ejemplo ($500 diarios, 2 años):
 - 20 días por año: 20 × 2 × $500 = **$20,000**
 - Prima de antigüedad: no aplica por los 2 años (pero sí entraría con 15+)
 
-**Total de la liquidación: $85,321.92.** Más de cuatro veces el finiquito: por eso importa saber si tu despido fue justificado o no.
+**Total de la liquidación: $85,321.92.** Más de cuatro veces el finiquito: por eso importa saber si tu despido fue justificado o no. Para estimar la base exacta de la indemnización, calcula [tu salario diario integrado](/es/blog/que-es-el-salario-diario-integrado-como-se-calcula) con tu sueldo y antigüedad.
 
 ## Tabla rápida: qué te toca según el caso
 
