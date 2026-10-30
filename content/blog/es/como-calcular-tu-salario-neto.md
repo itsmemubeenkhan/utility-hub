@@ -62,7 +62,7 @@ Por eso dos personas con el mismo salario bruto pueden tener netos distintos. Si
 
 El error clásico es planear el presupuesto con el salario bruto. Con $50,000 de oferta, mucha gente presupuesta como si ganara $4,167 al mes, cuando el neto real ronda los $3,528 (sin contar estado ni seguro). Esa diferencia de $639 mensuales es la que rompe los presupuestos.
 
-La regla práctica: **presupuesta siempre con el neto**, nunca con el bruto. Si ya conoces tu neto mensual, la [regla 50-30-20](/es/blog/regla-50-30-20-presupuesto) te da un punto de partida simple para repartirlo entre necesidades, deseos y ahorro. Y si estás evaluando una oferta nueva, convierte el salario a su equivalente por hora con nuestra explicación de [salario a pago por hora](/es/tools/calculadora-de-salario) para comparar ofertas con distinto horario.
+La regla práctica: **presupuesta siempre con el neto**, nunca con el bruto. Si ya conoces tu neto mensual, la [regla 50-30-20](/es/blog/regla-50-30-20-presupuesto) te da un punto de partida simple para repartirlo entre necesidades, deseos y ahorro. Y si estás evaluando una oferta nueva, convierte el salario a su equivalente por hora con nuestra explicación de [salario a pago por hora](/es/tools/calculadora-de-salario) para comparar ofertas con distinto horario. Y si cobras por hora y quieres el camino inverso, la [calculadora de salario a por hora](/es/tools/calculadora-de-salario-a-por-hora) convierte tu tarifa por hora en salario semanal, mensual y anual.
 
 ## FAQ
 
