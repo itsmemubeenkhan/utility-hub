@@ -18,6 +18,7 @@ import DiffTool from '@/components/dev-tools/DiffTool';
 import JsonCsvTool from '@/components/dev-tools/JsonCsvTool';
 import TimestampTool from '@/components/dev-tools/TimestampTool';
 import JwtTool from '@/components/dev-tools/JwtTool';
+import MarkdownTool from '@/components/dev-tools/MarkdownTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -201,6 +202,8 @@ export default async function ToolPage({ params }) {
             <TimestampTool lang={locale} />
           ) : tool.customComponent.startsWith('jwt-') ? (
             <JwtTool lang={locale} />
+          ) : tool.customComponent.startsWith('markdown-') ? (
+            <MarkdownTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
