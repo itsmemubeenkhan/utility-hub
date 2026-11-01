@@ -57,7 +57,7 @@ function initials(name) {
 // Extract ## FAQ section (### Question + answer paragraphs) from raw markdown
 function extractFaqs(raw) {
   if (!raw) return [];
-  const m = raw.match(/^##\s+FAQ\s*$/m);
+  const m = raw.match(/^##\s+(FAQ|Preguntas frecuentes)\s*$/m);
   if (!m) return [];
   const section = raw.slice(m.index + m[0].length);
   const end = section.search(/^##\s+/m);
