@@ -19,6 +19,7 @@ import JsonCsvTool from '@/components/dev-tools/JsonCsvTool';
 import TimestampTool from '@/components/dev-tools/TimestampTool';
 import JwtTool from '@/components/dev-tools/JwtTool';
 import MarkdownTool from '@/components/dev-tools/MarkdownTool';
+import RegexTool from '@/components/dev-tools/RegexTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -204,6 +205,8 @@ export default async function ToolPage({ params }) {
             <JwtTool lang={locale} />
           ) : tool.customComponent.startsWith('markdown-') ? (
             <MarkdownTool lang={locale} />
+          ) : tool.customComponent.startsWith('regex-') ? (
+            <RegexTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
