@@ -58,6 +58,8 @@ Siempre compara: el financiamiento del concesionario casi nunca es la mejor ofer
 
 [Calcula tu pago exacto gratis con nuestra calculadora de préstamos](/es/tools/calculadora-de-prestamos)
 
+Si tu presupuesto ronda los $300,000, mira las tablas reales de [cuánto pagas al mes por un auto de $300,000](/es/blog/cuanto-pago-al-mes-por-un-auto-de-300000) según tasa, plazo y enganche.
+
 ## FAQ
 
 ### ¿Cómo calculo el pago mensual de un préstamo de auto?
