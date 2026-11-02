@@ -54,7 +54,7 @@ The 28/36 rule is a **ceiling**, not a target. At $100K, the comfortable zone fo
 **Where $100K buys comfortably:** Atlanta, Dallas, Phoenix, Denver suburbs, Chicago suburbs, Raleigh, Nashville.
 **Where it is tight:** NYC, San Francisco, Los Angeles, Boston, Seattle, San Diego - expect condos or longer commutes.
 
-Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price. Also try the [mortgage calculator](/tools/mortgage-calculator) and [salary paycheck calculator](/tools/salary-paycheck-calculator) to see your true take-home.
+Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price. Also try the [mortgage calculator](/tools/mortgage-calculator) and [salary paycheck calculator](/tools/salary-paycheck-calculator) to see your true take-home. For the loan side specifically, see [what mortgage you can afford on a $100K salary](/blog/what-mortgage-can-i-afford-100k-salary).
 
 ## State-by-state: Texas, Florida, California
 
