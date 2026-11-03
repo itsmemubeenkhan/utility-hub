@@ -21,6 +21,7 @@ import JwtTool from '@/components/dev-tools/JwtTool';
 import MarkdownTool from '@/components/dev-tools/MarkdownTool';
 import RegexTool from '@/components/dev-tools/RegexTool';
 import CronTool from '@/components/dev-tools/CronTool';
+import ImageResizerTool from '@/components/dev-tools/ImageResizerTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -210,6 +211,8 @@ export default async function ToolPage({ params }) {
             <RegexTool lang={locale} />
           ) : tool.customComponent.startsWith('cron-') ? (
             <CronTool lang={locale} />
+          ) : tool.customComponent.startsWith('resize-') ? (
+            <ImageResizerTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
