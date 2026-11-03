@@ -23,3 +23,5 @@ $60,000 is workable for homeownership - especially with FHA loans.
 4. **Avoid:** Coasts, major metros
 
 [Calculate yours](/tools/home-affordability-calculator)
+
+For the loan side specifically, see [what mortgage you can afford on a $60K salary](/blog/what-mortgage-can-i-afford-60k-salary).
