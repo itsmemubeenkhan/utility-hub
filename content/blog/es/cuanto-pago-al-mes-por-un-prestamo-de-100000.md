@@ -52,7 +52,7 @@ Una regla práctica: el pago no debería pasar el 10-15% de tu ingreso mensual n
 
 **2. Mejora tu tasa antes de pedir.** La diferencia entre 12% y 9% a 5 años son $148.61 menos al mes y $8,916.55 menos en interés total. Compara ofertas con el [comparador de préstamos](/es/tools/comparador-de-prestamos).
 
-**3. Da un enganche o pide menos.** Cada $1,000 menos que pides te ahorra unos $20.76 al mes (al 9% a 5 años). Para un monto menor, mira [cuánto pagas al mes por $50,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-50000).
+**3. Da un enganche o pide menos.** Cada $1,000 menos que pides te ahorra unos $20.76 al mes (al 9% a 5 años). Para un monto menor, mira [cuánto pagas al mes por $50,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-50000). Para un monto mayor, mira [cuánto pagas al mes por $200,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-200000).
 
 **4. Haz pagos extra cuando puedas.** No bajan el pago mensual fijo, pero acortan el préstamo y recortan el interés. Con $200 extra al mes sobre el ejemplo del 9% a 5 años, terminas en 54 meses en vez de 60 y ahorras $2,774.87 en interés. Con $100 extra, ahorras $1,471.93 y 3 meses.
 
