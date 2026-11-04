@@ -50,7 +50,7 @@ The mortgage is only the headline. Budget ~1% of the home's value per year for m
 
 The 28/36 rule is a **ceiling**, not a target - and on $50K, margin matters more, not less. Buying 10–20% below your max leaves room for savings, repairs and life. Being "house poor", technically approved but with zero margin, is how an affordable payment quietly turns into chronic financial stress.
 
-Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price.
+Run your own numbers with our [home affordability calculator](/tools/home-affordability-calculator): enter your income, debts, rate and down payment for a personalized max price. For the loan side of the same math, see [what mortgage you can afford on a $50K salary](/blog/what-mortgage-can-i-afford-50k-salary).
 
 **More in this series:** [$60K](/blog/how-much-house-can-i-afford-60k-salary) · [$70K](/blog/how-much-house-can-i-afford-70k-salary) · [$80K](/blog/how-much-house-can-i-afford-80k-salary) · [$90K](/blog/how-much-house-can-i-afford-90k-salary) · [$100K](/blog/how-much-house-can-i-afford-100k-salary) · [$120K](/blog/how-much-house-can-i-afford-120k-salary) · [$150K](/blog/how-much-house-can-i-afford-150k-salary) · [$200K](/blog/how-much-house-can-i-afford-200k-salary)
 
