@@ -1,9 +1,9 @@
 ---
 title: "Is a 650 Credit Score Good for Buying a House? (2026 Guide)"
 slug: "is-650-credit-score-good-for-buying-a-house"
-description: "A 650 credit score can buy a house in 2026 - FHA yes, conventional maybe. See what rate you'll pay vs a 750 score and how to improve fast."
+description: "A 650 credit score can buy a house in 2026 - FHA yes, conventional maybe. Got 640 instead? That works for most loans too. See rates vs a 750 score."
 date: "2026-10-16"
-keywords: "is 650 credit score good for buying a house, 650 credit score mortgage, can i buy a house with 650 credit score, 650 credit score home loan, can i get a mortgage with a 650 credit score, 650 credit score mortgage rate"
+keywords: "is 650 credit score good for buying a house, 650 credit score mortgage, can i buy a house with 650 credit score, 650 credit score home loan, can i get a mortgage with a 650 credit score, 650 credit score mortgage rate, can you get a home loan with a credit score of 640, home loan with 640 credit score, 640 credit score mortgage"
 ---
 
 A **650 credit score is enough to buy a house** in 2026 - but it sits in the "fair" range, which means you will pay more in interest than someone with a 750. For the full picture on mortgage score tiers, see [what counts as a good credit score for a mortgage](/blog/good-credit-score-for-mortgage). Here is exactly what a 650 gets you, what it costs, and how to push it higher before you apply.
@@ -18,6 +18,19 @@ A **650 credit score is enough to buy a house** in 2026 - but it sits in the "fa
 | USDA loan | **Yes** | 640 minimum at most lenders |
 
 You will not be denied for the score alone. The real question is **price**.
+
+## Can you get a home loan with a credit score of 640?
+
+**Yes - at 640 you qualify for almost every mainstream loan type**, and the practical difference between 640 and 650 is smaller than most people expect:
+
+| Loan type | 640 score? | Notes |
+|---|---|---|
+| FHA loan | **Yes** | 580+ qualifies for 3.5% down, so 640 is comfortably clear |
+| USDA loan | **Yes** | 640 is the standard minimum most USDA lenders use for streamlined approval |
+| VA loan | **Yes** | No official VA minimum; most lenders set their own floor at 620-640 |
+| Conventional | **Yes, but pricier** | 620 is the floor, but loan-level price adjustments hit hardest below 680, so your rate and PMI cost more |
+
+Two things matter more than the 10-point gap between 640 and 650. First, **pricing tiers**: conventional loan pricing steps at 620, 640, 660, 680, 700 and beyond, so crossing from 639 to 640 (or 659 to 660) can change your rate quote more than the raw points suggest. Second, **the rest of your file**: a 640 score with a 10% down payment and low debts often beats a 680 score stretched thin. Run your real price and down payment through our [mortgage calculator](/tools/mortgage-calculator) to see what the payment looks like at the rate a 640-650 score typically gets, roughly 6.75-7% in 2026 terms.
 
 ## What 650 costs you vs 750
 

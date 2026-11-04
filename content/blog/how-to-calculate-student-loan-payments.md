@@ -100,4 +100,10 @@ A common rule: keep payments at or below **8% of gross monthly income**. A $345/
 ### Should I refinance my student loans to lower the payment?
 Refinancing private loans at a lower rate is usually a win. Refinancing *federal* loans into a private loan lowers the rate but permanently gives up income-driven plans, deferment, and forgiveness options - compare total interest with the [loan comparison calculator](/tools/loan-comparison-calculator) first, not just the monthly payment.
 
+### Who can cosign a student loan?
+For federal loans, almost nobody has to: Direct Loans need no cosigner and no credit check, and only PLUS loans can require an endorser (the federal cosigner equivalent) after an adverse credit finding. Private student loans are where cosigners live: about 9 in 10 undergraduate private loans have one, usually a parent with good credit and income, who is legally as responsible for the balance as the student. Some private lenders release the cosigner after 24-48 on-time payments.
+
+### What happens if you don't pay your student loans?
+Federal loans report you delinquent at 90 days and default at 270 days past due. Default makes the full balance due immediately and opens the door to wage garnishment of up to 15% of disposable pay, seized tax refunds, and a block on further federal aid and forgiveness until you rehabilitate or consolidate. Private loans default on the contract's timeline instead, with collections, possible lawsuits, and equal damage to your cosigner's credit. If the payment is the problem, an income-driven plan or deferment almost always costs less than default - model your options in the [student loan calculator](/tools/student-loan-calculator).
+
 *Estimates for planning only, not financial advice. Federal loan rules change; check studentaid.gov for current programs.*

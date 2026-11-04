@@ -45,6 +45,23 @@ Your **marginal rate** is 22% (it stays 22% all the way to $105,700), but your *
 
 Going from $80,000 to $100,000 costs you about **$5,930 more in tax** ($20,820 − $14,890) - so you keep roughly **$14,070** of the $20,000 raise. That is a 29.6% marginal bite on the extra income (22% federal + 7.65% FICA), which is exactly how a progressive system should work: you always keep most of a raise.
 
+## How much tax on a $200,000 salary?
+
+Doubling the salary does not double the take-home, because the top dollars are taxed at 24% and Social Security stops partway through the year. Same assumptions as above (single filer, 2026 standard deduction of $16,100, no state tax):
+
+| | Amount |
+|---|---|
+| Gross salary | $200,000 |
+| Taxable income | $183,900 |
+| Federal income tax | $36,734 |
+| Social Security + Medicare (FICA) | $14,339 |
+| **Total tax** | **$51,073** |
+| **Take-home pay** | **$148,927** |
+| Monthly take-home | $12,411 |
+| Effective tax rate | 25.5% |
+
+The federal math: 10% on the first $12,400 of taxable income, 12% up to $50,400, 22% up to $105,700, and 24% on the remaining $78,200. FICA works differently at this level: Social Security (6.2%) only applies up to the 2026 wage base of $184,500, so it maxes out at $11,439, while Medicare (1.45%) has no cap and takes $2,900. Your marginal rate is 24%, but your effective federal rate is 18.4% - the gap between those two numbers is the whole story of a progressive tax system. If that $200K comes from self-employment instead of a salary, the math changes completely; run it through our [self-employment tax calculator](/tools/self-employment-tax-calculator).
+
 ## What changes the number
 
 1. **State income tax** - the biggest variable. Zero in Texas/Florida; roughly $6,000+ in California at this income.

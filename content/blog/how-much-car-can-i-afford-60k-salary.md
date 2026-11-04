@@ -3,7 +3,7 @@ title: "How Much Car Can I Afford on a $60K Salary? ($14K–$18K in 2026)"
 slug: "how-much-car-can-i-afford-60k-salary"
 description: "On $60K salary you can afford a $14K–$18K car in 2026. See the 15% rule and 20/4/10 math, what your payment buys, and the 72-month trap. Free calculator."
 date: "2026-10-13"
-keywords: "how much car can i afford on 60k salary, what car can i afford making 60000 a year, how much should i spend on a car if i make 60000, 60k salary car budget, how much car can i afford with 60000 salary, how much car can i afford calculator"
+keywords: "how much car can i afford on 60k salary, what car can i afford making 60000 a year, how much should i spend on a car if i make 60000, 60k salary car budget, how much car can i afford with 60000 salary, how much car can i afford calculator, how much car can i afford on 70k salary"
 ---
 
 Car dealers will happily sell you a $45,000 truck on a $60,000 salary. Your budget will not be happy about it. If you are asking **how much car can I afford on a $60K salary** - or, put plainly, how much should I spend on a car if I make $60,000 a year - the honest answer is roughly **$14,000–$18,000**, bought with 20% down and a 4-year loan. Here is how to calculate what you can actually afford before you walk onto the lot.
@@ -64,6 +64,10 @@ The payment is only part of ownership. Budget for all of it:
 ## New vs used on $60k
 
 On this salary, **a 2–4 year old used car is almost always the right answer**. You skip the worst depreciation, insurance is cheaper, and the payment fits the rules above. Buy new only if you can pay cash or the payment genuinely fits inside the 15% rule, which on $60,000 it rarely does for new cars.
+
+## How much car can I afford on a $70K salary?
+
+Reading this on $70,000 instead? The same rules scale up, but not by as much as dealers suggest. Take-home on $70K is roughly $4,400-$4,700 a month, so the 15% rule gives you **$660-$705 a month** for payment, insurance and fuel combined. The 20/4/10 rule caps the payment itself at 10% of gross, **$583 a month**. After roughly $300 for insurance and fuel, a payment of about $350-$400 is what fits, which at 7% APR over 48 months with 20% down buys a car priced around **$18,000-$21,000**. In other words, a $10K raise only adds about $4,000 of sensible car. Check your own figures in our [car affordability calculator](/tools/car-affordability-calculator), and if you earn less, see [how much car you can afford on a $50K salary](/blog/how-much-car-can-i-afford-50k-salary).
 
 ## The bottom line
 
