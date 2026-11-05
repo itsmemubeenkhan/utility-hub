@@ -74,6 +74,10 @@ A common affordability check: keep total student loan payments at or below **8% 
 
 **Not sure where this payment fits?** Check [what is debt-to-income ratio](/blog/what-is-debt-to-income-ratio) to see how lenders view it, and [pay off debt or invest first](/blog/pay-off-debt-or-invest) when you have spare cash after the minimums.
 
+## Cosigned loan? Read this first
+
+If a parent or relative is being asked to cosign the loan, the payment math is only half the story. Read [should you cosign a student loan](/blog/should-you-cosign-a-student-loan) for the full liability, the $485 a month cost on a $40,000 loan at 8%, and how cosigner release actually works.
+
 ## FAQ
 
 ### What is the formula to calculate student loan payments?
