@@ -23,6 +23,7 @@ import RegexTool from '@/components/dev-tools/RegexTool';
 import CronTool from '@/components/dev-tools/CronTool';
 import ImageResizerTool from '@/components/dev-tools/ImageResizerTool';
 import GradientTool from '@/components/dev-tools/GradientTool';
+import PaletteTool from '@/components/dev-tools/PaletteTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -216,6 +217,8 @@ export default async function ToolPage({ params }) {
             <ImageResizerTool lang={locale} />
           ) : tool.customComponent.startsWith('gradient-') ? (
             <GradientTool lang={locale} />
+          ) : tool.customComponent.startsWith('palette-') ? (
+            <PaletteTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
