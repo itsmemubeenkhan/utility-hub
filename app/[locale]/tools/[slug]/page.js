@@ -24,6 +24,7 @@ import CronTool from '@/components/dev-tools/CronTool';
 import ImageResizerTool from '@/components/dev-tools/ImageResizerTool';
 import GradientTool from '@/components/dev-tools/GradientTool';
 import PaletteTool from '@/components/dev-tools/PaletteTool';
+import HtmlEntitiesTool from '@/components/dev-tools/HtmlEntitiesTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -219,6 +220,8 @@ export default async function ToolPage({ params }) {
             <GradientTool lang={locale} />
           ) : tool.customComponent.startsWith('palette-') ? (
             <PaletteTool lang={locale} />
+          ) : tool.customComponent.startsWith('htmlentities-') ? (
+            <HtmlEntitiesTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
