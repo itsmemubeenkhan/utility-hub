@@ -58,7 +58,7 @@ Most $50K earners are paid every two weeks: $50,000 / 26 = **$1,923.08 per paych
 
 ## Should you borrow the max?
 
-$1,166.67 a month is the ceiling, not the target. On $50K gross, take-home is roughly $3,500 a month after federal tax and FICA, before state tax, so a maxed-out payment leaves about $2,300 for everything else. Buying 10 to 15% under your max is the sweet spot between building equity and sleeping well. For the price view, see [how much house you can afford on a $50K salary](/blog/how-much-house-can-i-afford-50k-salary).
+$1,166.67 a month is the ceiling, not the target. On $50K gross, take-home is roughly $3,500 a month after federal tax and FICA, before state tax, so a maxed-out payment leaves about $2,300 for everything else. Buying 10 to 15% under your max is the sweet spot between building equity and sleeping well. Earn less? The same math on a [$40K salary](/blog/what-mortgage-can-i-afford-40k-salary) puts the loan at roughly $116,000 to $148,000. For the price view, see [how much house you can afford on a $50K salary](/blog/how-much-house-can-i-afford-50k-salary).
 
 ## FAQ
 
