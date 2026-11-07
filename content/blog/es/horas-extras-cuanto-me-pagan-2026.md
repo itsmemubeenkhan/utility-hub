@@ -67,7 +67,7 @@ En turno nocturno la jornada es de 7 horas, así que tu hora sale más alta. Con
 
 ## ¿Las horas extra pagan ISR?
 
-Sí, en parte. Para trabajadores que ganan más del salario mínimo, el **50% del pago de horas extra está exento de ISR**, con un tope de 5 UMAs por semana ($586.55 en 2026). En el ejemplo de $750 de horas extra: $375 exentos y $375 gravables. Los trabajadores que ganan el salario mínimo tienen exención total. Para ver cuánto llega realmente a tu cuenta después de impuestos, calcula [tu salario neto aquí](/es/blog/como-calcular-tu-salario-neto).
+Sí, en parte. Para trabajadores que ganan más del salario mínimo, el **50% del pago de horas extra está exento de ISR**, con un tope de 5 UMAs por semana ($586.55 en 2026). En el ejemplo de $750 de horas extra: $375 exentos y $375 gravables. Los trabajadores que ganan el salario mínimo tienen exención total. Para ver cuánto ISR te toca según tu sueldo completo, revisa [cuánto te descuentan de ISR si ganas $20,000 al mes](/es/blog/cuanto-me-descuentan-de-isr-si-gano-20000-al-mes). Para ver cuánto llega realmente a tu cuenta después de impuestos, calcula [tu salario neto aquí](/es/blog/como-calcular-tu-salario-neto).
 
 ## Qué revisar en tu recibo y qué hacer si te pagan de menos
 
