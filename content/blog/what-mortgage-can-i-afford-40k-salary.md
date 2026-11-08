@@ -58,7 +58,7 @@ Most $40K earners are paid every two weeks: $40,000 / 26 = **$1,538.46 per paych
 
 ## Should you borrow the max?
 
-$933.33 a month is the ceiling, not the target. On $40K gross, take-home is roughly $2,700 a month after federal tax and FICA, before state tax, so a maxed-out payment leaves about $1,800 for everything else. Buying 10 to 15% under your max is the sweet spot between building equity and sleeping well. Earn a little more? See [what mortgage you can afford on a $50K salary](/blog/what-mortgage-can-i-afford-50k-salary), where the same math gives a $145,000 to $185,000 loan. For the price view, see [how much house you can afford on a $50K salary](/blog/how-much-house-can-i-afford-50k-salary).
+$933.33 a month is the ceiling, not the target. On $40K gross, take-home is roughly $2,700 a month after federal tax and FICA, before state tax, so a maxed-out payment leaves about $1,800 for everything else. Buying 10 to 15% under your max is the sweet spot between building equity and sleeping well. Earn a little more? See [what mortgage you can afford on a $50K salary](/blog/what-mortgage-can-i-afford-50k-salary), where the same math gives a $145,000 to $185,000 loan. Earn a little less? See [what mortgage you can afford on a $30K salary](/blog/what-mortgage-can-i-afford-30k-salary), where the same math gives an $87,000 to $111,000 loan. For the price view, see [how much house you can afford on a $50K salary](/blog/how-much-house-can-i-afford-50k-salary).
 
 ## FAQ
 
