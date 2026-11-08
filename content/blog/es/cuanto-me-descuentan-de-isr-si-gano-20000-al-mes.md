@@ -6,7 +6,7 @@ date: "2026-11-07"
 keywords: "cuanto me descuentan de isr si gano 20000 al mes, isr 20000 pesos, tabla isr 2026, cuanto pago de isr al mes, subsidio para el empleo 2026"
 ---
 
-Si tu sueldo bruto es de **$20,000 al mes**, tu patrón te retiene **$2,383.65 de ISR** y te quedan **$17,616.35 netos**, antes de la cuota del IMSS. Eso es el 11.92% de tu sueldo, aunque tu tasa marginal sea 21.36%. La diferencia entre esas dos cifras es la clave para entender tu nómina: la tasa se aplica solo a una parte de tu sueldo, no a todo.
+Si tu sueldo bruto es de **$20,000 al mes**, tu patrón te retiene **$2,383.65 de ISR** y te quedan **$17,616.35 netos**, antes de la cuota del IMSS. Eso es el 11.92% de tu sueldo, aunque tu tasa marginal sea 21.36%. La diferencia entre esas dos cifras es la clave para entender tu nómina: la tasa se aplica solo a una parte de tu sueldo, no a todo. En la práctica el ISR real es un poco menor, porque primero se resta la [cuota del IMSS](/es/blog/cuanto-me-descuentan-de-imss): con $20,000 brutos, el IMSS es de $547.33 y el ISR baja a $2,266.74, así que tu neto real es de $17,185.93.
 
 Respuesta corta: el ISR se calcula con la tarifa mensual del artículo 96 de la LISR, publicada en el Anexo 8 de la Resolución Miscelánea Fiscal 2026. Abajo está la tabla completa y cuánto pagas según tu sueldo.
 
