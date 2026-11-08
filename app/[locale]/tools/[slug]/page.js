@@ -26,6 +26,7 @@ import GradientTool from '@/components/dev-tools/GradientTool';
 import PaletteTool from '@/components/dev-tools/PaletteTool';
 import HtmlEntitiesTool from '@/components/dev-tools/HtmlEntitiesTool';
 import XmlFormatterTool from '@/components/dev-tools/XmlFormatterTool';
+import YamlTool from '@/components/dev-tools/YamlTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -225,6 +226,8 @@ export default async function ToolPage({ params }) {
             <HtmlEntitiesTool lang={locale} />
           ) : tool.customComponent.startsWith('xml-') ? (
             <XmlFormatterTool lang={locale} />
+          ) : tool.customComponent.startsWith('yaml-') ? (
+            <YamlTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
