@@ -27,6 +27,7 @@ import PaletteTool from '@/components/dev-tools/PaletteTool';
 import HtmlEntitiesTool from '@/components/dev-tools/HtmlEntitiesTool';
 import XmlFormatterTool from '@/components/dev-tools/XmlFormatterTool';
 import YamlTool from '@/components/dev-tools/YamlTool';
+import CssMinifierTool from '@/components/dev-tools/CssMinifierTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -228,6 +229,8 @@ export default async function ToolPage({ params }) {
             <XmlFormatterTool lang={locale} />
           ) : tool.customComponent.startsWith('yaml-') ? (
             <YamlTool lang={locale} />
+          ) : tool.customComponent.startsWith('cssmin-') ? (
+            <CssMinifierTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
