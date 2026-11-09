@@ -58,7 +58,7 @@ Most $100K earners are paid every two weeks: $100,000 / 26 = **$3,846.15 per pay
 
 ## Should you borrow the max?
 
-$2,333 a month is the ceiling, not the target. On $100K gross, take-home is roughly $6,500 a month after federal tax and FICA, before state tax, so a maxed-out payment leaves about $4,200 for everything else. Buying 10 to 15% under your max is the sweet spot between building equity and sleeping well. For the price view, see [how much house you can afford on a $100K salary](/blog/how-much-house-can-i-afford-100k-salary).
+$2,333 a month is the ceiling, not the target. On $100K gross, take-home is roughly $6,500 a month after federal tax and FICA, before state tax, so a maxed-out payment leaves about $4,200 for everything else. Buying 10 to 15% under your max is the sweet spot between building equity and sleeping well. For the price view, see [how much house you can afford on a $100K salary](/blog/how-much-house-can-i-afford-100k-salary). For the next rung up, see [what mortgage you can afford on a $110K salary](/blog/what-mortgage-can-i-afford-110k-salary).
 
 ## FAQ
 
