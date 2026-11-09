@@ -75,7 +75,7 @@ Revisa tres cosas: el divisor correcto (30 días y 8, 7 o 7.5 horas según tu tu
 
 Si detectas un faltante, pide a Recursos Humanos el desglose semanal y guarda tus registros de asistencia: son tu prueba. Si no se corrige, acude a la **PROFEDET** para asesoría gratuita.
 
-Y recuerda que las horas extra no son la única prestación que se calcula con tu salario diario: también determinan [cuánto te toca de prima vacacional](/es/blog/prima-vacacional-cuanto-me-toca-2026) y [tu finiquito si sales de la empresa](/es/blog/finiquito-vs-liquidacion-cuanto-me-toca).
+Y recuerda que las horas extra no son la única prestación que se calcula con tu salario diario: también determinan [cuánto te toca de prima vacacional](/es/blog/prima-vacacional-cuanto-me-toca-2026), [tu prima dominical si trabajas en domingo](/es/blog/prima-dominical-cuanto-me-pagan-por-trabajar-en-domingo) y [tu finiquito si sales de la empresa](/es/blog/finiquito-vs-liquidacion-cuanto-me-toca).
 
 ## FAQ
 
