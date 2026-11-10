@@ -83,4 +83,6 @@ On the price side, the $343,000 loan buys roughly a **$355,000 to $428,000 home*
 ### Does a $110K salary guarantee mortgage approval?
 No. The 28/36 math sets the ceiling, but approval also depends on credit score, employment history, down payment source and the appraisal.
 
+Earning a bit more? See [what mortgage can I afford on a $120K salary](/blog/what-mortgage-can-i-afford-120k-salary) - same math, $372K-$443K range.
+
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
