@@ -56,7 +56,7 @@ Los primeros pagos son casi todo interés: en el mes 1, unos $75 de tus $208 van
 
 Si el préstamo es para un auto, los números cambian un poco por el enganche y el valor del vehículo: mira [cuánto pagarás por un auto](/es/blog/calculadora-prestamo-auto-cuanto-pagar).
 
-¿Necesitas un monto mayor? Mira la tabla completa para [un préstamo de $50,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-50000).
+¿Necesitas un monto mayor? Mira la tabla completa para [un préstamo de $20,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-20000) o para [un préstamo de $50,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-50000).
 
 ## Preguntas frecuentes
 
