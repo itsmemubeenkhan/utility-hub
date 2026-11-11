@@ -29,6 +29,7 @@ import XmlFormatterTool from '@/components/dev-tools/XmlFormatterTool';
 import YamlTool from '@/components/dev-tools/YamlTool';
 import CssMinifierTool from '@/components/dev-tools/CssMinifierTool';
 import JsMinifierTool from '@/components/dev-tools/JsMinifierTool';
+import HtmlMinifierTool from '@/components/dev-tools/HtmlMinifierTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -234,6 +235,8 @@ export default async function ToolPage({ params }) {
             <CssMinifierTool lang={locale} />
           ) : tool.customComponent.startsWith('jsmin-') ? (
             <JsMinifierTool lang={locale} />
+          ) : tool.customComponent.startsWith('htmlmin-') ? (
+            <HtmlMinifierTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
