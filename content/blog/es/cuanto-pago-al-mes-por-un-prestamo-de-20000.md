@@ -62,7 +62,7 @@ El plazo de 5 años suele ser el punto medio más sano: $415.17 al mes y $4,910 
 
 Si el préstamo es para un auto, los números cambian un poco por el enganche y el valor del vehículo: mira [cuánto pagarás por un auto](/es/blog/calculadora-prestamo-auto-cuanto-pagar).
 
-¿Necesitas un monto menor? Mira la tabla completa para [un préstamo de $10,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-10000). ¿Un monto mayor? Mira [un préstamo de $50,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-50000).
+¿Necesitas un monto menor? Mira la tabla completa para [un préstamo de $10,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-10000). ¿Un monto intermedio? Mira [un préstamo de $30,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-30000). ¿Un monto mayor? Mira [un préstamo de $50,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-50000).
 
 ## Preguntas frecuentes
 
