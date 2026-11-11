@@ -155,6 +155,9 @@ export default async function SalaryPage({ params }) {
           from an hourly rate to a salary? The free{' '}
           <Link href="/tools/salary-to-hourly-calculator">salary to hourly calculator</Link>{' '}
           converts both ways with your own hours per week and weeks worked per year.
+          To see how the deductions on this salary appear line by line, create the
+          document itself with the free{' '}
+          <Link href="/tools/pay-stub-generator">pay stub generator</Link>.
         </p>
       </div>
 

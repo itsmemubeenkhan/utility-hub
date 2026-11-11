@@ -92,7 +92,7 @@ A $23,500 401(k) contribution in 2026 cuts taxable income from $83,900 to $60,40
 
 ## Biweekly paycheck estimate
 
-$79,180 ÷ 26 = **~$3,045 per biweekly paycheck** (before state tax and pre-tax deductions). Get your exact number with our [salary paycheck calculator](/tools/salary-paycheck-calculator).
+$79,180 ÷ 26 = **~$3,045 per biweekly paycheck** (before state tax and pre-tax deductions). Get your exact number with our [salary paycheck calculator](/tools/salary-paycheck-calculator). To see how those same deductions appear line by line on the document itself, lay them out with our [free pay stub generator](/tools/pay-stub-generator).
 
 **More in this series:** [Tax on $80K salary](/blog/how-much-tax-will-i-pay-on-80000-salary) · [1099 vs W-2: which pays more?](/tools/1099-vs-w2-calculator) · [How much tax on 1099 income?](/blog/how-much-tax-on-1099-income)
 

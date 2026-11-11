@@ -58,7 +58,7 @@ Your employer matches this amount behind the scenes, but as a W-2 employee you n
 
 ## Biweekly paycheck estimate
 
-$65,110 ÷ 26 pay periods = **~$2,504 per biweekly paycheck** (before state tax and any pre-tax deductions). Run your exact numbers - including your state - with our [salary paycheck calculator](/tools/salary-paycheck-calculator).
+$65,110 ÷ 26 pay periods = **~$2,504 per biweekly paycheck** (before state tax and any pre-tax deductions). Run your exact numbers - including your state - with our [salary paycheck calculator](/tools/salary-paycheck-calculator). To see how those same deductions appear line by line on the document itself, lay them out with our [free pay stub generator](/tools/pay-stub-generator).
 
 **More in this series:** [Tax on $100K salary](/blog/how-much-tax-will-i-pay-on-100000-salary) · [1099 vs W-2: which pays more?](/tools/1099-vs-w2-calculator)
 
