@@ -46,7 +46,7 @@ Yes, with 20% down. A $500,000 home at 6.5% on a 30-year loan fits the $3,033.33
 | 10% ($50,000) | $450,000 | $2,844.31 | $475 | $168.75 | $3,488.06 | $454.72 over |
 | 20% ($100,000) | $400,000 | $2,528.27 | $475 | $0 | $3,003.27 | $30.06 under |
 
-With 20% down, the $500,000 home fits with $30.06 a month to spare. With 10% down it runs $454.72 over the guideline, mostly because of PMI. If you are short on down payment, read [what is PMI and how to avoid it](/blog/what-is-pmi-how-to-avoid) before you decide. To afford a $550,000 home comfortably at 6.5% with 20% down, you would need roughly a **$140,000 salary**: a $440,000 loan costs $2,781.10 in principal and interest plus $475 in taxes and insurance, or $3,256.10 a month, which needs $11,628.93 a month gross at the 28% rule.
+With 20% down, the $500,000 home fits with $30.06 a month to spare. With 10% down it runs $454.72 over the guideline, mostly because of PMI. If you are short on down payment, read [what is PMI and how to avoid it](/blog/what-is-pmi-how-to-avoid) before you decide. To afford a $550,000 home comfortably at 6.5% with 20% down, you would need [roughly a **$140,000 salary**](/blog/what-mortgage-can-i-afford-140k-salary): a $440,000 loan costs $2,781.10 in principal and interest plus $475 in taxes and insurance, or $3,256.10 a month, which needs $11,628.93 a month gross at the 28% rule.
 
 ## If you have other debts
 
