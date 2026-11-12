@@ -30,6 +30,7 @@ import YamlTool from '@/components/dev-tools/YamlTool';
 import CssMinifierTool from '@/components/dev-tools/CssMinifierTool';
 import JsMinifierTool from '@/components/dev-tools/JsMinifierTool';
 import HtmlMinifierTool from '@/components/dev-tools/HtmlMinifierTool';
+import HtmlToTextTool from '@/components/dev-tools/HtmlToTextTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -237,6 +238,8 @@ export default async function ToolPage({ params }) {
             <JsMinifierTool lang={locale} />
           ) : tool.customComponent.startsWith('htmlmin-') ? (
             <HtmlMinifierTool lang={locale} />
+          ) : tool.customComponent.startsWith('htmltotext-') ? (
+            <HtmlToTextTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
