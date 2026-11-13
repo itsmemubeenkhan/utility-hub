@@ -58,7 +58,7 @@ Una regla práctica: el pago del préstamo no debería pasar el 10-15% de tu ing
 
 **2. Mejora tu tasa antes de pedir.** La diferencia entre 12% y 9% a 5 años son $74.30 menos al mes y $4,458.28 menos en interés total. Negociar o mejorar tu crédito unas semanas puede valer miles. Compara ofertas con el [comparador de préstamos](/es/tools/comparador-de-prestamos).
 
-**3. Da un enganche o pide menos.** Cada $1,000 menos que pides te ahorra unos $20.76 al mes (al 9% a 5 años). Si puedes cubrir parte del gasto con ahorros, el préstamo se vuelve mucho más barato. Para un monto menor, mira [cuánto pagas al mes por $10,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-10000). Para un monto mayor, mira [cuánto pagas al mes por $100,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-100000).
+**3. Da un enganche o pide menos.** Cada $1,000 menos que pides te ahorra unos $20.76 al mes (al 9% a 5 años). Si puedes cubrir parte del gasto con ahorros, el préstamo se vuelve mucho más barato. Para un monto menor, mira [cuánto pagas al mes por $10,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-10000). Para un monto un poco mayor, mira [cuánto pagas al mes por $60,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-60000). Para un monto mayor, mira [cuánto pagas al mes por $100,000](/es/blog/cuanto-pago-al-mes-por-un-prestamo-de-100000).
 
 **4. Haz pagos extra cuando puedas.** No bajan el pago mensual fijo, pero acortan la vida del préstamo y recortan el interés total. Con $200 extra al mes sobre el ejemplo del 9% a 5 años, terminas en 49 meses en vez de 60 y ahorras $2,487.92 en interés. Incluso $100 extra al mes te ahorra $1,387.44 y 6 meses. Nuestra [calculadora para pagar deudas](/es/tools/calculadora-para-pagar-deudas) muestra el ahorro exacto.
 
