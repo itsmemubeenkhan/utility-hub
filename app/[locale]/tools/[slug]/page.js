@@ -32,6 +32,7 @@ import JsMinifierTool from '@/components/dev-tools/JsMinifierTool';
 import HtmlMinifierTool from '@/components/dev-tools/HtmlMinifierTool';
 import HtmlToTextTool from '@/components/dev-tools/HtmlToTextTool';
 import JsonToXmlTool from '@/components/dev-tools/JsonToXmlTool';
+import ImageBase64Tool from '@/components/dev-tools/ImageBase64Tool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -201,6 +202,8 @@ export default async function ToolPage({ params }) {
             <HexColorTool lang={locale} />
           ) : tool.customComponent.startsWith('barcode-') ? (
             <BarcodeTool lang={locale} />
+          ) : tool.customComponent.startsWith('imagebase64-') ? (
+            <ImageBase64Tool lang={locale} />
           ) : tool.customComponent.startsWith('image-') ? (
             <ImageCompressorTool lang={locale} />
           ) : tool.customComponent.startsWith('base64-') ? (
