@@ -133,6 +133,6 @@ On $160K, your housing budget is **$1,723.08 per paycheck** ($6,153.85 gross per
 ### Is the 28/36 rule a law?
 No - it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.
 
-Wondering what the rung below looks like? See [what mortgage can I afford on a $150K salary](/blog/what-mortgage-can-i-afford-150k-salary) - same math, $475K-$554K range.
+Wondering what the rung below looks like? See [what mortgage can I afford on a $150K salary](/blog/what-mortgage-can-i-afford-150k-salary) - same math, $475K-$554K range. Earning a bit more? See [what mortgage can I afford on a $170K salary](/blog/what-mortgage-can-i-afford-170k-salary) - same math, $548K-$628K range.
 
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
