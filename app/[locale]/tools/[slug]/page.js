@@ -33,6 +33,7 @@ import HtmlMinifierTool from '@/components/dev-tools/HtmlMinifierTool';
 import HtmlToTextTool from '@/components/dev-tools/HtmlToTextTool';
 import JsonToXmlTool from '@/components/dev-tools/JsonToXmlTool';
 import ImageBase64Tool from '@/components/dev-tools/ImageBase64Tool';
+import SqlFormatterTool from '@/components/dev-tools/SqlFormatterTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -246,6 +247,8 @@ export default async function ToolPage({ params }) {
             <HtmlToTextTool lang={locale} />
           ) : tool.customComponent.startsWith('jsontoxml-') ? (
             <JsonToXmlTool lang={locale} />
+          ) : tool.customComponent.startsWith('sqlformatter-') ? (
+            <SqlFormatterTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
