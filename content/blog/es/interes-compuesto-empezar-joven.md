@@ -47,6 +47,7 @@ Con 3% de inflación, $1 millón en 30 años compra lo que ~$412,000 compran hoy
 
 - Aporta lo suficiente a tu 401(k) para obtener el **match completo de tu empleador**: un rendimiento instantáneo del 50–100%.
 - Automatiza aportaciones mensuales a una IRA o cuenta de corretaje; la automatización vence a la fuerza de voluntad.
+- Si prefieres empezar con cero riesgo, los Cetes son el primer paso más simple: mira [cuánto ganas si inviertes $10,000 en Cetes](/es/blog/cuanto-gano-si-invierto-10000-en-cetes).
 - Usa fondos indexados de bajo costo; las comisiones se componen en tu contra igual que los rendimientos se componen a tu favor.
 - Aumenta tus aportaciones 1% cada año; no lo sentirás, pero el interés compuesto sí.
 
