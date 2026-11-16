@@ -34,6 +34,7 @@ import HtmlToTextTool from '@/components/dev-tools/HtmlToTextTool';
 import JsonToXmlTool from '@/components/dev-tools/JsonToXmlTool';
 import ImageBase64Tool from '@/components/dev-tools/ImageBase64Tool';
 import SqlFormatterTool from '@/components/dev-tools/SqlFormatterTool';
+import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
 import { EMBEDS } from '@/lib/embed-snippets';
@@ -249,6 +250,8 @@ export default async function ToolPage({ params }) {
             <JsonToXmlTool lang={locale} />
           ) : tool.customComponent.startsWith('sqlformatter-') ? (
             <SqlFormatterTool lang={locale} />
+          ) : tool.customComponent.startsWith('pwstrength-') ? (
+            <PasswordStrengthTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
