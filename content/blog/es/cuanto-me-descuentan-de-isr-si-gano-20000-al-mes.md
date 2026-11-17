@@ -29,7 +29,7 @@ Cálculo con el sueldo bruto como base gravable. Tu recibo real puede variar un 
 | $80,000 | **$17,736.08** | **$62,263.92** | 22.17% |
 | $100,000 | **$23,736.08** | **$76,263.92** | 23.74% |
 
-Fíjate en el salto entre $10,000 y $12,000: el ISR pasa de $193.37 a $946.62. No es un error: a los $10,000 todavía les toca el subsidio para el empleo, y a los $12,000 ya no. Si quieres el neto completo con todas las deducciones, revisa [cómo calcular tu salario neto](/es/blog/como-calcular-tu-salario-neto).
+Fíjate en el salto entre $10,000 y $12,000: el ISR pasa de $193.37 a $946.62. No es un error: a los $10,000 todavía les toca el subsidio para el empleo, y a los $12,000 ya no. Si ganas $30,000, el cálculo paso a paso para tu sueldo está en nuestra guía de [cuánto te descuentan de ISR si ganas $30,000 al mes](/es/blog/cuanto-me-descuentan-de-isr-si-gano-30000-al-mes). Si quieres el neto completo con todas las deducciones, revisa [cómo calcular tu salario neto](/es/blog/como-calcular-tu-salario-neto).
 
 ## Ejemplo paso a paso: ISR de $20,000 al mes
 
