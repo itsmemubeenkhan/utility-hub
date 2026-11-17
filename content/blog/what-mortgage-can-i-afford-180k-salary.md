@@ -138,6 +138,6 @@ On $180K, your housing budget is **$1,938.46 per paycheck** ($6,923.08 gross per
 ### Is the 28/36 rule a law?
 No - it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.
 
-Wondering what the rung below looks like? See [what mortgage can I afford on a $170K salary](/blog/what-mortgage-can-i-afford-170k-salary) - same math, $548K-$628K range.
+Wondering what the rung below looks like? See [what mortgage can I afford on a $170K salary](/blog/what-mortgage-can-i-afford-170k-salary) - same math, $548K-$628K range. And the rung above: [what mortgage can I afford on a $190K salary](/blog/what-mortgage-can-i-afford-190k-salary) - $622K-$701K, where a $750K house finally fits.
 
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
