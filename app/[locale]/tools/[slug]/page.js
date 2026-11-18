@@ -35,6 +35,7 @@ import JsonToXmlTool from '@/components/dev-tools/JsonToXmlTool';
 import ImageBase64Tool from '@/components/dev-tools/ImageBase64Tool';
 import SqlFormatterTool from '@/components/dev-tools/SqlFormatterTool';
 import HashGeneratorTool from '@/components/dev-tools/HashGeneratorTool';
+import AsciiArtTool from '@/components/dev-tools/AsciiArtTool';
 import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
@@ -251,6 +252,8 @@ export default async function ToolPage({ params }) {
             <JsonToXmlTool lang={locale} />
           ) : tool.customComponent.startsWith('sqlformatter-') ? (
             <SqlFormatterTool lang={locale} />
+          ) : tool.customComponent.startsWith('ascii-') ? (
+            <AsciiArtTool lang={locale} />
           ) : tool.customComponent.startsWith('hash-') ? (
             <HashGeneratorTool lang={locale} />
           ) : tool.customComponent.startsWith('pwstrength-') ? (
