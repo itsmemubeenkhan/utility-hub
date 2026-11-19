@@ -138,6 +138,6 @@ On $200K, your housing budget is **$2,153.85 per paycheck** ($7,692.31 gross per
 ### Is the 28/36 rule a law?
 No - it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.
 
-Wondering what the rung below looks like? See [what mortgage can I afford on a $190K salary](/blog/what-mortgage-can-i-afford-190k-salary) - same math, $622K-$701K range.
+Wondering what the rung below looks like? See [what mortgage can I afford on a $190K salary](/blog/what-mortgage-can-i-afford-190k-salary) - same math, $622K-$701K range. One rung up: [what mortgage can I afford on a $210K salary](/blog/what-mortgage-can-i-afford-210k-salary) - $696K-$775K range, and the first rung where an $850K house fits.
 
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
