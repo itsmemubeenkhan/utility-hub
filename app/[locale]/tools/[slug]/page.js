@@ -36,6 +36,7 @@ import ImageBase64Tool from '@/components/dev-tools/ImageBase64Tool';
 import SqlFormatterTool from '@/components/dev-tools/SqlFormatterTool';
 import HashGeneratorTool from '@/components/dev-tools/HashGeneratorTool';
 import AsciiArtTool from '@/components/dev-tools/AsciiArtTool';
+import MarkdownTableTool from '@/components/dev-tools/MarkdownTableTool';
 import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
@@ -222,6 +223,8 @@ export default async function ToolPage({ params }) {
             <TimestampTool lang={locale} />
           ) : tool.customComponent.startsWith('jwt-') ? (
             <JwtTool lang={locale} />
+          ) : tool.customComponent.startsWith('markdowntable-') ? (
+            <MarkdownTableTool lang={locale} />
           ) : tool.customComponent.startsWith('markdown-') ? (
             <MarkdownTool lang={locale} />
           ) : tool.customComponent.startsWith('regex-') ? (
