@@ -37,6 +37,7 @@ import SqlFormatterTool from '@/components/dev-tools/SqlFormatterTool';
 import HashGeneratorTool from '@/components/dev-tools/HashGeneratorTool';
 import AsciiArtTool from '@/components/dev-tools/AsciiArtTool';
 import MarkdownTableTool from '@/components/dev-tools/MarkdownTableTool';
+import XmlToJsonTool from '@/components/dev-tools/XmlToJsonTool';
 import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
@@ -239,6 +240,8 @@ export default async function ToolPage({ params }) {
             <PaletteTool lang={locale} />
           ) : tool.customComponent.startsWith('htmlentities-') ? (
             <HtmlEntitiesTool lang={locale} />
+          ) : tool.customComponent.startsWith('xmltojson-') ? (
+            <XmlToJsonTool lang={locale} />
           ) : tool.customComponent.startsWith('xml-') ? (
             <XmlFormatterTool lang={locale} />
           ) : tool.customComponent.startsWith('yaml-') ? (
