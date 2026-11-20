@@ -93,4 +93,10 @@ Usually not without breaking the affordability rules. The average new car costs 
 ### Should I get a 72-month loan to afford a more expensive car?
 No. On a $25,000 car at 7%, a 72-month loan costs **$1,952.72 more in interest** than a 48-month loan ($5,688 vs $3,735) and keeps you underwater longer as the car depreciates. The 20/4/10 rule caps financing at 4 years for exactly this reason - if the car only fits your budget on a 6- or 7-year loan, it does not fit your budget.
 
+### If I make $60K a year, how much car can I afford?
+The same range: a car priced around **$14,000–$18,000**. Making $60K a year means $5,000 a month gross, so the 20/4/10 rule caps your total car costs at $500/month, and after insurance and fuel that leaves about $250–$350/month for the payment itself. At 7% APR over 48 months with 20% down, that payment buys a $14,000–$18,000 car.
+
+### What kind of car can I afford making $60K?
+At a $14,000–$18,000 budget, the realistic picks are **2–4 year old used cars**: a compact or midsize sedan, a small hatchback, or an older compact SUV just off lease. You get modern safety tech and cheaper insurance without the steep first-year depreciation of a new car. A brand-new car on $60K almost always means breaking the payment rules above.
+
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*

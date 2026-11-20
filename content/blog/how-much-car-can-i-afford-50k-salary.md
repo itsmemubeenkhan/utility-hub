@@ -20,3 +20,5 @@ The 15% rule: car costs ≤ 15% of take-home pay.
 $480 covers: payment + insurance + gas + maintenance. A $350 payment + $150 insurance = $500. Already over!
 
 [Calculate yours](/tools/car-affordability-calculator)
+
+Earning closer to $60K instead? See [how much car you can afford on a $60K salary](/blog/how-much-car-can-i-afford-60k-salary) for the same rules run at the next salary rung.
