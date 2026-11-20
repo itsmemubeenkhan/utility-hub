@@ -91,6 +91,6 @@ No. El subsidio para el empleo de $535.65 al mes solo aplica a quienes ganan has
 Unos **$4,553.91 de ISR por quincena**, que es más o menos la mitad de los $9,107.82 mensuales. A eso súmale unos $716.26 de IMSS por quincena, así que tu depósito quincenal es de unos $19,729.83.
 
 ### ¿Qué pasa si mi sueldo sube a más de $55,736.68?
-Entras al renglón 8 de la tarifa, donde la tasa marginal sube de 23.52% a 30%. Por ejemplo, con $60,000 al mes el ISR ya es de $11,736.08, casi $2,628.26 más que con $50,000, aunque el bruto solo subió $10,000. Por eso conviene negociar parte de un aumento grande como prestaciones exentas si te deja justo arriba de ese límite.
+Entras al renglón 8 de la tarifa, donde la tasa marginal sube de 23.52% a 30%. Por ejemplo, con $60,000 al mes el ISR ya es de $11,736.08, casi $2,628.26 más que con $50,000, aunque el bruto solo subió $10,000. El detalle completo de ese sueldo está en nuestra guía de [cuánto te descuentan de ISR si ganas $60,000 al mes](/es/blog/cuanto-me-descuentan-de-isr-si-gano-60000-al-mes). Por eso conviene negociar parte de un aumento grande como prestaciones exentas si te deja justo arriba de ese límite.
 
 *Estimaciones con fines de planificación, no asesoría financiera.*
