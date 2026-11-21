@@ -143,4 +143,6 @@ No - it is a guideline most conventional lenders follow. FHA loans allow up to 3
 
 Wondering what the rung below looks like? See [what mortgage can I afford on a $210K salary](/blog/what-mortgage-can-i-afford-210k-salary) - same math, $696K-$775K range.
 
+Earning more? See [what mortgage can I afford on a $230K salary](/blog/what-mortgage-can-i-afford-230k-salary) - same math, $770K-$849K range, and the first rung where a $950K house fits.
+
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
