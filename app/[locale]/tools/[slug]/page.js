@@ -38,6 +38,7 @@ import HashGeneratorTool from '@/components/dev-tools/HashGeneratorTool';
 import AsciiArtTool from '@/components/dev-tools/AsciiArtTool';
 import MarkdownTableTool from '@/components/dev-tools/MarkdownTableTool';
 import XmlToJsonTool from '@/components/dev-tools/XmlToJsonTool';
+import ReadabilityTool from '@/components/text-tools/ReadabilityTool';
 import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
 import EmbedSnippet from '@/components/EmbedSnippet';
@@ -264,6 +265,8 @@ export default async function ToolPage({ params }) {
             <HashGeneratorTool lang={locale} />
           ) : tool.customComponent.startsWith('pwstrength-') ? (
             <PasswordStrengthTool lang={locale} />
+          ) : tool.customComponent.startsWith('readability-') ? (
+            <ReadabilityTool lang={locale} />
           ) : (
             <TextTool component={tool.customComponent} lang={locale} />
           )
