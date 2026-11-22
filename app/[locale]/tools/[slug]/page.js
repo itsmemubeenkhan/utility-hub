@@ -38,6 +38,7 @@ import HashGeneratorTool from '@/components/dev-tools/HashGeneratorTool';
 import AsciiArtTool from '@/components/dev-tools/AsciiArtTool';
 import MarkdownTableTool from '@/components/dev-tools/MarkdownTableTool';
 import XmlToJsonTool from '@/components/dev-tools/XmlToJsonTool';
+import JsonToYamlTool from '@/components/dev-tools/JsonToYamlTool';
 import ReadabilityTool from '@/components/text-tools/ReadabilityTool';
 import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
@@ -201,6 +202,8 @@ export default async function ToolPage({ params }) {
             <PayStubTool lang={locale} />
           ) : tool.customComponent.startsWith('password-') ? (
             <PasswordTool lang={locale} />
+          ) : tool.customComponent.startsWith('jsontoyaml-') ? (
+            <JsonToYamlTool lang={locale} />
           ) : tool.customComponent.startsWith('json-') ? (
             <JsonFormatterTool lang={locale} />
           ) : tool.customComponent.startsWith('uuid-') ? (
