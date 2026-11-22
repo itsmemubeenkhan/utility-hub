@@ -154,6 +154,6 @@ No. The back-end cap with $1,500 in debts is $5,400 a month, still above your $5
 ### Is the 28/36 rule a law?
 No - it is a guideline most conventional lenders follow. FHA loans allow up to 31/43, and some lenders stretch further, but borrowing above these ratios sharply increases the risk of becoming house poor.
 
-Wondering what the rung below looks like? See [what mortgage can I afford on a $220K salary](/blog/what-mortgage-can-i-afford-220k-salary) - same math, $733K-$812K range.
+Wondering what the rung below looks like? See [what mortgage can I afford on a $220K salary](/blog/what-mortgage-can-i-afford-220k-salary) - same math, $733K-$812K range. And the rung above: [what mortgage can I afford on a $240K salary](/blog/what-mortgage-can-i-afford-240k-salary) - same math, $807K-$886K range, and the first rung where a $1M house fits.
 
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
