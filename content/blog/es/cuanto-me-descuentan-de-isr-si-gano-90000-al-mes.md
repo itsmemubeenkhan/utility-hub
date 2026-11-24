@@ -32,7 +32,7 @@ Cálculo con el sueldo bruto como base gravable y la tarifa mensual del artícul
 | $70,000 | **$14,736.08** | **$55,263.92** | 21.05% |
 | $80,000 | **$17,736.08** | **$62,263.92** | 22.17% |
 | $90,000 | **$20,736.08** | **$69,263.92** | 23.04% |
-| $100,000 | **$23,736.08** | **$76,263.92** | 23.74% |
+| [$100,000](/es/blog/cuanto-me-descuentan-de-isr-si-gano-100000-al-mes) | **$23,736.08** | **$76,263.92** | 23.74% |
 
 El valor de $10,000 incluye el subsidio para el empleo de $535.65: la tarifa sola da $729.02 y el subsidio lo baja a $193.37. A partir de $12,000 el subsidio ya no aplica, porque el tope es de $11,492.66 al mes. Si quieres el neto completo con todas las deducciones, revisa [cómo calcular tu salario neto](/es/blog/como-calcular-tu-salario-neto).
 
