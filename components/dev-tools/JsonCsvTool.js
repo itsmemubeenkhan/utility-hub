@@ -242,7 +242,7 @@ export default function JsonCsvTool({ lang }) {
       {stats && (
         <div style={{ background: '#eff6ff', borderRadius: 10, padding: 12, marginBottom: 16, fontSize: '0.95rem' }}>
           <strong>{stats.rows} {s.rows}</strong> · <strong>{stats.columns} {s.columns}</strong>
-          {stats.columnNames && <span style={{ color: '#475569' }}> — {stats.columnNames.join(', ')}</span>}
+          {stats.columnNames && <span style={{ color: '#475569' }}> - {stats.columnNames.join(', ')}</span>}
         </div>
       )}
 

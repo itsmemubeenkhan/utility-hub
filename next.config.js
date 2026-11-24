@@ -6,7 +6,7 @@ const nextConfig = {
     optimizeCss: true,
   },
   async redirects() {
-    // Canonical domain is https://www.theutilityhub.online — consolidate link
+    // Canonical domain is https://www.theutilityhub.online - consolidate link
     // equity by 301-redirecting the apex domain (and any other host variants).
     return [
       {

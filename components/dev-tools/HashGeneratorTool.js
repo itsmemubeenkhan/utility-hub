@@ -397,7 +397,7 @@ export default function HashGeneratorTool({ lang = 'en' }) {
                   </button>
                 </div>
                 <div style={{ ...monoStyle, marginTop: 6, color: '#111827' }}>
-                  {displayValue(row) || '—'}
+                  {displayValue(row) || '-'}
                 </div>
               </div>
             ))}

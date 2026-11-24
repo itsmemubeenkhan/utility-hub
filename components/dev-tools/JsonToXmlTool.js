@@ -256,7 +256,7 @@ export default function JsonToXmlTool({ lang = 'en' }) {
 
       {result && !result.ok && result.error && (
         <p style={{ color: '#b91c1c', fontSize: '0.9rem', marginTop: 8 }}>
-          {t.invalid}: {t.line} {result.error.line}, {t.column} {result.error.column} — {result.error.message}
+          {t.invalid}: {t.line} {result.error.line}, {t.column} {result.error.column} - {result.error.message}
         </p>
       )}
 
