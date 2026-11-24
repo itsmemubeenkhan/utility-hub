@@ -82,7 +82,7 @@ Not quite, even with 20% down. The $1.1M house is the new frontier at this salar
 | 10% ($110,000) | $990,000 | $6,257.47 | $500 | $453.75 | $7,211.22 | $1,377.89 over |
 | 20% ($220,000) | $880,000 | $5,562.20 | $500 | $0 | $6,062.20 | $228.87 over |
 
-With 20% down, the $1,100,000 home runs $228.87 a month over the guideline. To afford a $1,100,000 home comfortably at 6.5% with 20% down, you would need roughly a **$260,000 salary**: an $880,000 loan costs $5,562.20 in principal and interest plus $500 in taxes and insurance, or $6,062.20 a month.
+With 20% down, the $1,100,000 home runs $228.87 a month over the guideline. To afford a $1,100,000 home comfortably at 6.5% with 20% down, you would need roughly a **$260,000 salary**: an $880,000 loan costs $5,562.20 in principal and interest plus $500 in taxes and insurance, or $6,062.20 a month. See the full breakdown in [what mortgage can I afford on a $260K salary](/blog/what-mortgage-can-i-afford-260k-salary), where the $1.1M house finally fits by $4.47 a month.
 
 ## If you have other debts
 
