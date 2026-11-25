@@ -58,7 +58,7 @@ Yes, with 20% down, and the 10% down route is close now. A $950,000 home is a co
 | 10% ($95,000) | $855,000 | $5,404.18 | $500 | $391.88 | $6,296.06 | $229.39 over |
 | 20% ($190,000) | $760,000 | $4,803.72 | $500 | $0 | $5,303.72 | $762.95 under |
 
-With 20% down, the $950,000 home runs $762.95 a month under the guideline. To afford a $950,000 home with only 10% down, you would need roughly a **$270,000 salary**: an $855,000 loan costs $5,404.18 in principal and interest plus $500 in taxes and insurance and $391.88 in PMI, or $6,296.06 a month.
+With 20% down, the $950,000 home runs $762.95 a month under the guideline. To afford a $950,000 home with only 10% down, you would need roughly a **[$270,000 salary](/blog/what-mortgage-can-i-afford-270k-salary)**: an $855,000 loan costs $5,404.18 in principal and interest plus $500 in taxes and insurance and $391.88 in PMI, or $6,296.06 a month.
 
 ## Can you afford a $1,000,000 house on a $260K salary?
 
