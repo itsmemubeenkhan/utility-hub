@@ -33,8 +33,8 @@ Cálculo con el sueldo bruto como base gravable y la tarifa mensual del artícul
 | $80,000 | **$17,736.08** | **$62,263.92** | 22.17% |
 | $90,000 | **$20,736.08** | **$69,263.92** | 23.04% |
 | $100,000 | **$23,736.08** | **$76,263.92** | 23.74% |
-| $110,000 | **$26,807.88** | **$83,192.12** | 24.37% |
-| $120,000 | **$30,007.88** | **$89,992.12** | 25.01% |
+| $110,000 | **$26,807.87** | **$83,192.13** | 24.37% |
+| $120,000 | **$30,007.87** | **$89,992.13** | 25.01% |
 
 El valor de $10,000 incluye el subsidio para el empleo de $535.65: la tarifa sola da $729.02 y el subsidio lo baja a $193.37. A partir de $12,000 el subsidio ya no aplica, porque el tope es de $11,492.66 al mes. Si quieres el neto completo con todas las deducciones, revisa [cómo calcular tu salario neto](/es/blog/como-calcular-tu-salario-neto).
 
@@ -48,7 +48,7 @@ Con $100,000 caes en el renglón 8 de la tarifa: límite inferior $55,736.69, cu
 
 Tu tasa marginal es 30%, pero tu tasa efectiva es solo 23.74% porque la mayor parte de tu sueldo ya viene gravada en los renglones anteriores, y eso está incluido en la cuota fija. Nadie paga su tasa marginal sobre todo el sueldo. En un año, ese mismo sueldo paga **$284,832.96 de ISR** (12 por $23,736.08), antes del ajuste anual.
 
-Un detalle que vale oro: sigues en el renglón 8, el mismo que con $60,000, $70,000, $80,000 y $90,000. Pero el siguiente salto, al renglón 9 donde la tasa sube a 32%, llega en $106,410.51. Te faltan solo $6,410.51 para cruzarlo, así que un aumento moderado ya te puede dejar en el renglón nuevo. Con $110,000 al mes el ISR ya es de $26,807.88, con una tasa efectiva de 24.37%.
+Un detalle que vale oro: sigues en el renglón 8, el mismo que con $60,000, $70,000, $80,000 y $90,000. Pero el siguiente salto, al renglón 9 donde la tasa sube a 32%, llega en $106,410.51. Te faltan solo $6,410.51 para cruzarlo, así que un aumento moderado ya te puede dejar en el renglón nuevo. Con [$110,000 al mes](/es/blog/cuanto-me-descuentan-de-isr-si-gano-110000-al-mes) el ISR ya es de $26,807.87, con una tasa efectiva de 24.37%.
 
 ## Tu neto real: ISR más IMSS (y el tope de 25 UMA)
 
@@ -97,6 +97,6 @@ Porque tu salario base de cotización está topado en 25 UMA al día ($2,932.75 
 Unos **$11,868.04 de ISR por quincena**, que es más o menos la mitad de los $23,736.08 mensuales. A eso súmale unos $1,215.64 de IMSS por quincena, así que tu depósito quincenal es de unos $36,916.32.
 
 ### ¿Qué pasa si mi sueldo sube a más de $106,410.51?
-Entras al renglón 9 de la tarifa, donde la tasa marginal sube de 30% a 32%. Por ejemplo, con $110,000 al mes el ISR ya es de $26,807.88, con una tasa efectiva de 24.37%, y con $120,000 llega a $30,007.88, con una tasa efectiva de 25.01%. Por eso conviene negociar parte de un aumento grande como prestaciones exentas si te deja justo arriba de ese límite.
+Entras al renglón 9 de la tarifa, donde la tasa marginal sube de 30% a 32%. Por ejemplo, con $110,000 al mes el ISR ya es de $26,807.87, con una tasa efectiva de 24.37%, y con $120,000 llega a $30,007.87, con una tasa efectiva de 25.01%. Por eso conviene negociar parte de un aumento grande como prestaciones exentas si te deja justo arriba de ese límite.
 
 *Estimaciones con fines de planificación, no asesoría financiera.*
