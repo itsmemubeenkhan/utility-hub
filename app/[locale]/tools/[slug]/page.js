@@ -41,6 +41,7 @@ import XmlToJsonTool from '@/components/dev-tools/XmlToJsonTool';
 import JsonToYamlTool from '@/components/dev-tools/JsonToYamlTool';
 import BinaryTool from '@/components/dev-tools/BinaryTool';
 import DedupeTool from '@/components/dev-tools/DedupeTool';
+import Rot13Tool from '@/components/dev-tools/Rot13Tool';
 import ReadabilityTool from '@/components/text-tools/ReadabilityTool';
 import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
@@ -224,6 +225,8 @@ export default async function ToolPage({ params }) {
             <BinaryTool lang={locale} />
           ) : tool.customComponent.startsWith('dedupe-') ? (
             <DedupeTool lang={locale} />
+          ) : tool.customComponent.startsWith('rot13-') ? (
+            <Rot13Tool lang={locale} />
           ) : tool.customComponent.startsWith('url-') ? (
             <UrlTool lang={locale} />
           ) : tool.customComponent.startsWith('diff-') ? (
