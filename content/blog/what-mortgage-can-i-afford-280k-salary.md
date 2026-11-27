@@ -195,4 +195,6 @@ No - it is a guideline most conventional lenders follow. FHA loans allow up to 3
 
 Wondering what the rung below looks like? See [what mortgage can I afford on a $270K salary](/blog/what-mortgage-can-i-afford-270k-salary) - same math, $918K-$997K range, where a $950K house fit with 10% down by just $3.94 a month and the $1.2M house was $267.85 over.
 
+One rung up: [what mortgage can I afford on a $290K salary](/blog/what-mortgage-can-i-afford-290k-salary) - $991K-$1,071K range, where the $1.2M house finally fits with 20% down, by $198.81 a month.
+
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
