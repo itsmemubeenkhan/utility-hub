@@ -52,7 +52,7 @@ Con $130,000 caes en el renglón 9 de la tarifa: límite inferior $106,410.51, c
 
 Tu tasa marginal es 32%, pero tu tasa efectiva es solo 25.54% porque la mayor parte de tu sueldo ya viene gravada en los renglones anteriores, y eso está incluido en la cuota fija. Nadie paga su tasa marginal sobre todo el sueldo. En un año, ese mismo sueldo paga **$398,494.44 de ISR** (12 por $33,207.87), antes del ajuste anual.
 
-Un detalle que vale oro: el renglón 9 llega hasta $141,880.66, así que te faltan $11,880.67 para el siguiente salto, al renglón 10 donde la tasa sube a 34%. Con $140,000 el ISR es de $36,407.87 (26.01% efectiva) y con $150,000 ya caes en el renglón 10: el ISR sería de $39,770.25, con una tasa efectiva de 26.51%. Con $160,000 llega a $43,170.25, con una tasa efectiva de 26.98%.
+Un detalle que vale oro: el renglón 9 llega hasta $141,880.66, así que te faltan $11,880.67 para el siguiente salto, al renglón 10 donde la tasa sube a 34%. Con [$140,000 el ISR es de $36,407.87](/es/blog/cuanto-me-descuentan-de-isr-si-gano-140000-al-mes) (26.01% efectiva) y con $150,000 ya caes en el renglón 10: el ISR sería de $39,770.25, con una tasa efectiva de 26.51%. Con $160,000 llega a $43,170.25, con una tasa efectiva de 26.98%.
 
 ## Tu neto real: ISR más IMSS (y el tope de 25 UMA)
 
