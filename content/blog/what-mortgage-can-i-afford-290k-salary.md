@@ -198,4 +198,6 @@ No - it is a guideline most conventional lenders follow. FHA loans allow up to 3
 
 Wondering what the rung below looks like? See [what mortgage can I afford on a $280K salary](/blog/what-mortgage-can-i-afford-280k-salary) - same math, $955K-$1,034K range, where a $1.2M house was still $34.52 a month out of reach and the $1M house with 10% down ran $67.78 over.
 
+One rung up: [what mortgage can I afford on a $300K salary](/blog/what-mortgage-can-i-afford-300k-salary) - $1,028K-$1,107K range, where the $1.25M house finally fits with 20% down, by $179.32 a month.
+
 *Estimates for planning only, not financial advice. Actual approval depends on your lender.*
