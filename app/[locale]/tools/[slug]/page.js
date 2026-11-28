@@ -44,6 +44,7 @@ import DedupeTool from '@/components/dev-tools/DedupeTool';
 import Rot13Tool from '@/components/dev-tools/Rot13Tool';
 import IsbnTool from '@/components/dev-tools/IsbnTool';
 import TextRepeaterTool from '@/components/dev-tools/TextRepeaterTool';
+import CcValidatorTool from '@/components/dev-tools/CcValidatorTool';
 import ReadabilityTool from '@/components/text-tools/ReadabilityTool';
 import PasswordStrengthTool from '@/components/password/PasswordStrengthTool';
 import JsonLd from '@/components/JsonLd';
@@ -233,6 +234,8 @@ export default async function ToolPage({ params }) {
             <IsbnTool lang={locale} />
           ) : tool.customComponent.startsWith('textrepeater-') ? (
             <TextRepeaterTool lang={locale} />
+          ) : tool.customComponent.startsWith('ccvalidator-') ? (
+            <CcValidatorTool lang={locale} />
           ) : tool.customComponent.startsWith('url-') ? (
             <UrlTool lang={locale} />
           ) : tool.customComponent.startsWith('diff-') ? (
