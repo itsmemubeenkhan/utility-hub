@@ -232,7 +232,7 @@ export default async function ToolPage({ params }) {
             <Rot13Tool lang={locale} />
           ) : tool.customComponent.startsWith('isbn-') ? (
             <IsbnTool lang={locale} />
-          ) : tool.customComponent.startsWith('textrepeater-') ? (
+          ) : tool.customComponent.startsWith('text-repeater') ? (
             <TextRepeaterTool lang={locale} />
           ) : tool.customComponent.startsWith('ccvalidator-') ? (
             <CcValidatorTool lang={locale} />
